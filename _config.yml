@@ -1,0 +1,42 @@
+# ========================================
+# 시스템 설정 (수정하지 않아도 됩니다)
+# ========================================
+# 유저 설정은 content/main-page-content.md에서 관리합니다.
+
+# GitHub Pages 배포 설정
+baseurl: "" # GitHub Pages 프로젝트명 (예: "/speak_event_page")
+url: "" # 커스텀 도메인 (예: "https://speaksale.kr")
+
+# 사이트 기본 정보
+title: "speaksale.kr"
+description: "스픽 할인코드 공식 파트너 사이트"
+author: "Speaksale.kr"
+lang: ko_KR
+
+# Jekyll 플러그인
+plugins:
+  - jekyll-seo-tag
+
+# 마크다운 엔진
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# content/ 폴더 안의 .md 파일에 기본 레이아웃 자동 적용
+defaults:
+  - scope:
+      path: "content"
+    values:
+      layout: "default"
+
+# 제외할 파일
+exclude:
+  - README.md
+  - .gitignore
+  - desktop.ini
+  - "*.txt"
+  - content/_template.md
+
+# 인코딩
+encoding: utf-8

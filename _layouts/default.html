@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  {% include head.html %}
+  {% if page.brand_color %}
+  <style>
+    :root {
+      --speak-blue: {{ page.brand_color }};
+    }
+  </style>
+  {% endif %}
+</head>
+<body>
+  <main class="container">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+</body>
+</html>

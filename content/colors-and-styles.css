@@ -1,0 +1,483 @@
+/* ========================================
+   🎨 색상 및 디자인 변수 (여기서 수정!)
+   ======================================== */
+:root {
+  /* 스픽 브랜드 색상 - 여기만 바꾸면 사이트 전체 색상 변경! */
+  --speak-blue: #1C49FF;
+  --speak-blue-hover: #1539CC;
+  --speak-blue-light: #E6EBFF;
+
+  /* 색상 팔레트 */
+  --text-dark: #1a1a1a;
+  --text-gray: #666666;
+  --text-light: #999999;
+  --bg-white: #ffffff;
+  --bg-gray-light: #f8f9fa;
+  --border-color: #e0e0e0;
+
+  /* 레이아웃 */
+  --max-width: 1200px;
+  --content-width: 900px;
+  --mobile-padding: 20px;
+  --desktop-padding: 40px;
+
+  /* 타이포그래피 */
+  --font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-size-base: 16px;
+  --font-size-large: 18px;
+  --line-height-base: 1.8;
+
+  /* 버튼 */
+  --button-radius: 8px;
+  --button-padding: 16px 32px;
+  --button-min-height: 44px;
+
+  /* 애니메이션 */
+  --transition-speed: 0.3s;
+}
+
+/* ========================================
+   기본 스타일
+   ======================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--font-size-base);
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family);
+  color: var(--text-dark);
+  line-height: var(--line-height-base);
+  background-color: var(--bg-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ========================================
+   컨테이너 & 레이아웃
+   ======================================== */
+.container {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: var(--desktop-padding) var(--mobile-padding);
+}
+
+main {
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
+/* ========================================
+   타이포그래피
+   ======================================== */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.4;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  color: var(--text-dark);
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-top: 0.5em;
+  border-bottom: 3px solid var(--speak-blue);
+  padding-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.8em;
+  color: var(--speak-blue);
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+strong {
+  font-weight: 700;
+}
+
+/* 제목과 버튼 영역의 강조 텍스트만 브랜드 색상 적용 */
+h2 strong,
+h3 strong,
+.cta-buttons strong {
+  color: var(--speak-blue);
+}
+
+a {
+  color: var(--speak-blue);
+  text-decoration: underline;
+  transition: color var(--transition-speed);
+}
+
+a:hover {
+  color: var(--speak-blue-hover);
+}
+
+hr {
+  border: none;
+  border-top: 2px solid var(--border-color);
+  margin: 3em 0;
+}
+
+/* ========================================
+   이미지
+   ======================================== */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2em auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* ========================================
+   버튼 스타일 (CSS 버튼 - 이미지 아님!)
+   ======================================== */
+.cta-button {
+  display: inline-block;
+  background: var(--speak-blue);
+  color: white !important;
+  padding: var(--button-padding);
+  border-radius: var(--button-radius);
+  font-size: var(--font-size-large);
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none !important;
+  min-height: var(--button-min-height);
+  transition: all var(--transition-speed);
+  box-shadow: 0 4px 12px rgba(28, 73, 255, 0.3);
+  cursor: pointer;
+  border: none;
+  line-height: 1.5;
+}
+
+.cta-button:hover {
+  background: var(--speak-blue-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(28, 73, 255, 0.4);
+}
+
+.cta-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(28, 73, 255, 0.3);
+}
+
+/* 플러스 버튼 강조 */
+.cta-button-plus {
+  background: linear-gradient(135deg, var(--speak-blue) 0%, #0033CC 100%);
+  font-size: 1.1em;
+}
+
+/* 버튼 컨테이너 */
+.cta-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin: 2em 0;
+}
+
+.final-cta {
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+/* ========================================
+   표 (테이블) 스타일
+   ======================================== */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+thead {
+  background: var(--speak-blue);
+  color: white;
+}
+
+th, td {
+  padding: 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+th {
+  font-weight: 700;
+}
+
+tbody tr:hover {
+  background: var(--bg-gray-light);
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ========================================
+   학습 단계 섹션
+   ======================================== */
+.learning-step {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 3em 0;
+  padding: 2em;
+  background: var(--bg-gray-light);
+  border-radius: 12px;
+  border-left: 4px solid var(--speak-blue);
+}
+
+.step-content {
+  flex: 1.2;
+}
+
+.step-media {
+  flex: 0.8;
+}
+
+.learning-step h3 {
+  margin-top: 0;
+  color: var(--speak-blue);
+}
+
+/* 비디오 스타일 */
+video {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  display: block;
+}
+
+/* ========================================
+   FAQ 스타일 (details/summary)
+   ======================================== */
+details {
+  background: var(--bg-gray-light);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin: 1em 0;
+  border-left: 4px solid var(--speak-blue);
+  cursor: pointer;
+  transition: all var(--transition-speed);
+}
+
+details:hover {
+  background: var(--speak-blue-light);
+}
+
+details[open] {
+  padding-bottom: 20px;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+summary {
+  font-weight: 700;
+  font-size: 1.1em;
+  color: var(--speak-blue);
+  cursor: pointer;
+  list-style: none;
+  padding: 8px 0;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::before {
+  content: '▶ ';
+  display: inline-block;
+  margin-right: 8px;
+  transition: transform var(--transition-speed);
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details p {
+  margin-top: 1em;
+  padding-left: 24px;
+  color: var(--text-dark);
+}
+
+/* ========================================
+   리스트 스타일
+   ======================================== */
+ul, ol {
+  margin: 1.5em 0;
+  padding-left: 2em;
+}
+
+li {
+  margin-bottom: 0.8em;
+  line-height: 1.8;
+}
+
+/* ========================================
+   Footer 스타일
+   ======================================== */
+.site-footer {
+  background: var(--bg-gray-light);
+  padding: 40px 20px;
+  margin-top: 60px;
+  border-top: 1px solid var(--border-color);
+}
+
+.site-footer .container {
+  max-width: var(--content-width);
+}
+
+.site-footer hr {
+  margin: 0 0 20px 0;
+  border-top: 1px solid var(--border-color);
+}
+
+.disclaimer {
+  font-size: 0.9em;
+  color: var(--text-gray);
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.copyright {
+  font-size: 0.85em;
+  color: var(--text-light);
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* ========================================
+   유틸리티 클래스
+   ======================================== */
+.text-center {
+  text-align: center;
+}
+
+.mt-1 { margin-top: 1em; }
+.mt-2 { margin-top: 2em; }
+.mt-3 { margin-top: 3em; }
+
+.mb-1 { margin-bottom: 1em; }
+.mb-2 { margin-bottom: 2em; }
+.mb-3 { margin-bottom: 3em; }
+
+/* ========================================
+   모바일 반응형 디자인
+   ======================================== */
+@media (max-width: 768px) {
+  :root {
+    --font-size-base: 15px;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.2em;
+  }
+
+  .container {
+    padding: 20px 16px;
+  }
+
+  /* 버튼을 모바일에서 전체 너비로 */
+  .cta-button {
+    width: 100%;
+    display: block;
+    padding: 18px 24px;
+    font-size: 1em;
+  }
+
+  .cta-buttons {
+    gap: 12px;
+  }
+
+  /* 학습 단계를 모바일에서 세로 배치 */
+  .learning-step {
+    flex-direction: column;
+    padding: 1.5em;
+    gap: 20px;
+  }
+
+  .step-content,
+  .step-media {
+    flex: 1;
+    width: 100%;
+  }
+
+  /* 표 스크롤 */
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  th, td {
+    padding: 12px;
+    font-size: 0.9em;
+  }
+
+  /* 이미지 마진 조정 */
+  img {
+    margin: 1.5em auto;
+  }
+}
+
+/* ========================================
+   태블릿 최적화
+   ======================================== */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .container {
+    padding: 30px 24px;
+  }
+
+  .learning-step {
+    gap: 24px;
+  }
+}
+
+/* ========================================
+   프린트 스타일
+   ======================================== */
+@media print {
+  .cta-button,
+  .site-footer {
+    display: none;
+  }
+
+  body {
+    font-size: 12pt;
+  }
+
+  h1 {
+    page-break-before: always;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+}

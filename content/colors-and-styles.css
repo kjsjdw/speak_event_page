@@ -72,8 +72,8 @@ body {
   padding: var(--desktop-padding) var(--mobile-padding);
 }
 
-main {
-  padding-top: 70px;
+main.container {
+  padding-top: 80px;
   padding-bottom: 60px;
 }
 

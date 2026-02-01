@@ -201,6 +201,7 @@ img {
   flex-direction: column;
   gap: 16px;
   margin: 2em 0;
+  scroll-margin-top: 100px;
 }
 
 .final-cta {

@@ -4,23 +4,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-# macOS
+# OS files
 .DS_Store
-
-# Windows
 Thumbs.db
 desktop.ini
-
-# Editor files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.bak

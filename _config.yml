@@ -4,8 +4,8 @@
 # 유저 설정은 _data/ 폴더와 content/ 폴더에서 관리합니다.
 
 # GitHub Pages 배포 설정
-baseurl: "/speak_event_page" # GitHub Pages 프로젝트명
-url: "" # 커스텀 도메인 설정 시 여기에 입력 (예: "https://speaksale.kr")
+baseurl: ""
+url: "https://speaksale.kr"
 
 # 사이트 기본 정보
 title: "speaksale.kr"

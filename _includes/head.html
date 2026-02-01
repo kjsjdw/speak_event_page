@@ -2,15 +2,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<!-- SEO 메타 태그 (jekyll-seo-tag 플러그인이 title, description, og 태그 자동 생성) -->
+<!-- SEO 메타 태그 (_data/seo.yml에서 자동 읽기) -->
+<title>{{ site.data.seo.title | default: site.title }}</title>
+<meta name="description" content="{{ site.data.seo.description }}">
+<meta name="keywords" content="{{ site.data.seo.keywords }}">
 <meta name="author" content="{{ site.author }}">
-<meta name="keywords" content="스픽, 스픽 할인코드, 스픽 프리미엄, 스픽 플러스, 영어회화, AI 영어, 스픽 가격, 스픽 할인, Speak 할인">
+
+<!-- Canonical URL (구글 SEO 중복 방지 - 중요!) -->
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+
+<!-- Open Graph (카카오톡/페이스북 공유 시 미리보기) -->
+<meta property="og:title" content="{{ site.data.seo.title }}">
+<meta property="og:description" content="{{ site.data.seo.description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/content/images/01-main-hero.jpg">
 
 <!-- CSS 스타일시트 -->
 <link rel="stylesheet" href="{{ '/content/colors-and-styles.css' | relative_url }}">
 
 <!-- Pretendard 폰트 (Speak.com 스타일) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css">
-
-<!-- Jekyll SEO Tag (title, description, Open Graph 자동 생성) -->
-{% seo %}

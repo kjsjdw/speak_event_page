@@ -1,21 +1,17 @@
 # ========================================
 # 시스템 설정 (수정하지 않아도 됩니다)
 # ========================================
-# 유저 설정은 content/main-page-content.md에서 관리합니다.
+# 유저 설정은 _data/ 폴더와 content/ 폴더에서 관리합니다.
 
 # GitHub Pages 배포 설정
 baseurl: "/speak_event_page" # GitHub Pages 프로젝트명
-url: "" # 커스텀 도메인 (예: "https://speaksale.kr")
+url: "" # 커스텀 도메인 설정 시 여기에 입력 (예: "https://speaksale.kr")
 
 # 사이트 기본 정보
 title: "speaksale.kr"
 description: "스픽 할인코드 공식 파트너 사이트"
 author: "Speaksale.kr"
 lang: ko_KR
-
-# Jekyll 플러그인
-plugins:
-  - jekyll-seo-tag
 
 # 마크다운 엔진
 markdown: kramdown

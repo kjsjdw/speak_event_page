@@ -165,7 +165,10 @@ brand_color: "#1C49FF"
 ![스픽 프리미엄 플러스 PDF 혜택 상세](content/images/03-pdf-gift-detail.jpg)
 
 <div class="cta-buttons final-cta">
+  <a href="{{ page.premium_link }}" class="cta-button" target="_blank" rel="noopener">
+    👉 스픽 프리미엄 할인 자동 적용하기 (60% OFF)
+  </a>
   <a href="{{ page.premium_plus_link }}" class="cta-button cta-button-plus" target="_blank" rel="noopener">
-    👉 새해 한정 혜택 받고 스픽 시작하기
+    👉 스픽 프리미엄 플러스 최저가 가입하기 (68% OFF)
   </a>
 </div>

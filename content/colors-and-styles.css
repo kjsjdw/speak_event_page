@@ -1,39 +1,39 @@
 /* ========================================
-   🎨 색상 및 디자인 변수 (여기서 수정!)
+   색상 및 디자인 변수 (여기서 수정!)
+   Speak.com 스타일 — 깔끔하고 모던한 디자인
    ======================================== */
 :root {
-  /* 스픽 브랜드 색상 - 여기만 바꾸면 사이트 전체 색상 변경! */
+  /* 스픽 브랜드 색상 */
   --speak-blue: #1C49FF;
   --speak-blue-hover: #1539CC;
-  --speak-blue-light: #E6EBFF;
+  --speak-blue-light: #E7E9FF;
 
   /* 색상 팔레트 */
-  --text-dark: #1a1a1a;
+  --text-dark: #333333;
   --text-gray: #666666;
   --text-light: #999999;
   --bg-white: #ffffff;
-  --bg-gray-light: #f8f9fa;
-  --border-color: #e0e0e0;
+  --bg-gray-light: #f5f7fd;
+  --border-color: #e8eaf0;
 
   /* 레이아웃 */
-  --max-width: 1200px;
-  --content-width: 900px;
+  --content-width: 720px;
   --mobile-padding: 20px;
   --desktop-padding: 40px;
 
   /* 타이포그래피 */
-  --font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --font-size-base: 16px;
   --font-size-large: 18px;
-  --line-height-base: 1.8;
+  --line-height-base: 1.75;
 
   /* 버튼 */
-  --button-radius: 8px;
-  --button-padding: 16px 32px;
+  --button-radius: 50px;
+  --button-padding: 18px 40px;
   --button-min-height: 44px;
 
   /* 애니메이션 */
-  --transition-speed: 0.3s;
+  --transition-speed: 0.2s;
 }
 
 /* ========================================
@@ -79,30 +79,29 @@ main {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 1.4;
-  margin-top: 2em;
+  margin-top: 2.5em;
   margin-bottom: 1em;
   color: var(--text-dark);
 }
 
 h1 {
-  font-size: 2.2em;
+  font-size: 1.8em;
   margin-top: 0.5em;
-  border-bottom: 3px solid var(--speak-blue);
-  padding-bottom: 0.5em;
 }
 
 h2 {
-  font-size: 1.8em;
-  color: var(--speak-blue);
+  font-size: 1.5em;
+  color: var(--text-dark);
 }
 
 h3 {
-  font-size: 1.4em;
+  font-size: 1.25em;
   margin-top: 1.5em;
+  font-weight: 600;
 }
 
 p {
-  margin-bottom: 1.2em;
+  margin-bottom: 1.5em;
 }
 
 strong {
@@ -118,67 +117,68 @@ h3 strong,
 
 a {
   color: var(--speak-blue);
-  text-decoration: underline;
-  transition: color var(--transition-speed);
+  text-decoration: none;
+  transition: color var(--transition-speed) ease;
 }
 
 a:hover {
   color: var(--speak-blue-hover);
+  text-decoration: underline;
 }
 
 hr {
   border: none;
-  border-top: 2px solid var(--border-color);
-  margin: 3em 0;
+  border-top: 1px solid var(--border-color);
+  margin: 4em 0;
 }
 
 /* ========================================
    이미지
    ======================================== */
 img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   display: block;
   margin: 2em auto;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  image-rendering: -webkit-optimize-contrast;
 }
 
 /* ========================================
-   버튼 스타일 (CSS 버튼 - 이미지 아님!)
+   버튼 스타일 (Speak.com pill 버튼)
    ======================================== */
 .cta-button {
   display: inline-block;
-  background: var(--speak-blue);
+  background: var(--text-dark);
   color: white !important;
   padding: var(--button-padding);
   border-radius: var(--button-radius);
-  font-size: var(--font-size-large);
-  font-weight: 700;
+  font-size: 1.05em;
+  font-weight: 600;
   text-align: center;
   text-decoration: none !important;
   min-height: var(--button-min-height);
-  transition: all var(--transition-speed);
-  box-shadow: 0 4px 12px rgba(28, 73, 255, 0.3);
+  transition: all var(--transition-speed) ease;
   cursor: pointer;
   border: none;
   line-height: 1.5;
+  opacity: 0.95;
 }
 
 .cta-button:hover {
-  background: var(--speak-blue-hover);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(28, 73, 255, 0.4);
+  opacity: 1;
+  transform: translateY(-1px);
 }
 
 .cta-button:active {
   transform: translateY(0);
-  box-shadow: 0 2px 8px rgba(28, 73, 255, 0.3);
+  opacity: 0.9;
 }
 
-/* 플러스 버튼 강조 */
+/* 플러스 버튼 강조 — 브랜드 블루 */
 .cta-button-plus {
-  background: linear-gradient(135deg, var(--speak-blue) 0%, #0033CC 100%);
+  background: var(--speak-blue);
   font-size: 1.1em;
 }
 
@@ -186,7 +186,7 @@ img {
 .cta-buttons {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 16px;
   margin: 2em 0;
 }
 
@@ -203,13 +203,14 @@ table {
   border-collapse: collapse;
   margin: 2em 0;
   background: white;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  border-radius: 12px;
   overflow: hidden;
+  border: 1px solid var(--border-color);
 }
 
 thead {
-  background: var(--speak-blue);
+  background: var(--text-dark);
   color: white;
 }
 
@@ -220,7 +221,7 @@ th, td {
 }
 
 th {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 tbody tr:hover {
@@ -232,17 +233,18 @@ tbody tr:last-child td {
 }
 
 /* ========================================
-   학습 단계 섹션
+   학습 단계 섹션 (동영상+글 카드 박스)
    ======================================== */
 .learning-step {
   display: flex;
   align-items: center;
   gap: 30px;
-  margin: 3em 0;
-  padding: 2em;
-  background: var(--bg-gray-light);
-  border-radius: 12px;
-  border-left: 4px solid var(--speak-blue);
+  margin: 2.5em 0;
+  padding: 2.5em;
+  background: var(--bg-white);
+  border-radius: 16px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
 }
 
 .step-content {
@@ -255,14 +257,13 @@ tbody tr:last-child td {
 
 .learning-step h3 {
   margin-top: 0;
-  color: var(--speak-blue);
+  color: var(--text-dark);
 }
 
 /* 비디오 스타일 */
 video {
   width: 100%;
   border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   display: block;
 }
 
@@ -270,29 +271,31 @@ video {
    FAQ 스타일 (details/summary)
    ======================================== */
 details {
-  background: var(--bg-gray-light);
-  border-radius: 8px;
+  background: var(--bg-white);
+  border-radius: 12px;
   padding: 16px 20px;
   margin: 1em 0;
-  border-left: 4px solid var(--speak-blue);
+  border: 1px solid var(--border-color);
   cursor: pointer;
-  transition: all var(--transition-speed);
+  transition: all var(--transition-speed) ease;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }
 
 details:hover {
-  background: var(--speak-blue-light);
+  border-color: var(--speak-blue-light);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 details[open] {
   padding-bottom: 20px;
-  background: white;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border-color: var(--speak-blue-light);
 }
 
 summary {
-  font-weight: 700;
-  font-size: 1.1em;
-  color: var(--speak-blue);
+  font-weight: 600;
+  font-size: 1.05em;
+  color: var(--text-dark);
   cursor: pointer;
   list-style: none;
   padding: 8px 0;
@@ -303,20 +306,21 @@ summary::-webkit-details-marker {
 }
 
 summary::before {
-  content: '▶ ';
+  content: '+ ';
   display: inline-block;
   margin-right: 8px;
-  transition: transform var(--transition-speed);
+  font-weight: 700;
+  transition: transform var(--transition-speed) ease;
 }
 
 details[open] summary::before {
-  transform: rotate(90deg);
+  content: '- ';
 }
 
 details p {
   margin-top: 1em;
   padding-left: 24px;
-  color: var(--text-dark);
+  color: var(--text-gray);
 }
 
 /* ========================================
@@ -329,7 +333,7 @@ ul, ol {
 
 li {
   margin-bottom: 0.8em;
-  line-height: 1.8;
+  line-height: 1.75;
 }
 
 /* ========================================
@@ -389,15 +393,15 @@ li {
   }
 
   h1 {
-    font-size: 1.8em;
-  }
-
-  h2 {
     font-size: 1.5em;
   }
 
+  h2 {
+    font-size: 1.3em;
+  }
+
   h3 {
-    font-size: 1.2em;
+    font-size: 1.15em;
   }
 
   .container {
@@ -433,17 +437,23 @@ li {
   table {
     display: block;
     overflow-x: auto;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   th, td {
     padding: 12px;
-    font-size: 0.9em;
+    font-size: 0.85em;
   }
 
   /* 이미지 마진 조정 */
   img {
     margin: 1.5em auto;
+    border-radius: 12px;
+  }
+
+  /* 카드 라운드 축소 */
+  .learning-step {
+    border-radius: 12px;
   }
 }
 

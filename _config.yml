@@ -26,6 +26,10 @@ defaults:
     values:
       layout: "default"
 
+# robots.txt는 빌드에 포함 (exclude의 *.txt에서 제외)
+include:
+  - robots.txt
+
 # 제외할 파일
 exclude:
   - README.md

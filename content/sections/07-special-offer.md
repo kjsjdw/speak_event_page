@@ -9,11 +9,11 @@
 
 ![스픽 프리미엄 플러스 PDF 혜택 상세](content/images/03-pdf-gift-detail.jpg)
 
-<div class="cta-buttons final-cta">
+<div class="cta-buttons final-cta" id="cta-section">
   <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="noopener">
-    👉 스픽 프리미엄 할인 자동 적용하기 (60% OFF)
+    👉 스픽 프리미엄 할인코드 자동 적용하기
   </a>
   <a href="{{ site.data.links.premium_plus }}" class="cta-button cta-button-plus" target="_blank" rel="noopener">
-    👉 스픽 프리미엄 플러스 최저가 가입하기 (68% OFF)
+    👉 스픽 프리미엄 플러스 할인코드 자동 적용하기
   </a>
 </div>

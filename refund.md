@@ -4,7 +4,7 @@ title: 스픽 환불 규정 및 결제 방법 안내 (2026)
 permalink: /refund/
 hide_header_cta: true
 ---
-
+<style>.sticky-header { display: none !important; }</style>
 ## 스픽(Speak) 환불 규정 및 이용 안내
 
 스픽 멤버십을 결제하신 후 서비스 이용에 만족하지 못하셨다면, 아래 안내된 절차에 따라 간편하게 환불을 진행하실 수 있습니다. 사용자분들의 편의를 위해 핵심적인 환불 기준과 방법을 정리해 드립니다.

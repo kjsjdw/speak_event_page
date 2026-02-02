@@ -371,7 +371,7 @@ li {
   display: inline-block;
   background: var(--speak-blue);
   color: white !important;
-  padding: 16px 36px;
+  padding: 24px 36px;
   border-radius: var(--button-radius);
   font-size: 1em;
   font-weight: 600;

@@ -38,5 +38,9 @@ exclude:
   - "*.txt"
   - content/_template.md
 
+# 플러그인
+plugins:
+  - jekyll-feed
+
 # 인코딩
 encoding: utf-8

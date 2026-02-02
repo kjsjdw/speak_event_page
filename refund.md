@@ -2,6 +2,7 @@
 layout: default
 title: 스픽 환불 규정 및 결제 방법 안내 (2026)
 permalink: /refund/
+hide_header_cta: true
 ---
 
 ## 스픽(Speak) 환불 규정 및 이용 안내

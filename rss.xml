@@ -4,18 +4,24 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.data.seo.title | xml_escape }}</title>
-    <description>{{ site.data.seo.description | xml_escape }}</description>
+    <title>{{ site.data.seo.title | default: site.title | xml_escape }}</title>
+    <description>{{ site.data.seo.description | default: site.description | xml_escape }}</description>
     <link>{{ site.url }}/</link>
     <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml"/>
+
     <language>ko</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+
     <item>
-      <title>{{ site.data.seo.title | xml_escape }}</title>
-      <description>{{ site.data.seo.description | xml_escape }}</description>
+      <title>{{ site.data.seo.title | default: site.title | xml_escape }}</title>
+
+      <description>스픽 정보가 최신 버전으로 업데이트 되었습니다. ({{ site.time | date: "%Y년 %m월 %d일" }})</description>
+
       <link>{{ site.url }}/</link>
       <guid isPermaLink="true">{{ site.url }}/</guid>
+
       <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     </item>
+
   </channel>
 </rss>

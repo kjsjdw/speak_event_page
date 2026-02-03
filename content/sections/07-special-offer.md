@@ -1,19 +1,575 @@
-## 6. 지금 가입하면 드리는 특별 한정 혜택 🎁
-**2026 새해 프로모션 기간: ~ 2026. 2. 18**
+/* ========================================
+   색상 및 디자인 변수 (여기서 수정!)
+   Speak.com 스타일 — 깔끔하고 모던한 디자인
+   ======================================== */
+:root {
+  /* 스픽 브랜드 색상 */
+  --speak-blue: #1C49FF;
+  --speak-blue-hover: #1539CC;
+  --speak-blue-light: #E7E9FF;
 
-지금 **'프리미엄 플러스'**를 선택하시는 분들께만 드리는 공식 파트너 전용 추가 선물입니다.
+  /* 오렌지 (플러스 버튼) */
+  --speak-orange: #FF5A00;
+  --speak-orange-hover: #E64F00;
 
-* **비즈니스 영어 필수 표현 PDF:** 회의, 이메일, 실무 핵심 문장 가이드
-* **여행 영어 필수 표현 PDF:** 공항, 호텔, 식당 등 필수 회화 가이드
-* 해당 혜택은 파트너 전용 링크를 통해 가입 시에만 자동 제공되니 기한을 꼭 확인하세요.
+  /* 색상 팔레트 */
+  --text-dark: #333333;
+  --text-gray: #666666;
+  --text-light: #999999;
+  --bg-white: #ffffff;
+  --bg-gray-light: #f5f7fd;
+  --border-color: #e8eaf0;
 
-![스픽 프리미엄 플러스 PDF 혜택 상세](content/images/03-pdf-gift-detail.jpg)
+  /* 레이아웃 */
+  --content-width: 720px;
+  --mobile-padding: 20px;
+  --desktop-padding: 40px;
 
-<div class="cta-buttons final-cta" id="cta-section">
-  <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="noopener">
-    👉 스픽 프리미엄<br>할인코드 자동 적용하기
-  </a>
-  <a href="{{ site.data.links.premium_plus }}" class="cta-button cta-button-plus" target="_blank" rel="noopener">
-    👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기
-  </a>
-</div>
+  /* 타이포그래피 */
+  --font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-size-base: 16px;
+  --font-size-large: 18px;
+  --line-height-base: 1.75;
+
+  /* 버튼 */
+  --button-radius: 50px;
+  --button-padding: 18px 40px;
+  --button-min-height: 44px;
+
+  /* 애니메이션 */
+  --transition-speed: 0.2s;
+}
+
+/* ========================================
+   기본 스타일
+   ======================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--font-size-base);
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family);
+  color: var(--text-dark);
+  line-height: var(--line-height-base);
+  background-color: var(--bg-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ========================================
+   컨테이너 & 레이아웃
+   ======================================== */
+.container {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: var(--desktop-padding) var(--mobile-padding);
+}
+
+main.container {
+  padding-top: 125px;
+  padding-bottom: 60px;
+}
+
+/* ========================================
+   타이포그래피
+   ======================================== */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.4;
+  margin-top: 2em;
+  margin-bottom: 1.0em;
+  color: var(--text-dark);
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-top: 0.1em;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: var(--text-dark);
+}
+
+h3 {
+  font-size: 1.25em;
+  margin-top: 1.5em;
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 1.5em;
+}
+
+strong {
+  font-weight: 700;
+}
+
+/* 제목과 버튼 영역의 강조 텍스트만 브랜드 색상 적용 */
+h2 strong,
+h3 strong,
+.cta-buttons strong {
+  color: var(--speak-blue);
+}
+
+a {
+  color: var(--speak-blue);
+  text-decoration: none;
+  transition: color var(--transition-speed) ease;
+}
+
+a:hover {
+  color: var(--speak-blue-hover);
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2.5em 0;
+}
+
+/* ========================================
+   이미지
+   ======================================== */
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 2em auto;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  image-rendering: -webkit-optimize-contrast;
+}
+
+/* ========================================
+   버튼 스타일 (Speak.com pill 버튼)
+   ======================================== */
+.cta-button {
+  display: inline-block;
+  background: var(--speak-blue);
+  color: white !important;
+  padding: var(--button-padding);
+  border-radius: var(--button-radius);
+  font-size: 1.05em;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none !important;
+  min-height: var(--button-min-height);
+  transition: all var(--transition-speed) ease;
+  cursor: pointer;
+  border: none;
+  line-height: 1.5;
+}
+
+.cta-button:hover {
+  transform: translateY(-3px);
+  background: var(--speak-blue-hover);
+  box-shadow: none; /* 그림자 제거 */
+}
+
+.cta-button:active {
+  /* scale(0.96)이 버튼을 실제로 꾹 누르는 느낌을 만듭니다 */
+  transform: scale(0.96) translateY(1px); 
+  background: var(--speak-blue-hover); /* 누를 때 진한 파란색 유지 */
+  box-shadow: none; /* 그림자 제거 */
+  transition: transform 0.1s ease-out; 
+}
+
+/* 플러스 버튼 강조 — 오렌지 */
+.cta-button-plus {
+  background: var(--speak-orange);
+  font-size: 1.1em;
+}
+
+.cta-button-plus:hover {
+  background: var(--speak-orange-hover);
+  transform: translateY(-3px); /* 위로 살짝 올라감 */
+  box-shadow: none; /* 그림자 제거 */
+}
+
+.cta-button-plus:active {
+  transform: scale(0.96) translateY(1px); /* 꾹 눌리는 효과 */
+  background: var(--speak-orange-hover); /* 누를 때 진한 주황색 유지 */
+  box-shadow: none; /* 그림자 제거 */
+  transition: transform 0.1s ease-out;
+}
+
+/* 버튼 컨테이너 */
+.cta-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 2em 0;
+  scroll-margin-top: 100px;
+}
+
+.final-cta {
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+/* ========================================
+   표 (테이블) 스타일
+   ======================================== */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  background: white;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+}
+
+thead {
+  background: var(--text-dark);
+  color: white;
+}
+
+th, td {
+  padding: 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+th {
+  font-weight: 600;
+}
+
+tbody tr:hover {
+  background: var(--bg-gray-light);
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ========================================
+   학습 단계 섹션 (동영상+글 카드 박스)
+   ======================================== */
+.learning-step {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 2.5em 0;
+  padding: 2.5em;
+  background: var(--bg-white);
+  border-radius: 16px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+}
+
+.step-content {
+  flex: 1.2;
+}
+
+.step-media {
+  flex: 0.8;
+}
+
+.learning-step h3 {
+  margin-top: 0;
+  color: var(--text-dark);
+}
+
+/* 비디오 스타일 */
+video {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+/* ========================================
+   FAQ 스타일 (details/summary)
+   ======================================== */
+details {
+  background: var(--bg-white);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin: 1em 0;
+  border: 1px solid var(--border-color);
+  cursor: pointer;
+  transition: all var(--transition-speed) ease;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+details:hover {
+  border-color: var(--speak-blue-light);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+details[open] {
+  padding-bottom: 20px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border-color: var(--speak-blue-light);
+}
+
+summary {
+  font-weight: 600;
+  font-size: 1.05em;
+  color: var(--text-dark);
+  cursor: pointer;
+  list-style: none;
+  padding: 8px 0;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::before {
+  content: '+ ';
+  display: inline-block;
+  margin-right: 8px;
+  font-weight: 700;
+  transition: transform var(--transition-speed) ease;
+}
+
+details[open] summary::before {
+  content: '- ';
+}
+
+details p {
+  margin-top: 1em;
+  padding-left: 24px;
+  color: var(--text-gray);
+}
+
+/* ========================================
+   리스트 스타일
+   ======================================== */
+ul, ol {
+  margin: 1.5em 0;
+  padding-left: 2em;
+}
+
+li {
+  margin-bottom: 0.8em;
+  line-height: 1.75;
+}
+
+/* ========================================
+   고정 헤더 (Sticky Header)
+   ======================================== */
+.sticky-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 15px 20px;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.sticky-cta-button {
+  display: inline-block;
+  background: var(--speak-blue);
+  color: white !important;
+  padding: 24px 36px;
+  border-radius: var(--button-radius);
+  font-size: 22px;
+  font-weight: 800;
+  text-decoration: none !important;
+  line-height: 1;
+  transition: all var(--transition-speed) ease;
+}
+
+.sticky-cta-button:hover {
+  background: var(--speak-blue-hover);
+  transform: translateY(-2px);
+  box-shadow: none; /* 그림자 제거 */
+}
+
+
+
+/* 추가할 부분: 클릭 시 쫀득하게 눌리는 효과 */
+.sticky-cta-button:active {
+  transform: scale(0.96) translateY(1px); 
+  background: var(--speak-blue-hover); /* 누를 때 색상이 조금 더 진해지도록 추가 */
+  box-shadow: none; /* 그림자 제거 */
+  transition: transform 0.1s ease-out;
+}
+
+/* ========================================
+   Footer 스타일
+   ======================================== */
+.site-footer {
+  background: var(--bg-gray-light);
+  padding: 40px 20px;
+  margin-top: 60px;
+  border-top: 1px solid var(--border-color);
+}
+
+.site-footer .container {
+  max-width: var(--content-width);
+}
+
+.site-footer hr {
+  margin: 0 0 20px 0;
+  border-top: 1px solid var(--border-color);
+}
+
+.disclaimer {
+  font-size: 0.9em;
+  color: var(--text-gray);
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.copyright {
+  font-size: 0.85em;
+  color: var(--text-light);
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* ========================================
+   유틸리티 클래스
+   ======================================== */
+.text-center {
+  text-align: center;
+}
+
+.mt-1 { margin-top: 1em; }
+.mt-2 { margin-top: 2em; }
+.mt-3 { margin-top: 3em; }
+
+.mb-1 { margin-bottom: 1em; }
+.mb-2 { margin-bottom: 2em; }
+.mb-3 { margin-bottom: 3em; }
+
+/* ========================================
+   모바일 반응형 디자인
+   ======================================== */
+@media (max-width: 768px) {
+   main.container {
+    padding-top: 110px; /* 모바일에서 제목이 가려지지 않도록 충분한 여백 확보 */
+  }
+  :root {
+    --font-size-base: 15px;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  h3 {
+    font-size: 1.15em;
+  }
+
+  .container {
+    padding: 20px 16px;
+  }
+
+  /* 버튼을 모바일에서 전체 너비로 */
+  .cta-button {
+    width: 100%;
+    display: block;
+    padding: 18px 24px;
+    font-size: 1.15em;
+  }
+
+  .cta-buttons {
+    gap: 12px;
+  }
+
+  /* 학습 단계를 모바일에서 세로 배치 */
+  .learning-step {
+    flex-direction: column;
+    padding: 1.5em;
+    gap: 20px;
+  }
+
+  .step-content,
+  .step-media {
+    flex: 1;
+    width: 100%;
+  }
+
+  /* 표 스크롤 */
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+  }
+
+  th, td {
+    padding: 12px;
+    font-size: 0.85em;
+  }
+
+  /* 이미지 마진 조정 */
+  img {
+    margin: 1.5em auto;
+    border-radius: 12px;
+  }
+
+  /* 카드 라운드 축소 */
+  .learning-step {
+    border-radius: 12px;
+  }
+
+  /* 모바일 고정 헤더 */
+  .sticky-header {
+    padding: 12px 12px;
+  }
+
+  .sticky-cta-button {
+    display: block;
+    padding: 28px 20px;
+    font-size: 19px; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
+    font-weight: 800;
+  }
+}
+
+/* ========================================
+   태블릿 최적화
+   ======================================== */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .container {
+    padding: 30px 24px;
+  }
+
+  .learning-step {
+    gap: 24px;
+  }
+}
+
+/* ========================================
+   프린트 스타일
+   ======================================== */
+@media print {
+  .cta-button,
+  .site-footer {
+    display: none;
+  }
+
+  body {
+    font-size: 12pt;
+  }
+
+  h1 {
+    page-break-before: always;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+}

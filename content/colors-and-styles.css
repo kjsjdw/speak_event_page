@@ -172,14 +172,14 @@ img {
 .cta-button:hover {
   transform: translateY(-3px);
   background: var(--speak-blue-hover);
-  box-shadow: 0 8px 25px rgba(28, 73, 255, 0.25);
+  box-shadow: none; /* 그림자 제거 */
 }
 
 .cta-button:active {
   /* scale(0.96)이 버튼을 실제로 꾹 누르는 느낌을 만듭니다 */
   transform: scale(0.96) translateY(1px); 
   background: var(--speak-blue-hover); /* 누를 때 진한 파란색 유지 */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); 
+  box-shadow: none; /* 그림자 제거 */
   transition: transform 0.1s ease-out; 
 }
 
@@ -192,13 +192,13 @@ img {
 .cta-button-plus:hover {
   background: var(--speak-orange-hover);
   transform: translateY(-3px); /* 위로 살짝 올라감 */
-  box-shadow: 0 8px 25px rgba(255, 90, 0, 0.25);
+  box-shadow: none; /* 그림자 제거 */
 }
 
 .cta-button-plus:active {
   transform: scale(0.96) translateY(1px); /* 꾹 눌리는 효과 */
   background: var(--speak-orange-hover); /* 누를 때 진한 주황색 유지 */
-  box-shadow: 0 2px 5px rgba(255, 90, 0, 0.15);
+  box-shadow: none; /* 그림자 제거 */
   transition: transform 0.1s ease-out;
 }
 
@@ -389,7 +389,7 @@ li {
 .sticky-cta-button:hover {
   background: var(--speak-blue-hover);
   transform: translateY(-2px);
-  box-shadow: 0 4px 14px rgba(28, 73, 255, 0.3);
+  box-shadow: none; /* 그림자 제거 */
 }
 
 
@@ -398,7 +398,7 @@ li {
 .sticky-cta-button:active {
   transform: scale(0.96) translateY(1px); 
   background: var(--speak-blue-hover); /* 누를 때 색상이 조금 더 진해지도록 추가 */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  box-shadow: none; /* 그림자 제거 */
   transition: transform 0.1s ease-out;
 }
 

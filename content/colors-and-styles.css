@@ -369,7 +369,7 @@ li {
   background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  padding: 10px 20px;
+  padding: 15px 20px;
   text-align: center;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
@@ -378,11 +378,12 @@ li {
   display: inline-block;
   background: var(--speak-blue);
   color: white !important;
-  padding: 24px 36px;
+  padding: 32px 36px;
   border-radius: var(--button-radius);
-  font-size: 1em;
-  font-weight: 600;
+  font-size: 1.1em;
+  font-weight: 700;
   text-decoration: none !important;
+  line-height: 1;
   transition: all var(--transition-speed) ease;
 }
 
@@ -524,13 +525,14 @@ li {
 
   /* 모바일 고정 헤더 */
   .sticky-header {
-    padding: 8px 12px;
+    padding: 12px 12px;
   }
 
   .sticky-cta-button {
     display: block;
-    padding: 10px 20px;
-    font-size: 0.9em;
+    padding: 28px 20px;
+    font-size: 1em; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
+    font-weight: 700;
   }
 }
 

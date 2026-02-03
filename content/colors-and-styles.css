@@ -73,7 +73,7 @@ body {
 }
 
 main.container {
-  padding-top: 80px;
+  padding-top: 140px;
   padding-bottom: 60px;
 }
 
@@ -455,6 +455,9 @@ li {
    모바일 반응형 디자인
    ======================================== */
 @media (max-width: 768px) {
+   main.container {
+    padding-top: 130px; /* 모바일에서 제목이 가려지지 않도록 충분한 여백 확보 */
+  }
   :root {
     --font-size-base: 15px;
   }

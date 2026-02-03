@@ -1,12 +1,15 @@
 # 2026 스픽 할인코드 최대 혜택 가이드
 
-![스픽 할인코드 2026 최대 혜택 안내](content/images/01-main-hero.jpg)
-**2026년 최신 스픽 할인코드 정보를 정리해 드립니다.**
+새해를 맞아 영어 회화 도전을 시작하신 분들을 위해, 현재 이용 가능한 가장 큰 할인 혜택들을 꼼꼼하게 정리해 드립니다. 이 페이지에서 제공하는 공식 파트너 링크를 통해 역대 최저가로 안전하게 시작해 보세요.
 
-### "영어 회화, 왜 매번 결심만 하고 실패할까요?"
-영어 공부를 시작하고도 중도에 포기하는 가장 큰 이유는 '말하기 절대량'의 부족과 심리적인 부담감 때문입니다. 스픽(Speak)은 이러한 고질적인 문제를 AI 기술로 해결하여, 뇌가 외우는 영어가 아닌 '입 근육'이 기억하는 영어를 제안합니다.
-
-현재 **2026 새해 프로모션(~2/18)** 기간 한정으로 제공되는 공식 파트너 전용 **스픽 할인코드** 혜택을 이용하시면, 복잡한 코드 입력 없이 역대 최저가 가입이 가능합니다. 7일 이내 100% 환불 정책이 있으니 지금 바로 시작해 보세요.
+<div class="benefit-box" style="background: #f8faff; border-radius: 16px; padding: 25px; border: 1px solid #e2e8f0; margin-bottom: 30px;">
+  <h3 style="color: #1c49ff; margin-top: 0;">💡 이번 달 혜택, 한눈에 확인하세요</h3>
+  <ul style="list-style: none; padding: 0; margin-bottom: 0;">
+    <li style="margin-bottom: 12px;"><strong>2026년 2월 최신 정보:</strong> 현재 진행 중인 프로모션이 실시간으로 반영되어 있어 안심하고 이용하실 수 있습니다.</li>
+    <li style="margin-bottom: 12px;"><strong>복잡한 입력 없이 자동 적용:</strong> '할인코드'를 따로 외우거나 입력할 번거로움 없이, 아래 버튼을 통해 접속하시면 결제 단계에서 최저가가 자동으로 적용됩니다.</li>
+    <li style="margin-bottom: 0;"><strong>부담 없는 7일 무료 체험:</strong> 결제 후 일주일 동안 충분히 사용해 보시고, 혹시라도 만족스럽지 않다면 조건 없이 100% 환불받으실 수 있습니다.</li>
+  </ul>
+</div>
 
 <div class="cta-buttons" id="cta-top">
   <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="noopener">

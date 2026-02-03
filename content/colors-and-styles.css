@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.8em;
-  margin-top: 0.5em;
+  margin-top: 0.1em;
 }
 
 h2 {
@@ -378,10 +378,10 @@ li {
   display: inline-block;
   background: var(--speak-blue);
   color: white !important;
-  padding: 32px 36px;
+  padding: 24px 36px;
   border-radius: var(--button-radius);
-  font-size: 1.25em;
-  font-weight: 700;
+  font-size: 22px;
+  font-weight: 800;
   text-decoration: none !important;
   line-height: 1;
   transition: all var(--transition-speed) ease;
@@ -534,8 +534,8 @@ li {
   .sticky-cta-button {
     display: block;
     padding: 28px 20px;
-    font-size: 1.15em; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
-    font-weight: 700;
+    font-size: 19px; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
+    font-weight: 800;
   }
 }
 

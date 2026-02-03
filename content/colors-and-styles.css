@@ -172,12 +172,15 @@ img {
 .cta-button:hover {
   transform: translateY(-3px);
   background: var(--speak-blue-hover);
-  box-shadow: 0 6px 20px rgba(28, 73, 255, 0.3);
+  box-shadow: 0 8px 25px rgba(28, 73, 255, 0.25);
 }
 
 .cta-button:active {
-  transform: translateY(-1px);
-  box-shadow: 0 3px 10px rgba(28, 73, 255, 0.2);
+  /* scale(0.96)이 버튼을 실제로 꾹 누르는 느낌을 만듭니다 */
+  transform: scale(0.96) translateY(1px); 
+  background: var(--speak-blue-hover); /* 누를 때 진한 파란색 유지 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); 
+  transition: transform 0.1s ease-out; 
 }
 
 /* 플러스 버튼 강조 — 오렌지 */
@@ -188,11 +191,15 @@ img {
 
 .cta-button-plus:hover {
   background: var(--speak-orange-hover);
-  box-shadow: 0 6px 20px rgba(255, 90, 0, 0.3);
+  transform: translateY(-3px); /* 위로 살짝 올라감 */
+  box-shadow: 0 8px 25px rgba(255, 90, 0, 0.25);
 }
 
 .cta-button-plus:active {
-  box-shadow: 0 3px 10px rgba(255, 90, 0, 0.2);
+  transform: scale(0.96) translateY(1px); /* 꾹 눌리는 효과 */
+  background: var(--speak-orange-hover); /* 누를 때 진한 주황색 유지 */
+  box-shadow: 0 2px 5px rgba(255, 90, 0, 0.15);
+  transition: transform 0.1s ease-out;
 }
 
 /* 버튼 컨테이너 */
@@ -383,6 +390,16 @@ li {
   background: var(--speak-blue-hover);
   transform: translateY(-2px);
   box-shadow: 0 4px 14px rgba(28, 73, 255, 0.3);
+}
+
+
+
+/* 추가할 부분: 클릭 시 쫀득하게 눌리는 효과 */
+.sticky-cta-button:active {
+  transform: scale(0.96) translateY(1px); 
+  background: var(--speak-blue-hover); /* 누를 때 색상이 조금 더 진해지도록 추가 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  transition: transform 0.1s ease-out;
 }
 
 /* ========================================

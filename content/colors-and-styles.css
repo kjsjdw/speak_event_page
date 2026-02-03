@@ -380,7 +380,7 @@ li {
   color: white !important;
   padding: 32px 36px;
   border-radius: var(--button-radius);
-  font-size: 1.1em;
+  font-size: 1.25em;
   font-weight: 700;
   text-decoration: none !important;
   line-height: 1;
@@ -483,7 +483,7 @@ li {
     width: 100%;
     display: block;
     padding: 18px 24px;
-    font-size: 1em;
+    font-size: 1.15em;
   }
 
   .cta-buttons {
@@ -534,7 +534,7 @@ li {
   .sticky-cta-button {
     display: block;
     padding: 28px 20px;
-    font-size: 1em; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
+    font-size: 1.15em; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
     font-weight: 700;
   }
 }

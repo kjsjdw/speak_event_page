@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 1.4;
   margin-top: 2em;
-  margin-bottom: 1.0em;
+  margin-bottom: 1.5em;
   color: var(--text-dark);
 }
 
@@ -158,8 +158,8 @@ img {
   color: white !important;
   padding: var(--button-padding);
   border-radius: var(--button-radius);
-  font-size: 1.05em;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 700;
   text-align: center;
   text-decoration: none !important;
   min-height: var(--button-min-height);
@@ -186,7 +186,7 @@ img {
 /* 플러스 버튼 강조 — 오렌지 */
 .cta-button-plus {
   background: var(--speak-orange);
-  font-size: 1.1em;
+  font-size: 15px;
 }
 
 .cta-button-plus:hover {
@@ -378,10 +378,10 @@ li {
   display: inline-block;
   background: var(--speak-blue);
   color: white !important;
-  padding: 24px 36px;
+  padding: 18px 36px;
   border-radius: var(--button-radius);
-  font-size: 22px;
-  font-weight: 800;
+  font-size: 15px;
+  font-weight: 700;
   text-decoration: none !important;
   line-height: 1;
   transition: all var(--transition-speed) ease;
@@ -483,7 +483,7 @@ li {
     width: 100%;
     display: block;
     padding: 18px 24px;
-    font-size: 1.15em;
+    font-size: 15px;
   }
 
   .cta-buttons {
@@ -533,9 +533,9 @@ li {
 
   .sticky-cta-button {
     display: block;
-    padding: 28px 20px;
-    font-size: 19px; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
-    font-weight: 800;
+    padding: 18px 20px;
+    font-size: 15px; /* 모바일에서도 글자가 잘 보이도록 살짝 키움 */
+    font-weight: 700;
   }
 }
 

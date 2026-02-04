@@ -26,7 +26,7 @@ permalink: /refund/
 ### 3. 유의사항
 결제 후 7일이 지난 경우에는 별도의 상담이 필요할 수 있습니다. 할인코드가 적용된 최저가 혜택은 웹 결제 시에만 유효하므로, 추후 재가입 시에도 이 점을 꼭 확인해 주세요.
 
-<br>
+---
 
 <div style="text-align: center; margin-top: 30px;">
   <a href="/" style="text-decoration: none; display: inline-block; width: auto; padding: 6px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">

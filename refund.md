@@ -30,7 +30,7 @@ permalink: /refund/
 
 <div style="text-align: center; margin-top: 30px;">
   <a href="/" style="text-decoration: none; display: inline-block; width: auto; padding: 6px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
-    🏠 스픽 할인코드 메인 페이지로 돌아가기
+    🏠 스픽 할인코드 <br> 메인 페이지로 돌아가기
   </a>
 </div>
 

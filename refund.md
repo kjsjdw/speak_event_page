@@ -28,7 +28,12 @@ permalink: /refund/
 
 <br>
 
-[' 스픽 할인코드 메인 페이지로 돌아가기 '](/)
+<div style="text-align: center; margin-top: 40px;">
+  <a href="/" class="cta-button" style="text-decoration: none; display: inline-block; width: auto; padding: 15px 40px;">
+    🏠 스픽 할인코드 메인 페이지로 돌아가기
+  </a>
+</div>
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const ctaBtn = document.querySelector('.sticky-cta-button');
@@ -36,4 +41,5 @@ permalink: /refund/
       ctaBtn.setAttribute('href', '/#cta-top');
     }
   });
+</script>
 </script>

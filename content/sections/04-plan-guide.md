@@ -10,3 +10,11 @@
 * **대상:** 내 실수와 관심사를 분석해 생성되는 **나만을 위한 맞춤 수업**을 원하는 분
 * **특징:** 단순히 정해진 코스를 따라가는 것이 아니라, 내가 자주 틀리는 표현을 AI가 정교하게 교정해 주는 기능이 포함되어 있습니다.
 * **장점:** 비즈니스 이메일, 여행지에서의 돌발 상황 등 내 일상에 맞춘 영어 연습으로 실력을 빠르게 올릴 수 있습니다.
+
+두 멤버십의 더 구체적인 기능 차이와 나에게 맞는 플랜이 궁금하시다면 아래 상세 비교 가이드를 확인해 보세요.
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/premium-vs-plus/" style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
+    🔍 프리미엄 vs 플러스 상세 비교 보러가기
+  </a>
+</div>

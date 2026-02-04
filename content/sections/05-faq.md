@@ -28,7 +28,14 @@
 
 <details>
 <summary>🕒 7일 이내 100% 환불은 어떻게 받나요?</summary>
-<p>스픽은 구독권 <strong>결제일로부터 7일 이내에 요청 시 100% 전액 환불</strong>이 가능합니다. 직접 경험해 보시고 결정하셔도 늦지 않습니다. 환불 신청은 <strong>스픽 앱 내 고객센터</strong>를 이용하시거나, <strong>스픽 지원 메일</strong>을 통해 간편하게 환불 요청을 하실 수 있습니다.<a href='/refund/' style='color: #1C49FF; text-decoration: underline; font-weight: bold;'>(상세 방법 확인하기)</a></p>
+<p>스픽은 구독권 <strong>결제일로부터 7일 이내에 요청 시 100% 전액 환불</strong>이 가능합니다. 직접 경험해 보시고 결정하셔도 늦지 않습니다. 환불 신청은 <strong>스픽 앱 내 고객센터</strong>를 이용하시거나, <strong>스픽 지원 메일</strong>을 통해 간편하게 환불 요청을 하실 수 있습니다.</p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/refund/" style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
+    🔍 스픽 환불 규정 및 상세 방법 확인하기
+  </a>
+</div>
+
 </details>
 
 <details>

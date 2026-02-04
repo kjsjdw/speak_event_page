@@ -13,8 +13,14 @@
 
 두 멤버십의 더 구체적인 기능 차이와 나에게 맞는 플랜이 궁금하시다면 아래 상세 비교 가이드를 확인해 보세요.
 
-<p style="text-align: center; margin-top: 15px;">
-  <a href="/premium-vs-plus/" style="color: #1c49ff; text-decoration: none; font-weight: bold;">
-    🔍 프리미엄 vs 플러스 상세 비교 보러가기
+
+
+<div style="text-align: center; margin: 20px 0;">
+
+  <a href="/premium-vs-plus/" style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
+
+    🔍 프리미엄 vs 플러스 <br> 상세 비교 보러가기
+
   </a>
-</p>
+
+</div>

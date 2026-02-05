@@ -39,8 +39,8 @@
     </video>
   </div>
 </div>
-<div style="text-align: center; margin: 10px 0 20px 0;">
-  <a href="/curriculum/" style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500; line-height: 1.4;">
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/curriculum/" style="text-decoration: none; display: inline-block; width: auto; padding: 10px 30px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500; line-height: 1.4;">
     🔍 스픽 커리큘럼 및<br>상세 코스 확인하기
   </a>
 </div>

@@ -40,7 +40,7 @@ permalink: /curriculum/
 
 <div class='step-media'>
   <video autoplay loop muted playsinline style='width: 100%;'>
-    <source src='/content/videos/pronunciation.mp4' type='video/mp4'>
+    <source src='/content/videos/pronunsiation.mp4' type='video/mp4'>
     발음 피드백 영상
   </video>
 </div>

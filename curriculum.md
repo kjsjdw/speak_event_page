@@ -11,9 +11,6 @@ permalink: /curriculum/
 ### 1. 스픽 코스 설계: 처음부터 끝까지 한 줄로 이어진 학습 흐름
 스픽 커리큘럼은 한국인 학습자 데이터를 바탕으로, 어느 수준에서 시작해도 다음 단계가 자연스럽게 이어지도록 구성된 코스입니다.
 
-<div class='step-media'>
-  <img src='/content/images/speak-curriculum2.jpg' width='80%' alt='스픽 커리큘럼 로드맵' style='display: block; margin: 0 auto;'>
-</div>
 
 * **단계별 진행이 가능한 장기 로드맵**: 처음 영어를 시작하는 단계부터 꽤 높은 수준의 회화까지 이어지는 장기 코스가 준비되어 있어, 중간에 교재를 갈아탈 필요 없이 **한 방향으로 진행**할 수 있습니다.
 * **샌프란시스코 제작 스튜디오 기반 영상 콘텐츠**: 미국 현지 스튜디오에서 촬영한 원어민 영상이 수천 개 쌓여 있어, 실제로 쓰이는 **표현과 발음을 중심으로 노출**되도록 구성돼 있습니다.
@@ -25,32 +22,17 @@ permalink: /curriculum/
 ### 2. 한 수업 안에서 반복 노출되는 3단계 진행 방식
 스픽의 한 회차 수업은 항상 같은 흐름을 따릅니다. 새로운 표현을 보고, 바로 말해 보고, 마지막에 실제 상황에 가깝게 연습하며 마무리하는 구조입니다.
 
+
+<div class='step-media'>
+  <video autoplay loop muted playsinline style='width: 100%;'>
+    <source src='/content/videos/speak-lesson.mp4' type='video/mp4'>
+    3단계 수업 영상
+  </video>
+</div>
+
 * **오늘의 수업**: 원어민 강사가 핵심 문장과 패턴, 쓰이는 상황을 짧은 영상으로 보여줍니다. 이 단계에서 오늘 다룰 **표현의 뼈대**를 먼저 잡게 됩니다.
-
-<div class='step-media'>
-  <video autoplay loop muted playsinline style='width: 100%;'>
-    <source src='/content/videos/speak-video-lesson.mp4' type='video/mp4'>
-    오늘의 수업 영상
-  </video>
-</div>
-
 * **스피킹 연습**: 방금 본 표현을 여러 문장으로 바꿔가며 직접 말해 보게 됩니다. 짧은 시간 안에 **상당히 많은 문장을 소리 내어 말하게 설계**돼 있어, 머릿속 암기에 그치지 않도록 돕습니다.
-
-<div class='step-media'>
-  <video autoplay loop muted playsinline style='width: 100%;'>
-    <source src='/content/videos/speak-practice.mp4' type='video/mp4'>
-    스피킹 연습 영상
-  </video>
-</div>
-
 * **실전 대화**: 마지막에는 상황극 형태로 대화가 진행되며, 앞에서 익힌 표현들을 문맥 속에서 다시 사용해 보게 됩니다. **같은 표현을 세 번 다른 방식**으로 접하면서 기억에 남기도록 설계된 단계입니다.
-
-<div class='step-media'>
-  <video autoplay loop muted playsinline style='width: 100%;'>
-    <source src='/content/videos/speak-conversation.mp4' type='video/mp4'>
-    AI 실전 대화 영상
-  </video>
-</div>
 
 
 ### 3. AI가 발음과 표현 사용을 즉시 분석하는 시스템
@@ -58,7 +40,7 @@ permalink: /curriculum/
 
 <div class='step-media'>
   <video autoplay loop muted playsinline style='width: 100%;'>
-    <source src='/content/videos/speak-pronunciation.mp4' type='video/mp4'>
+    <source src='/content/videos/pronunciation.mp4' type='video/mp4'>
     발음 피드백 영상
   </video>
 </div>
@@ -72,7 +54,10 @@ permalink: /curriculum/
 코스를 따라가는 학습 외에도, 스픽 안에서는 AI 튜터와 자유롭게 대화를 이어갈 수 있는 기능이 제공됩니다.
 
 <div class='step-media'>
-  <img src="/content/images/speak-visual-talk.jpg" width="50%" alt="스픽 AI 튜터 프리토킹 주제">
+  <video autoplay loop muted playsinline style='width: 100%;'>
+    <source src='/content/videos/my-lesson.mp4' type='video/mp4'>
+  AI 프리톡
+  </video>
 </div>
 
 * **비주얼 모드 프리토킹**: 단순 음성만 주고받는 방식이 아니라, **화면 속 AI 캐릭터를 보면서 대화하는 형태**로 구성돼 있어 실제 대화에 가까운 느낌을 제공합니다.

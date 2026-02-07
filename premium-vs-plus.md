@@ -8,11 +8,10 @@ permalink: /premium-vs-plus/
 
 스픽 요금제 선택은 결국 **“오늘 내가 영어로 얼마나 오래, 얼마나 많이 말해보고 싶은지”**에 따라 갈립니다. 같은 스픽이라도, 하루에 열어둘 수 있는 말하기 공간의 크기가 서로 다르다고 보면 이해하기 쉽습니다.
 
-<br>
 <div class='step-media' style='margin: 30px 0;'>
-  <img src='/content/images/premium-vs-plus-compare.png' width='80%' alt='스픽 요금제 비교' style='display: block; margin: 0 auto;'>
+  <img src='/content/images/premium-vs-plus-compare.png' width='100%' alt='스픽 요금제 비교' style='display: block; margin: 0 auto;'>
 </div>
-<br>
+
 
 ### 1. AI 튜터 대화 가능 범위
 두 요금제 모두 AI 튜터를 쓸 수 있지만, 얼마만큼 마음껏 쓰느냐에서 갈립니다.
@@ -38,11 +37,10 @@ permalink: /premium-vs-plus/
 ### 4. 프리미엄 플러스 전용 30일 습관 프로그램
 프리미엄 플러스 회원에게는 영어 스피킹 습관을 확실하게 잡아주는 **'업그레이드된 30일 습관 완성 챌린지'** 참여권이 무료로 제공됩니다.
 
-<br>
 <div class='step-media' style='margin: 40px 0;'>
-  <img src='/content/images/speak-habit.jpg' width='70%' alt='스픽 습관 형성 효과' style='display: block; margin: 0 auto;'>
+  <img src='/content/images/speak-habit.jpg' width='100%' alt='스픽 습관 형성 효과' style='display: block; margin: 0 auto;'>
 </div>
-<br>
+
 
 * **학습 목표**: 30일 동안 핵심 패턴을 꾸준히 반복해서, 입에서 바로 나오는 표현으로 만드는 것을 목표로 합니다.
 * **주의사항**: 이 프로그램은 가입 직후 자동으로 적용되는 것이 아니라, **가입 후 7일 안에 별도로 참여 신청**을 해야 유지됩니다.

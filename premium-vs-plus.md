@@ -10,7 +10,7 @@ description: "스픽 프리미엄 vs 플러스, 아직도 고민되시나요? 20
 스픽 요금제 선택은 결국 **“오늘 내가 영어로 얼마나 오래, 얼마나 많이 말해보고 싶은지”**에 따라 갈립니다. 같은 스픽이라도, 하루에 열어둘 수 있는 말하기 공간의 크기가 서로 다르다고 보면 이해하기 쉽습니다.
 
 <div class='step-media' style='margin: 30px 0;'>
-  <img src='/content/images/premium-vs-plus-compare.png' width='100%' alt='스픽 요금제 비교' style='display: block; margin: 0 auto;'>
+  <img src='/content/images/premium-vs-plus-compare.png' width='100%' alt='스픽 요금제 비교' title='스픽 프리미엄 및 프리미엄 플러스 요금제 혜택 상세 비교' style='display: block; margin: 0 auto;'>
 </div>
 
 
@@ -39,7 +39,7 @@ description: "스픽 프리미엄 vs 플러스, 아직도 고민되시나요? 20
 프리미엄 플러스 회원에게는 영어 스피킹 습관을 확실하게 잡아주는 **'업그레이드된 30일 습관 완성 챌린지'** 참여권이 무료로 제공됩니다.
 
 <div class='step-media' style='margin: 40px 0;'>
-  <img src='/content/images/speak-habit.jpg' width='100%' alt='스픽 습관 형성 효과' loading='lazy' style='display: block; margin: 0 auto;'> 
+  <img src='/content/images/speak-habit.jpg' width='100%' alt='스픽 습관 형성 효과' title='스픽 AI 학습을 통한 영어 회화 습관 형성 효과 안내' loading='lazy' style='display: block; margin: 0 auto;'> 
 </div>
 
 

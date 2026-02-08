@@ -8,6 +8,35 @@
 <meta name="keywords" content="{{ site.data.seo.keywords }}">
 <meta name="author" content="{{ site.author }}">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.url == '/' %}WebSite{% else %}BlogPosting{% endif %}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
+  "headline": "{{ page.title | default: site.data.seo.title }}",
+  "description": "{{ page.description | default: site.data.seo.description }}",
+  "image": "{{ page.image | default: '/content/images/01-main-hero.jpg' | absolute_url }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author | default: 'Admin' }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "speaksale.kr",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/content/images/favicon.png' | absolute_url }}"
+    }
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}"
+}
+</script>
+
+
 <!-- Canonical URL (구글 SEO 중복 방지 - 중요!) -->
 <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 

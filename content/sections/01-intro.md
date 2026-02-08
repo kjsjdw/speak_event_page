@@ -11,13 +11,13 @@
 
 <div class="cta-buttons" id="cta-top">
 
-  <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="noopener">
+  <a href="{{ site.data.links.premium }}" title='스픽 프리미엄 요금제 할인코드 자동 적용 및 가입 페이지로 이동' class="cta-button" target="_blank" rel="noopener">
 
     👉 스픽 프리미엄<br>할인코드 자동 적용하기
 
   </a>
 
-  <a href="{{ site.data.links.premium_plus }}" class="cta-button cta-button-plus" target="_blank" rel="noopener">
+  <a href="{{ site.data.links.premium_plus }}" title='스픽 프리미엄 플러스 최저가 할인 혜택 적용 페이지로 이동' class="cta-button cta-button-plus" target="_blank" rel="noopener">
 
     👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기
 

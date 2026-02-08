@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /content/sections/ 
 
 Sitemap: https://speaksale.kr/sitemap.xml

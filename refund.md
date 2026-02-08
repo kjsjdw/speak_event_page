@@ -3,7 +3,17 @@ layout: default
 title: 스픽 환불 규정 및 결제 방법 안내 (2026)
 permalink: /refund/
 description: "스픽 환불, 1분 만에 확인하세요! 2026년 최신 규정부터 결제 수단별 취소 방법, 주의사항까지 누구나 쉽게 따라 할 수 있도록 가장 정확하게 안내해 드립니다."
+image: /content/images/refund.jpg
 ---
+
+<div class="step-media" style="margin: 20px 0 24px 0;">
+  <img src="/content/images/refund.jpg"
+       width="100%"
+       alt="스픽 환불 규정 안내 대표 이미지"
+       title="스픽 환불 규정 및 결제 방법 안내"
+       loading="eager"
+       style="display:block; margin:0 auto;">
+</div>
 
 ## 스픽(Speak) 환불 규정 및 이용 안내
 

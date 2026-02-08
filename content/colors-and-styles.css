@@ -638,3 +638,8 @@ li {
   top: 12px;
 }
 
+/* 전체 페이지 본문 하단 여백 축소 */
+main#content.container {
+  padding-bottom: 16px; /* 필요하면 8~24px로 조절 */
+}
+

@@ -1,8 +1,14 @@
 # 2026 스픽 할인코드 최대 68% 할인 혜택 총정리
 
-
-
-![스픽 할인코드 2026 최대 혜택 안내](/content/images/01-main-hero.jpg "2026 스픽 할인코드 공식 파트너 메인 혜택 안내")
+<div style="margin: 16px 0; text-align: center;">
+  <img
+    src="/content/images/01-main-hero.jpg"
+    alt="스픽 할인코드 2026 최대 혜택 안내"
+    title="2026 스픽 할인코드 공식 파트너 메인 혜택 안내"
+    loading="eager"
+    style="max-width: 100%; height: auto; display: inline-block;"
+  />
+</div>
 
 **2026 새해 프로모션(~2/18)** 기간 한정, 공식 파트너 전용 스픽 할인코드 링크로 접속 시 최저가 혜택이 자동 적용됩니다. 7일 이내 100% 환불이 가능하니 지금 바로 가장 저렴한 가격으로 시작해 보세요.
 

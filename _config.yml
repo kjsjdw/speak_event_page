@@ -36,6 +36,7 @@ exclude:
   - .gitignore
   - desktop.ini
   - "*.txt"
+  - content/
   - content/_template.md
 
 # 플러그인

@@ -3,7 +3,17 @@ layout: default
 title: 실리콘밸리 AI로 만드는 실전형 스픽 학습 구조 총정리
 permalink: /curriculum/
 description: "왜 유독 스픽만 입이 터질까요? 뇌 과학 기반 AI 커리큘럼과 2026년 새롭게 바뀐 코스 진행 방식을 공개합니다. 일반 영어 학원과는 차원이 다른 학습 효과를 직접 확인해 보세요."
+image: /content/images/curriculum.jpg
 ---
+
+<div class="step-media" style="margin: 20px 0 24px 0;">
+  <img src="/content/images/curriculum.jpg"
+       width="100%"
+       alt="스픽 커리큘럼 대표 이미지"
+       title="스픽 커리큘럼 총정리"
+       loading="eager"
+       style="display:block; margin:0 auto;">
+</div>
 
 ## 실리콘밸리 AI로 만드는 실전형 스픽 학습 구조
 한국에서 영어를 오래 공부해도 입이 쉽게 안 트이는 가장 큰 이유는, 실제로 말해볼 기회가 거의 없다는 데 있습니다. 스픽은 이 문제를 풀기 위해, **실리콘밸리에서 개발된 영어 말하기 전용 AI**를 활용해 집에서도 원어민을 상대로 연습하는 것과 비슷한 환경을 만들어 줍니다.

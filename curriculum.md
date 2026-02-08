@@ -18,13 +18,12 @@ image: /content/images/curriculum.jpg
 ## 실리콘밸리 AI로 만드는 실전형 스픽 학습 구조
 한국에서 영어를 오래 공부해도 입이 쉽게 안 트이는 가장 큰 이유는, 실제로 말해볼 기회가 거의 없다는 데 있습니다. 스픽은 이 문제를 풀기 위해, **실리콘밸리에서 개발된 영어 말하기 전용 AI**를 활용해 집에서도 원어민을 상대로 연습하는 것과 비슷한 환경을 만들어 줍니다.
 
-
 ### 1. 스픽 코스 설계: 처음부터 끝까지 한 줄로 이어진 학습 흐름
 스픽 커리큘럼은 한국인 학습자 데이터를 바탕으로, 어느 수준에서 시작해도 다음 단계가 자연스럽게 이어지도록 구성된 코스입니다.
 
-<div class='step-media' style='margin: 30px 0;'>
-  <video autoplay loop muted playsinline style='width: 100%;'>
-    <source src='/content/videos/speak-course.mp4' type='video/mp4'>
+<div id="video-course" class="step-media" style="margin: 30px 0;">
+  <video autoplay loop muted playsinline style="width: 100%;">
+    <source src="/content/videos/speak-course.mp4" type="video/mp4">
     스픽 전체 코스 설계 안내 영상
   </video>
 </div>
@@ -34,15 +33,12 @@ image: /content/images/curriculum.jpg
 * **현재 미국에서 쓰는 표현 위주 구성**: 과거식 교과서 표현보다, 지금 원어민들이 일상에서 자주 사용하는 **표현과 말투를 중심**으로 스크립트가 구성돼 있습니다.
 * **목표에 따라 골라 쓸 수 있는 코스 묶음**: 시험 대비, 취업 준비, 해외 생활·여행 등 목적에 따라 먼저 살펴보면 좋은 코스가 따로 준비돼 있어, **필요한 부분을 우선적으로 학습**할 수 있습니다.
 
-
-
 ### 2. 한 수업 안에서 반복 노출되는 3단계 진행 방식
 스픽의 한 회차 수업은 항상 같은 흐름을 따릅니다. 새로운 표현을 보고, 바로 말해 보고, 마지막에 실제 상황에 가깝게 연습하며 마무리하는 구조입니다.
 
-
-<div class='step-media' style='margin: 30px 0;'>
-  <video autoplay loop muted playsinline preload='metadata' style='width: 100%;'>
-    <source src='/content/videos/speak-lesson.mp4' type='video/mp4'>
+<div id="video-lesson" class="step-media" style="margin: 30px 0;">
+  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
+    <source src="/content/videos/speak-lesson.mp4" type="video/mp4">
     3단계 수업 영상
   </video>
 </div>
@@ -51,13 +47,12 @@ image: /content/images/curriculum.jpg
 * **스피킹 연습**: 방금 본 표현을 여러 문장으로 바꿔가며 직접 말해 보게 됩니다. 짧은 시간 안에 **상당히 많은 문장을 소리 내어 말하게 설계**돼 있어, 머릿속 암기에 그치지 않도록 돕습니다.
 * **실전 대화**: 마지막에는 상황극 형태로 대화가 진행되며, 앞에서 익힌 표현들을 문맥 속에서 다시 사용해 보게 됩니다. **같은 표현을 세 번 다른 방식**으로 접하면서 기억에 남기도록 설계된 단계입니다.
 
-
 ### 3. AI가 발음과 표현 사용을 즉시 분석하는 시스템
 스픽의 AI 엔진은 사용자가 말한 영어를 빠르게 인식하고, 발음과 억양, 문장 전체를 기준 발음과 비교해 분석합니다.
 
-<div class='step-media'>
-  <video autoplay loop muted playsinline preload='metadata' style='width: 100%;'>
-    <source src='/content/videos/pronunsiation.mp4' type='video/mp4'>
+<div id="video-pronunciation" class="step-media">
+  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
+    <source src="/content/videos/pronunsiation.mp4" type="video/mp4">
     발음 피드백 영상
   </video>
 </div>
@@ -66,14 +61,13 @@ image: /content/images/curriculum.jpg
 * **문장 단위 발음 피드백**: 한 문장을 말하면, 어떤 부분이 부자연스러운지, 어떤 소리가 약한지 **시각적으로 표시**해 주고, 예시 발음을 함께 들려줘 수정 방향을 바로 알 수 있습니다.
 * **반복 학습을 위한 자동 복습 시스템**: 틀리기 쉬운 표현이나 자주 헷갈리는 문장은 일정 간격으로 다시 등장하도록 설계되어, **자연스럽게 여러 번 복습**하게 되는 구조입니다.
 
-
 ### 4. 정해진 진도 외에 AI와 자유 대화가 가능한 환경
 코스를 따라가는 학습 외에도, 스픽 안에서는 AI 튜터와 자유롭게 대화를 이어갈 수 있는 기능이 제공됩니다.
 
-<div class='step-media' style='margin: 30px 0;'>
-  <video autoplay loop muted playsinline preload='metadata' style='width: 100%;'>
-    <source src='/content/videos/my-lesson.mp4' type='video/mp4'>
-  AI 프리톡
+<div id="video-freetalk" class="step-media" style="margin: 30px 0;">
+  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
+    <source src="/content/videos/my-lesson.mp4" type="video/mp4">
+    AI 프리톡
   </video>
 </div>
 
@@ -97,44 +91,91 @@ image: /content/images/curriculum.jpg
   });
 </script>
 
-
 <script type="application/ld+json">
 [
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
+    "@id": "{{ page.url | absolute_url }}#video-course",
     "name": "실전형 스픽 학습 구조: 전체 코스 설계 안내",
     "description": "입문부터 고급 회화까지 자연스럽게 이어지는 스픽의 단계별 장기 로드맵과 코스 설계 방식을 소개합니다.",
-    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-course.jpg",
+    "thumbnailUrl": ["https://speaksale.kr/content/images/thumb-course.jpg"],
     "uploadDate": "2026-02-08T17:00:00+09:00",
-    "contentUrl": "https://speaksale.kr/content/videos/speak-course.mp4"
+    "contentUrl": "https://speaksale.kr/content/videos/speak-course.mp4",
+    "embedUrl": "{{ page.url | absolute_url }}#video-course",
+    "inLanguage": "ko-KR",
+    "isFamilyFriendly": true,
+    "publisher": {
+      "@type": "Organization",
+      "name": "speaksale.kr",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://speaksale.kr/content/images/favicon.png"
+      }
+    }
   },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
+    "@id": "{{ page.url | absolute_url }}#video-lesson",
     "name": "스픽의 3단계 입체 학습 진행 방식",
     "description": "오늘의 수업, 스피킹 연습, 실전 대화로 이어지는 스픽만의 과학적인 3단계 수업 흐름을 보여줍니다.",
-    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-lesson.jpg",
+    "thumbnailUrl": ["https://speaksale.kr/content/images/thumb-lesson.jpg"],
     "uploadDate": "2026-02-08T17:00:00+09:00",
-    "contentUrl": "https://speaksale.kr/content/videos/speak-lesson.mp4"
+    "contentUrl": "https://speaksale.kr/content/videos/speak-lesson.mp4",
+    "embedUrl": "{{ page.url | absolute_url }}#video-lesson",
+    "inLanguage": "ko-KR",
+    "isFamilyFriendly": true,
+    "publisher": {
+      "@type": "Organization",
+      "name": "speaksale.kr",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://speaksale.kr/content/images/favicon.png"
+      }
+    }
   },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
+    "@id": "{{ page.url | absolute_url }}#video-pronunciation",
     "name": "AI 기반 발음 및 표현 분석 시스템",
     "description": "사용자의 발음과 억양을 실시간으로 분석하여 시각적인 피드백을 제공하는 스픽의 AI 기술을 확인하세요.",
-    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-pronunciation.jpg",
+    "thumbnailUrl": ["https://speaksale.kr/content/images/thumb-pronunciation.jpg"],
     "uploadDate": "2026-02-08T17:00:00+09:00",
-    "contentUrl": "https://speaksale.kr/content/videos/pronunsiation.mp4"
+    "contentUrl": "https://speaksale.kr/content/videos/pronunsiation.mp4",
+    "embedUrl": "{{ page.url | absolute_url }}#video-pronunciation",
+    "inLanguage": "ko-KR",
+    "isFamilyFriendly": true,
+    "publisher": {
+      "@type": "Organization",
+      "name": "speaksale.kr",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://speaksale.kr/content/images/favicon.png"
+      }
+    }
   },
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
+    "@id": "{{ page.url | absolute_url }}#video-freetalk",
     "name": "AI 튜터와 함께하는 자유 대화: AI 프리토킹",
     "description": "정해진 진도 외에 AI 캐릭터와 실제 상황처럼 대화를 주고받으며 배운 표현을 응용하는 과정을 소개합니다.",
-    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-freetalk.jpg",
+    "thumbnailUrl": ["https://speaksale.kr/content/images/thumb-freetalk.jpg"],
     "uploadDate": "2026-02-08T17:00:00+09:00",
-    "contentUrl": "https://speaksale.kr/content/videos/my-lesson.mp4"
+    "contentUrl": "https://speaksale.kr/content/videos/my-lesson.mp4",
+    "embedUrl": "{{ page.url | absolute_url }}#video-freetalk",
+    "inLanguage": "ko-KR",
+    "isFamilyFriendly": true,
+    "publisher": {
+      "@type": "Organization",
+      "name": "speaksale.kr",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://speaksale.kr/content/images/favicon.png"
+      }
+    }
   }
 ]
 </script>

@@ -45,3 +45,34 @@
   </a>
 </div>
 
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "스픽 1단계: 상황별 원어민 진짜 표현 학습",
+    "description": "현지인들이 일상에서 실제 사용하는 살아있는 표현과 문장 패턴을 10분 내외의 짧은 비디오 강의로 익힙니다.",
+    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-step1.jpg",
+    "uploadDate": "2026-02-08T17:30:00+09:00",
+    "contentUrl": "https://speaksale.kr/content/videos/step1-learning-video.mp4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "스픽 2단계: 뇌가 아닌 입 근육 길들이기",
+    "description": "AI 기술이 탑재된 반복 훈련을 통해 문장을 수십 번씩 소리 내어 말하며 입 근육을 길들입니다.",
+    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-step2.jpg",
+    "uploadDate": "2026-02-08T17:30:00+09:00",
+    "contentUrl": "https://speaksale.kr/content/videos/step2-practice-video.mp4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "스픽 3단계: AI 튜터와 실전 프리토킹",
+    "description": "부담 없는 AI 튜터와 마음껏 대화하며 배운 내용을 실전에서 응용하고 즉시 교정받습니다.",
+    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-step3.jpg",
+    "uploadDate": "2026-02-08T17:30:00+09:00",
+    "contentUrl": "https://speaksale.kr/content/videos/step3-ai-tutor-video.mp4"
+  }
+]
+</script>

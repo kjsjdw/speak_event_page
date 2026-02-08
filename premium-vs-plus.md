@@ -3,7 +3,17 @@ layout: default
 title: 스픽 프리미엄 vs 프리미엄 플러스 멤버십 실전 비교 가이드 (2026)
 permalink: /premium-vs-plus/
 description: "스픽 프리미엄 vs 플러스, 아직도 고민되시나요? 2026년 최신 혜택부터 돈 낭비 없는 나만의 맞춤 멤버십 선택 기준까지, 실전 비교 가이드로 한 번에 정리해 드립니다."
+image: /content/images/premium-vs-plus.jpg
 ---
+
+<div class="step-media" style="margin: 20px 0 24px 0;">
+  <img src="/content/images/premium-vs-plus.jpg"
+       width="100%"
+       alt="스픽 프리미엄 vs 프리미엄 플러스 멤버십 비교 대표 이미지"
+       title="스픽 프리미엄 vs 프리미엄 플러스 실전 비교"
+       loading="eager"
+       style="display:block; margin:0 auto;">
+</div>
 
 ## 스픽 프리미엄 vs 프리미엄 플러스: 내 학습 스타일에 맞는 멤버십 선택하기
 

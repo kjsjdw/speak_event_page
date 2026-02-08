@@ -8,7 +8,7 @@
   </div>
   <div class="step-media">
     <video autoplay loop muted playsinline preload='metadata' >
-      <source src="content/videos/step1-learning-video.mp4" type="video/mp4">
+      <source src="/content/videos/step1-learning-video.mp4" type="video/mp4">
       스픽 1단계 학습 영상
     </video>
   </div>
@@ -21,7 +21,7 @@
   </div>
   <div class="step-media">
     <video autoplay loop muted playsinline preload='metadata' >
-      <source src="content/videos/step2-practice-video.mp4" type="video/mp4">
+      <source src="/content/videos/step2-practice-video.mp4" type="video/mp4">
       스픽 2단계 반복 훈련 영상
     </video>
   </div>
@@ -34,11 +34,12 @@
   </div>
   <div class="step-media">
     <video autoplay loop muted playsinline preload='metadata' >
-      <source src="content/videos/step3-ai-tutor-video.mp4" type="video/mp4">
+      <source src="/content/videos/step3-ai-tutor-video.mp4" type="video/mp4">
       스픽 3단계 AI 프리토킹 영상
     </video>
   </div>
 </div>
+
 <div style="text-align: center; margin: 20px 0;">
   <a href="/curriculum/" title='스픽 AI 기반 교육 과정 상세 안내' style="text-decoration: none; display: inline-block; width: auto; padding: 10px 30px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500; line-height: 1.4;">
     🔍 스픽 커리큘럼 및<br>상세 코스 확인하기

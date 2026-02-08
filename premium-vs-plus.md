@@ -39,7 +39,7 @@ description: "스픽 프리미엄 vs 플러스, 아직도 고민되시나요? 20
 프리미엄 플러스 회원에게는 영어 스피킹 습관을 확실하게 잡아주는 **'업그레이드된 30일 습관 완성 챌린지'** 참여권이 무료로 제공됩니다.
 
 <div class='step-media' style='margin: 40px 0;'>
-  <img src='/content/images/speak-habit.jpg' width='100%' alt='스픽 습관 형성 효과' style='display: block; margin: 0 auto;'>
+  <img src='/content/images/speak-habit.jpg' width='100%' alt='스픽 습관 형성 효과' loading='lazy' style='display: block; margin: 0 auto;'> 
 </div>
 
 

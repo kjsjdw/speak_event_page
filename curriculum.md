@@ -86,3 +86,45 @@ description: "왜 유독 스픽만 입이 터질까요? 뇌 과학 기반 AI 커
     }
   });
 </script>
+
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "실전형 스픽 학습 구조: 전체 코스 설계 안내",
+    "description": "입문부터 고급 회화까지 자연스럽게 이어지는 스픽의 단계별 장기 로드맵과 코스 설계 방식을 소개합니다.",
+    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-course.jpg",
+    "uploadDate": "2026-02-08T17:00:00+09:00",
+    "contentUrl": "https://speaksale.kr/content/videos/speak-course.mp4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "스픽의 3단계 입체 학습 진행 방식",
+    "description": "오늘의 수업, 스피킹 연습, 실전 대화로 이어지는 스픽만의 과학적인 3단계 수업 흐름을 보여줍니다.",
+    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-lesson.jpg",
+    "uploadDate": "2026-02-08T17:00:00+09:00",
+    "contentUrl": "https://speaksale.kr/content/videos/speak-lesson.mp4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "AI 기반 발음 및 표현 분석 시스템",
+    "description": "사용자의 발음과 억양을 실시간으로 분석하여 시각적인 피드백을 제공하는 스픽의 AI 기술을 확인하세요.",
+    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-pronunciation.jpg",
+    "uploadDate": "2026-02-08T17:00:00+09:00",
+    "contentUrl": "https://speaksale.kr/content/videos/pronunsiation.mp4"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "AI 튜터와 함께하는 자유 대화: AI 프리토킹",
+    "description": "정해진 진도 외에 AI 캐릭터와 실제 상황처럼 대화를 주고받으며 배운 표현을 응용하는 과정을 소개합니다.",
+    "thumbnailUrl": "https://speaksale.kr/content/images/thumb-freetalk.jpg",
+    "uploadDate": "2026-02-08T17:00:00+09:00",
+    "contentUrl": "https://speaksale.kr/content/videos/my-lesson.mp4"
+  }
+]
+</script>

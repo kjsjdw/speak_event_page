@@ -43,5 +43,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# 주소 설정
+permalink: /:title/
+
 # 인코딩
 encoding: utf-8

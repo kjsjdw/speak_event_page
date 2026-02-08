@@ -41,6 +41,7 @@ exclude:
 # 플러그인
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # 인코딩
 encoding: utf-8

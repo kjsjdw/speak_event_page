@@ -1,10 +1,4 @@
----
-layout: default
-title: "2026 스픽 할인코드 최대 68% 할인 혜택 총정리"
-description: "결제 전 필수 확인! 2026년 스픽 할인코드 공식 파트너 전용 최대 68% 할인 혜택을 놓치지 마세요. 멤버십 비교부터 100% 환불 규정까지, 스픽의 모든 정보를 담았습니다."
-image: /content/images/01-main-hero.jpg
-permalink: /
----
+# 2026 스픽 할인코드 최대 68% 할인 혜택 총정리
 
 <div style="margin: 16px 0; text-align: center;">
   <img
@@ -15,7 +9,6 @@ permalink: /
     style="max-width: 100%; height: auto; display: inline-block;"
   />
 </div>
-
 
 **2026 새해 프로모션(~2/18)** 기간 한정, 공식 파트너 전용 스픽 할인코드 링크로 접속 시 최저가 혜택이 자동 적용됩니다. 7일 이내 100% 환불이 가능하니 지금 바로 가장 저렴한 가격으로 시작해 보세요.
 

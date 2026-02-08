@@ -30,8 +30,8 @@ description: "왜 유독 스픽만 입이 터질까요? 뇌 과학 기반 AI 커
 스픽의 한 회차 수업은 항상 같은 흐름을 따릅니다. 새로운 표현을 보고, 바로 말해 보고, 마지막에 실제 상황에 가깝게 연습하며 마무리하는 구조입니다.
 
 
-<div class='step-media'>
-  <video autoplay loop muted playsinline style='width: 100%;'>
+<div class='step-media'style='margin: 30px 0;'>
+  <video autoplay loop muted playsinline preload='metadata' style='width: 100%;'>
     <source src='/content/videos/speak-lesson.mp4' type='video/mp4'>
     3단계 수업 영상
   </video>
@@ -46,7 +46,7 @@ description: "왜 유독 스픽만 입이 터질까요? 뇌 과학 기반 AI 커
 스픽의 AI 엔진은 사용자가 말한 영어를 빠르게 인식하고, 발음과 억양, 문장 전체를 기준 발음과 비교해 분석합니다.
 
 <div class='step-media'>
-  <video autoplay loop muted playsinline style='width: 100%;'>
+  <video autoplay loop muted playsinline preload='metadata' style='width: 100%;'>
     <source src='/content/videos/pronunsiation.mp4' type='video/mp4'>
     발음 피드백 영상
   </video>
@@ -60,8 +60,8 @@ description: "왜 유독 스픽만 입이 터질까요? 뇌 과학 기반 AI 커
 ### 4. 정해진 진도 외에 AI와 자유 대화가 가능한 환경
 코스를 따라가는 학습 외에도, 스픽 안에서는 AI 튜터와 자유롭게 대화를 이어갈 수 있는 기능이 제공됩니다.
 
-<div class='step-media'>
-  <video autoplay loop muted playsinline style='width: 100%;'>
+<div class='step-media'style='margin: 30px 0;'>
+  <video autoplay loop muted playsinline preload='metadata' style='width: 100%;'>
     <source src='/content/videos/my-lesson.mp4' type='video/mp4'>
   AI 프리톡
   </video>

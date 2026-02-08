@@ -59,6 +59,11 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
+  "@id": "{{ page.url | absolute_url }}#faq",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
   "mainEntity": [
     {
       "@type": "Question",

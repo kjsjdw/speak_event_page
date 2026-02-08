@@ -9,7 +9,7 @@
 <meta name="author" content="{{ site.author }}">
 
 <!-- Canonical URL (구글 SEO 중복 방지 - 중요!) -->
-<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+<link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 
 <link rel='icon' type='image/png' href='/content/images/favicon.png'>
 

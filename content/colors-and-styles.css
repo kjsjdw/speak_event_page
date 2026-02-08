@@ -618,3 +618,23 @@ li {
   color: #1c49ff;
   text-decoration: underline;
 }
+
+/* ========================================
+   Skip link (본문 바로가기)
+   ======================================== */
+.skip-link{
+  position: fixed;
+  top: -60px;
+  left: 12px;
+  z-index: 4000;
+  padding: 10px 14px;
+  background: var(--speak-blue);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.skip-link:focus{
+  top: 12px;
+}
+

@@ -17,7 +17,7 @@
 
 <div style="text-align: center; margin: 20px 0;">
 
-  <a href="/premium-vs-plus/" style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
+  <a href="/premium-vs-plus/" title='스픽 프리미엄과 프리미엄 플러스 멤버십 차이점 상세 비교' style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
 
     🔍 프리미엄 vs 플러스 <br> 상세 비교 보러가기
 

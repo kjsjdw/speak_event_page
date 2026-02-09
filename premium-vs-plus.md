@@ -2,7 +2,7 @@
 layout: default
 title: "스픽 프리미엄 vs 프리미엄 플러스 차이 및 멤버십 선택 가이드"
 permalink: /premium-vs-plus/
-description: "스픽 프리미엄과 플러스 중 고민되시나요? 각 멤버십의 핵심 기능 차이부터 나만의 맞춤 멤버십 선택 기준까지 정리해 드립니다. 나에게 딱 맞는 플랜을 선택해 보세요."
+description: "스픽 프리미엄과 프리미엄 플러스 중 고민되시나요? 각 멤버십의 핵심 기능 차이부터 나만의 맞춤 멤버십 선택 기준까지 정리해 드립니다. 나에게 딱 맞는 플랜을 선택해 보세요."
 image: /content/images/premium-vs-plus.jpg
 ---
 

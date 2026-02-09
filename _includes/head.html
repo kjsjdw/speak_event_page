@@ -88,13 +88,20 @@
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:title" content="{{ page.title | default: site.data.seo.title }}">
 <meta property="og:description" content="{{ page.description | default: site.data.seo.description }}">
-<meta property="og:image" content="{{ page.image | default: '/content/images/01-main-hero.jpg' | absolute_url }}">
+
+{% assign og_img = page.image | default: '/content/images/01-main-hero.jpg' %}
+<meta property="og:image" content="{{ og_img | absolute_url }}">
+<meta property="og:image:secure_url" content="{{ og_img | absolute_url }}">
+<meta property="og:image:width" content="{{ page.image_width | default: 1200 }}">
+<meta property="og:image:height" content="{{ page.image_height | default: 675 }}">
+<meta property="og:image:alt" content="{{ page.image_alt | default: page.title | default: site.data.seo.title }}">
+
 <meta property="og:locale" content="ko_KR">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.title | default: site.data.seo.title }}">
 <meta name="twitter:description" content="{{ page.description | default: site.data.seo.description }}">
-<meta name="twitter:image" content="{{ page.image | default: '/content/images/01-main-hero.jpg' | absolute_url }}">
+<meta name="twitter:image" content="{{ og_img | absolute_url }}">
 
 <!-- 검색엔진 크롤링 허용 -->
 <meta name="robots" content="index, follow, max-image-preview:large">

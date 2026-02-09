@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 스픽 프리미엄 vs 프리미엄 플러스 멤버십 차이점 및 나에게 맞는 플랜 선택 가이드
+title: "스픽 프리미엄 vs 프리미엄 플러스 차이 및 멤버십 선택 가이드"
 permalink: /premium-vs-plus/
 description: "스픽 프리미엄과 플러스 중 고민되시나요? 각 멤버십의 핵심 기능 차이부터 나만의 맞춤 멤버십 선택 기준까지 정리해 드립니다. 나에게 딱 맞는 플랜을 선택해 보세요."
 image: /content/images/premium-vs-plus.jpg
@@ -15,7 +15,7 @@ image: /content/images/premium-vs-plus.jpg
        style="display:block; margin:0 auto;">
 </div>
 
-## 스픽 프리미엄 vs 프리미엄 플러스 멤버십 차이점 및 나에게 맞는 플랜 선택 가이드
+## 스픽 프리미엄 vs 플러스: 주요 기능 차이와 선택 기준
 
 스픽 요금제 선택은 결국 **“오늘 내가 영어로 얼마나 오래, 얼마나 많이 말해보고 싶은지”**에 따라 갈립니다. 같은 스픽이라도, 하루에 열어둘 수 있는 말하기 공간의 크기가 서로 다르다고 보면 이해하기 쉽습니다.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 실리콘밸리 AI로 만드는 실전형 스픽 학습 구조 총정리
+title: 스픽 학습 구조 및 AI 기반 커리큘럼 상세 안내
 permalink: /curriculum/
 description: "왜 유독 스픽만 입이 터질까요? 뇌 과학 기반 AI 커리큘럼과 2026년 새롭게 바뀐 코스 진행 방식을 공개합니다. 일반 영어 학원과는 차원이 다른 학습 효과를 직접 확인해 보세요."
 image: /content/images/curriculum.jpg

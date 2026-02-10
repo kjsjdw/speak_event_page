@@ -1,6 +1,6 @@
 # 스픽 할인코드 최대 68% 할인 혜택 및 2026 최신 통합 가이드
 
-<div style="margin: 16px 0; text-align: center;">
+<div style="margin: 16px 0 0 0; text-align: center;">
   <img
     src="/content/images/01-main-hero.jpg"
     alt="스픽 할인코드 2026 최대 혜택 안내"

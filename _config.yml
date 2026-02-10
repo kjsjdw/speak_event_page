@@ -43,6 +43,7 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # 주소 설정
 permalink: /:title/

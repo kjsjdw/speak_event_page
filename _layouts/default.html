@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
+  <link rel="canonical" href="https://speaksale.kr{{ page.url | replace:'index.html','' }}">
   {% include head.html %}
   {% if page.brand_color %}
   <style>
@@ -24,5 +25,12 @@
   </main>
 
   {% include footer.html %}
+  {%- unless page.url contains "sitemap.xml" -%}
+<script>
+  if (location.pathname.includes('index.html') || location.pathname.endsWith('/index')) {
+    window.history.replaceState(null, '', '/');
+  }
+</script>
+{%- endunless -%}
 </body>
 </html>

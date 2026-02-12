@@ -86,7 +86,8 @@
 <!-- Open Graph (카카오톡/페이스북 공유 시 미리보기) -->
 <meta property="og:site_name" content="speaksale.kr">
 <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:url"
+      content="{% if page.permalink == '/' %}{{ '/' | absolute_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
 <meta property="og:title" content="{{ page.title | default: site.data.seo.title }}">
 <meta property="og:description" content="{{ page.description | default: site.data.seo.description }}">
 

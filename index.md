@@ -6,4 +6,4 @@ image: "https://speaksale.kr/content/images/01-main-hero.jpg"
 permalink: /
 ---
 
-<img src="/content/images/01-main-hero.jpg" alt="스픽 할인코드 2026 최대 혜택 안내" width="1200" height="720">
+<img src="/content/images/01-main-hero.jpg" alt="2026 스픽 멤버십 혜택 및 이용 가이드" width="1200" height="720">

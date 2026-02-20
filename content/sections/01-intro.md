@@ -1,4 +1,4 @@
-# 스픽 할인코드 최대 할인 혜택 및 2026 최신 통합 가이드
+# 스픽 할인코드 혜택 및 2026 멤버십 선택 가이드
 
 <div style="margin: 16px 0 0 0; text-align: center;">
   <img

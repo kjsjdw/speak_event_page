@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 스픽 학습 구조 및 AI 기반 커리큘럼 상세 안내
+title: 스픽 커리큘럼 및 AI 영어 학습 시스템 상세 안내
 permalink: /curriculum/
-description: "왜 유독 스픽만 입이 터질까요? 뇌 과학 기반 AI 커리큘럼과 2026년 새롭게 바뀐 코스 진행 방식을 공개합니다. 일반 영어 학원과는 차원이 다른 학습 효과를 직접 확인해 보세요."
+description: "스픽의 AI 기반 영어 회화 학습 단계와 코스 설계 방식을 소개합니다. 3단계 입체 학습 원리와 실시간 발음 피드백 등 구체적인 커리큘럼 정보를 확인해 보세요."
 image: /content/images/curriculum.jpg
 ---
 

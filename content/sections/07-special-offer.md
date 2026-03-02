@@ -14,7 +14,7 @@
     </p>
     <a href="https://blog.naver.com/richungcy/224045743077"
        target="_blank" rel="noopener" class="review-link-button">
-      🔍 스픽 사용 후기 확인하기
+      🔍 <strong>스픽 사용 후기 확인하기</strong>
     </a>
   </div>
 </section>

@@ -19,6 +19,7 @@
   </div>
 </section>
 
+<div style="margin-top: 50px;"></div>
 
 <div class="cta-buttons final-cta" id="cta-section">
   <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="noopener">

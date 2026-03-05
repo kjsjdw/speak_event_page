@@ -43,7 +43,7 @@ image: /content/images/refund.jpg
 <h2 id="toc-refund-3" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">3. 유의사항</h2>
 <p>결제 후 7일이 지난 경우에는 별도의 상담이 필요합니다. 할인코드가 적용된 최저가 혜택은 웹 결제 시에만 유효하므로 재가입 시에도 이 점을 확인해 주세요.</p>
 
----
+<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
 <div style="text-align: center; margin-top: 30px;">
   <a href="/" style="text-decoration: none; display: inline-block; width: auto; padding: 6px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">

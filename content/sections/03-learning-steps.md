@@ -1,4 +1,4 @@
-<h2 id="toc-2" style="padding-top: 120px; margin-top: -80px; padding-bottom: 30px;">2. 입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</h2>
+<h2 id="toc-2" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">2. 입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</h2>
 스픽이 전 세계 수백만 명의 선택을 받은 비결은 단순히 강의를 듣는 데서 그치지 않고, 직접 말하게 만드는 과학적인 시스템에 있습니다.
 
 <div class="learning-step">

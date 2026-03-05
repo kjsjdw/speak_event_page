@@ -12,7 +12,7 @@
   <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
 
   <div class="review-link-block" id="review">
-    <h2 id="toc-7" style="padding-top: 120px; margin-top: -80px; padding-bottom: 30px;">7. 상세 사용 후기</h2>
+    <h2 id="toc-7" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">7. 상세 사용 후기</h2>
     <p>
       스픽을 직접 사용해 본 경험을 바탕으로 정리한 후기를 블로그에 담았습니다.
     </p>

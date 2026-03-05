@@ -32,7 +32,7 @@ image: /content/images/premium-vs-plus.jpg
   </ol>
 </div>
 
-><div class='step-media' style='margin: 30px 0;'>
+<div class='step-media' style='margin: 30px 0;'>
   <img src='/content/images/premium-vs-plus-compare.png' width='100%' alt='스픽 요금제 비교' title='스픽 프리미엄 및 프리미엄 플러스 요금제 혜택 상세 비교' style='display: block; margin: 0 auto; width: 100%; height: auto; max-width: 100%;'>
 </div>
 

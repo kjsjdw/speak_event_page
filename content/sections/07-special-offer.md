@@ -8,7 +8,8 @@
       <li>사람과 대화하는 게 부담스러워 AI 튜터와 편하게 연습하고 싶은 분</li>
     </ul>
   </div>
----
+
+<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
   
   <div class="review-link-block" id="review">
     <h2 id="toc-7" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">7. 상세 사용 후기</h2>
@@ -21,9 +22,8 @@
     </a>
   </div>
 </section>
----
 
-<div style="margin-top: 50px;"></div>
+<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 
 <div class="cta-buttons final-cta" id="cta-section">
   <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="noopener">

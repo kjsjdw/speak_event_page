@@ -1,4 +1,4 @@
-<h2 id="toc-5" style="padding-top: 120px; margin-top: -80px; padding-bottom: 30px;">5. 왜 수백만 명이 스픽을 선택했을까요?</h2>
+<h2 id="toc-5" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">5. 왜 수백만 명이 스픽을 선택했을까요?</h2>
 학원 갈 시간 없는 바쁜 현대인을 위한 가장 스마트한 선택입니다.
 
 * **눈치 보지 않는 환경:** 사람 원어민 앞에서는 쑥스러워 말하기 힘들어도, AI 튜터와는 마음껏 틀리며 연습할 수 있습니다.

@@ -22,8 +22,6 @@ image: /content/images/premium-vs-plus.jpg
   같은 스픽이라도 하루에 활용할 수 있는 말하기 연습 공간의 크기가 서로 다르다고 생각하면 이해하기 쉽습니다.
 </p>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
-
 <div class='toc-container' style="background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin: 30px 0;">
   <h2 class='toc-title' style="margin-top: 0; margin-bottom: 15px; font-size: 1.1rem; color: #1a202c; border: none; padding: 0;">📑 목차</h2>
   <ol style="line-height: 2.0; margin-bottom: 0; padding-left: 20px;">
@@ -34,15 +32,13 @@ image: /content/images/premium-vs-plus.jpg
   </ol>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
-
 <div class='step-media' style='margin: 30px 0;'>
   <img src='/content/images/premium-vs-plus-compare.png' width='100%' alt='스픽 요금제 비교' title='스픽 프리미엄 및 프리미엄 플러스 요금제 혜택 상세 비교' style='display: block; margin: 0 auto;'>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
+<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 
-<h2 id="toc-1" style="padding-top: 5px; margin-top: 0; padding-bottom: 20px;">1. AI 튜터 대화 가능 범위</h2>
+<h2 id="toc-1" style="padding-top: 100px; margin-top: 0; padding-bottom: 20px;">1. AI 튜터 대화 가능 범위</h2>
 <p>두 요금제 모두 AI 튜터를 쓸 수 있지만, 얼마만큼 마음껏 활용하느냐에서 차이가 납니다.</p>
 
 * **스픽 프리미엄**: 하루에 만들 수 있는 AI 레슨과 대화량에 **일정한 상한선**이 있습니다. 

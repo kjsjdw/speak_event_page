@@ -1,5 +1,4 @@
-<h2 id="toc-1" style="padding-top: 80px; margin-top: -80px;">1. 2026 스픽 가격 및 플랜 상세 비교</h2>
-
+<h2 id="toc-1" style="padding-top: 120px; margin-top: -80px; padding-bottom: 30px;">1. 2026 스픽 가격 및 플랜 상세 비교</h2>
 본인의 학습 목적에 맞는 플랜을 선택하는 것이 무엇보다 중요합니다. **스픽 프리미엄 플러스 차이**를 정가 대비 할인가로 꼼꼼히 비교해 드립니다.
 
 | 구분 | 스픽 프리미엄 (Premium) | **스픽 프리미엄 플러스 (Plus)** |

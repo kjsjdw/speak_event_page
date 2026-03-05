@@ -1,4 +1,4 @@
-<h2 id="toc-4" style="padding-top: 120px; margin-top: -80px; padding-bottom: 30px;">4. 스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)</h2>
+<h2 id="toc-4" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">4. 스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)</h2>
 
 <div>
   <h3>🙋‍♂️ 별도의 스픽 할인코드를 직접 복사해서 입력해야 하나요?</h3>

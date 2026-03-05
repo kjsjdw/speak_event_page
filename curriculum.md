@@ -18,8 +18,6 @@ image: /content/images/curriculum.jpg
 <h1 style="padding-bottom: 20px;">스픽 커리큘럼 및 AI 영어 학습 시스템 상세 안내</h1>
 <p>한국에서 영어를 오래 공부해도 입이 쉽게 안 트이는 가장 큰 이유는, 실제로 말해볼 기회가 거의 없다는 데 있습니다. 스픽은 이 문제를 풀기 위해, **실리콘밸리에서 개발된 영어 말하기 전용 AI**를 활용해 집에서도 원어민을 상대로 연습하는 것과 비슷한 환경을 만들어 줍니다.</p>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
-
 <div class='toc-container' style="background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin: 30px 0;">
   <h2 class='toc-title' style="margin-top: 0; margin-bottom: 15px; font-size: 1.2rem; color: #1a202c;">📑 목차</h2>
   <ol style="line-height: 2.0; margin-bottom: 0;">
@@ -30,9 +28,7 @@ image: /content/images/curriculum.jpg
   </ol>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
-
-<h2 id="toc-1" style="padding-top: 40px; margin-top: 0; padding-bottom: 25px;">1. 스픽 코스 설계: 처음부터 끝까지 한 줄로 이어진 학습 흐름</h2>
+<h2 id="toc-1" style="padding-top: 25px; margin-top: 0; padding-bottom: 25px;">1. 스픽 코스 설계: 처음부터 끝까지 한 줄로 이어진 학습 흐름</h2>
 <p>스픽 커리큘럼은 한국인 학습자 데이터를 바탕으로, 어느 수준에서 시작해도 다음 단계가 자연스럽게 이어지도록 구성된 코스입니다.</p>
 
 <div id="video-course" class="step-media" style="margin: 30px 0;">
@@ -49,7 +45,7 @@ image: /content/images/curriculum.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
-<h2 id="toc-2" style="padding-top: 40px; margin-top: 0; padding-bottom: 25px;">2. 한 수업 안에서 반복 노출되는 3단계 진행 방식</h2>
+<h2 id="toc-2" style="padding-top: 25px; margin-top: 0; padding-bottom: 25px;">2. 한 수업 안에서 반복 노출되는 3단계 진행 방식</h2>
 <p>스픽의 한 회차 수업은 항상 같은 흐름을 따릅니다. 새로운 표현을 보고, 바로 말해 보고, 마지막에 실제 상황에 가깝게 연습하며 마무리하는 방식입니다.</p>
 
 <div id="video-lesson" class="step-media" style="margin: 30px 0;">
@@ -65,7 +61,7 @@ image: /content/images/curriculum.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
-<h2 id="toc-3" style="padding-top: 50px; margin-top: 0; padding-bottom: 25px;">3. AI가 발음과 표현 사용을 즉시 분석하는 시스템</h2>
+<h2 id="toc-3" style="padding-top: 25px; margin-top: 0; padding-bottom: 25px;">3. AI가 발음과 표현 사용을 즉시 분석하는 시스템</h2>
 <p>스픽의 AI 엔진은 사용자가 말한 영어를 빠르게 인식하고, 발음과 억양, 문장 전체를 기준 발음과 비교해 분석합니다.</p>
 
 <div id="video-pronunciation" class="step-media">
@@ -81,7 +77,7 @@ image: /content/images/curriculum.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
-<h2 id="toc-4" style="padding-top: 50px; margin-top: 0; padding-bottom: 25px;">4. 정해진 진도 외에 AI와 자유 대화가 가능한 환경</h2>
+<h2 id="toc-4" style="padding-top: 25px; margin-top: 0; padding-bottom: 25px;">4. 정해진 진도 외에 AI와 자유 대화가 가능한 환경</h2>
 <p>코스를 따라가는 학습 외에도, 스픽 안에서는 AI 튜터와 자유롭게 대화를 이어갈 수 있는 기능이 제공됩니다.</p>
 
 <div id="video-freetalk" class="step-media" style="margin: 30px 0;">

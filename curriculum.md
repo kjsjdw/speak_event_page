@@ -94,7 +94,7 @@ image: /content/images/curriculum.jpg
 * **비주얼 모드 프리토킹**: 단순 음성만 주고받는 방식이 아니라, **화면 속 AI 캐릭터를 보면서 대화하는 형태**로 구성돼 있어 실제 대화에 가까운 느낌을 제공합니다.
 * **상황별 변수 연습**: 정해진 답을 읽는 방식이 아니라, 사용자의 대답에 따라 다음 질문과 대화 방향이 달라지는 구조라, 배운 표현을 응용해서 써보는 데 도움이 됩니다. 필요에 따라 해당 대화에서 드러난 약한 부분을 **다시 학습 코스로 연결**할 수도 있습니다.
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
+<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 20px;">
   <a href="/" style="text-decoration: none; display: inline-block; width: auto; padding: 10px 30px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500; line-height: 1.4;">

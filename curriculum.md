@@ -18,8 +18,6 @@ image: /content/images/curriculum.jpg
 <h1 style="padding-bottom: 20px;">스픽 커리큘럼 및 AI 영어 학습 시스템 상세 안내</h1>
 <p>한국에서 영어를 오래 공부해도 입이 쉽게 안 트이는 가장 큰 이유는, 실제로 말해볼 기회가 거의 없다는 데 있습니다. 스픽은 이 문제를 풀기 위해, <strong>실리콘밸리에서 개발된 영어 말하기 전용 AI</strong>를 활용해 집에서도 원어민을 상대로 연습하는 것과 비슷한 환경을 만들어 줍니다.</p>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-
 <div class='toc-container' style="background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin: 30px 0;">
   <h2 class='toc-title' style="margin-top: 0; margin-bottom: 15px; font-size: 1.2rem; color: #1a202c;">📑 목차</h2>
   <ol style="line-height: 2.0; margin-bottom: 0;">
@@ -29,8 +27,6 @@ image: /content/images/curriculum.jpg
     <li><a href='#toc-4' style="color: #4a5568; text-decoration: none;">AI 자유 대화 환경</a></li>
   </ol>
 </div>
-
-<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 
 <h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 25px;">1. 스픽 코스 설계: 처음부터 끝까지 한 줄로 이어진 학습 흐름</h2>
 <p>스픽 커리큘럼은 한국인 학습자 데이터를 바탕으로, 어느 수준에서 시작해도 다음 단계가 자연스럽게 이어지도록 구성된 코스입니다.</p>

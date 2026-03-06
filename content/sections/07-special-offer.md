@@ -26,10 +26,10 @@
 <hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 
 <div class="cta-buttons final-cta" id="cta-section">
-  <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="noopener">
+  <a href="{{ site.data.links.premium }}" class="cta-button" target="_blank" rel="sponsored noopener">
     👉 스픽 프리미엄<br>할인코드 자동 적용하기
   </a>
-  <a href="{{ site.data.links.premium_plus }}" class="cta-button cta-button-plus" target="_blank" rel="noopener">
+  <a href="{{ site.data.links.premium_plus }}" class="cta-button cta-button-plus" target="_blank" rel="sponsored noopener">
     👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기
   </a>
 </div>

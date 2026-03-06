@@ -39,7 +39,7 @@
     "url": "{{ site.url }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ '/content/images/favicon.png' | absolute_url }}"
+      "url": "{{ '/content/images/favicon2.png' | absolute_url }}"
     }
   }
 }
@@ -73,7 +73,7 @@
     "url": "{{ site.url }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ '/content/images/favicon.png' | absolute_url }}"
+      "url": "{{ '/content/images/favicon2.png' | absolute_url }}"
     }
   }{% if page.date %},
   "datePublished": "{{ page.date | date_to_xmlschema }}"{% endif %}{% if page.last_modified_at %},
@@ -85,7 +85,7 @@
 <!-- Canonical URL (구글 SEO 중복 방지 - 중요!) -->
 <link rel="canonical" href="{% if is_home %}{{ '/' | absolute_url }}{% else %}{{ page.url | replace: 'index.html', '' | absolute_url }}{% endif %}">
 
-<link rel="icon" type="image/png" href="/content/images/favicon.png">
+<link rel="icon" type="image/png" href="/content/images/favicon2.png">
 
 <!-- Open Graph (카카오톡/페이스북 공유 시 미리보기) -->
 <meta property="og:site_name" content="speaksale.kr">

@@ -14,7 +14,7 @@
   <div class="review-link-block" id="review">
     <h2 id="toc-7" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">7. 상세 사용 후기</h2>
     <p>
-      스픽을 직접 사용해 본 경험을 바탕으로 정리한 후기를 블로그에 담았습니다.
+      직접 사용해 보며 느낀 점과 활용 방법은 <strong>블로그 후기</strong>에서 조금 더 자세히 확인할 수 있습니다.
     </p>
     <a href="https://blog.naver.com/richungcy/224045743077"
        target="_blank" rel="noopener" class="review-link-button" style="font-size: 18px;">

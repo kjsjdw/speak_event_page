@@ -41,7 +41,6 @@
     <li><a href='#toc-7' title='스픽 상세 사용 후기 확인하기'>상세 사용 후기</a></li>
   </ol>
 </div>
-</p>
 
 <div class="cta-buttons" id="cta-top">
 

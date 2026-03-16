@@ -35,7 +35,7 @@
   },
   "publisher": {
     "@type": "Organization",
-    "name": "speaksale.kr",
+    "name": "speaksale",
     "url": "{{ site.url }}",
     "logo": {
       "@type": "ImageObject",
@@ -64,12 +64,12 @@
   },
   "author": {
     "@type": "Person",
-    "name": "{{ site.author | default: 'Speaksale.kr' }}",
+    "name": "{{ site.author | default: 'speaksale' }}",
     "url": "{{ site.url }}"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "speaksale.kr",
+    "name": "speaksale",
     "url": "{{ site.url }}",
     "logo": {
       "@type": "ImageObject",
@@ -88,7 +88,7 @@
 <link rel="icon" type="image/png" href="/content/images/favicon2.png">
 
 <!-- Open Graph (카카오톡/페이스북 공유 시 미리보기) -->
-<meta property="og:site_name" content="speaksale.kr">
+<meta property="og:site_name" content="speaksale">
 <meta property="og:type" content="{% if is_home %}website{% else %}article{% endif %}">
 <meta property="og:url" content="{% if is_home %}{{ '/' | absolute_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
 <meta property="og:title" content="{{ page.title | default: site.data.seo.title }}">

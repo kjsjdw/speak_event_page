@@ -9,9 +9,39 @@
   />
 </div>
 
-<p>스픽을 처음 이용하기 전에 많이 궁금해하시는 할인코드 적용 방법과 멤버십별 가격, 환불 규정, 커리큘럼 정보까지 한곳에서 확인할 수 있도록 정리했습니다.</p>
+<p>2026년 3월 기준 스픽 할인코드 적용 방법, 멤버십 가격, 커리큘럼, 환불 방법까지 가입 전에 꼭 확인하셔야 할 내용을 한곳에 정리했습니다.</p>
 
-<p>2026년 3월 기준 스픽 공식 정보를 바탕으로 작성되었으며, 공식 파트너 전용 링크를 통해 웹에서 결제하실 때 적용되는 할인 혜택도 함께 안내드립니다.</p>
+<div class="cta-buttons" id="cta-top">
+
+  <a href="{{ site.data.links.premium }}" title='스픽 프리미엄 요금제 할인코드 자동 적용 및 가입 페이지로 이동' class="cta-button" target="_blank" rel="sponsored noopener">
+
+    👉 스픽 프리미엄<br>할인코드 자동 적용하기
+
+  </a>
+
+  <a href="{{ site.data.links.premium_plus }}" title='스픽 프리미엄 플러스 최저가 할인 혜택 적용 페이지로 이동' class="cta-button cta-button-plus" target="_blank" rel="sponsored noopener">
+
+    👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기
+
+  </a>
+
+</div>
+
+---
+
+<div class='toc-container'>
+  <h2 class='toc-title'>📑 목차</h2>
+  <ol>
+    <li><a href='#toc-1' title='2026 스픽 가격 및 플랜 상세 비교 섹션으로 이동'>2026 스픽 가격 및 플랜 상세 비교</a></li>
+    <li><a href='#toc-2' title='스픽 3단계 입체 학습 원리 확인하기'>입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</a></li>
+    <li><a href='#toc-3' title='스픽 프리미엄과 플러스 플랜 비교 가이드'>스픽 프리미엄 vs 플러스 나에게 맞는 선택 가이드</a></li>
+    <li><a href='#toc-4' title='스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)'>스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)</a></li>
+    <li><a href='#toc-5' title='스픽을 선택해야 하는 이유 확인하기'>왜 수백만 명이 스픽을 선택했을까요?</a></li>
+    <li><a href='#toc-6' title='스픽 추천 대상 확인하기'>추천 대상</a></li>
+    <li><a href='#toc-7' title='스픽 상세 사용 후기 확인하기'>상세 사용 후기</a></li>
+  </ol>
+</div>
+</p>
 
 <div class="cta-buttons" id="cta-top">
 

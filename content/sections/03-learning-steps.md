@@ -1,5 +1,5 @@
 <h2 id="toc-2" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">2. 입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</h2>
-스픽이 전 세계 수백만 명의 선택을 받은 비결은 단순히 강의를 듣는 데서 그치지 않고, 직접 말하게 만드는 과학적인 시스템에 있습니다.
+스픽은 단순히 강의를 듣는 데서 그치지 않고, <strong>직접 말하는 연습</strong>을 이어가게 만드는 방식으로 구성되어 있습니다.
 
 <div class="learning-step">
   <div class="step-content">
@@ -17,7 +17,7 @@
 <div class="learning-step">
   <div class="step-content">
     <h3>Step 2. 뇌가 아닌 '입 근육' 길들이기</h3>
-    <p>스픽의 핵심은 압도적인 발화량입니다. 단순히 눈으로 보는 것이 아니라, AI 기술이 탑재된 반복 훈련을 통해 한 문장을 수십 번씩 소리 내어 말합니다. 실시간 음성 인식 시스템이 내 발음을 분석하여 즉각적인 피드백을 주기 때문에 1:1 과외를 받는 효과를 누릴 수 있습니다.</p>
+    <p>스픽의 핵심은 <strong>직접 말하는 연습량</strong>이 많다는 점입니다. 단순히 눈으로 보는 데 그치지 않고, 반복 훈련을 통해 한 문장을 여러 번 소리 내어 말하게 됩니다. <strong>음성 인식 기반 피드백</strong>으로 발음과 표현을 바로 점검해 볼 수 있다는 점도 특징입니다.</p>
   </div>
   <div class="step-media">
     <video autoplay loop muted playsinline preload='metadata' >

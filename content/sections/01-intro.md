@@ -13,62 +13,27 @@
 
 <div class="cta-buttons" id="cta-top">
 
-  <a href="{{ site.data.links.premium }}" title='스픽 프리미엄 요금제 할인코드 자동 적용 및 가입 페이지로 이동' class="cta-button" target="_blank" rel="sponsored noopener">
-
+  <a href="{{ site.data.links.premium }}" title="스픽 프리미엄 요금제 할인코드 자동 적용 및 가입 페이지로 이동" class="cta-button" target="_blank" rel="sponsored noopener">
     👉 스픽 프리미엄<br>할인코드 자동 적용하기
-
   </a>
 
-  <a href="{{ site.data.links.premium_plus }}" title='스픽 프리미엄 플러스 최저가 할인 혜택 적용 페이지로 이동' class="cta-button cta-button-plus" target="_blank" rel="sponsored noopener">
-
+  <a href="{{ site.data.links.premium_plus }}" title="스픽 프리미엄 플러스 최저가 할인 혜택 적용 페이지로 이동" class="cta-button cta-button-plus" target="_blank" rel="sponsored noopener">
     👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기
-
   </a>
 
 </div>
 
 ---
 
-<div class='toc-container'>
-  <h2 class='toc-title'>📑 목차</h2>
+<div class="toc-container">
+  <h2 class="toc-title">📑 목차</h2>
   <ol>
-    <li><a href='#toc-1' title='2026 스픽 가격 및 플랜 상세 비교 섹션으로 이동'>2026 스픽 가격 및 플랜 상세 비교</a></li>
-    <li><a href='#toc-2' title='스픽 3단계 입체 학습 원리 확인하기'>입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</a></li>
-    <li><a href='#toc-3' title='스픽 프리미엄과 플러스 플랜 비교 가이드'>스픽 프리미엄 vs 플러스 나에게 맞는 선택 가이드</a></li>
-    <li><a href='#toc-4' title='스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)'>스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)</a></li>
-    <li><a href='#toc-5' title='스픽을 선택해야 하는 이유 확인하기'>왜 수백만 명이 스픽을 선택했을까요?</a></li>
-    <li><a href='#toc-6' title='스픽 추천 대상 확인하기'>추천 대상</a></li>
-    <li><a href='#toc-7' title='스픽 상세 사용 후기 확인하기'>상세 사용 후기</a></li>
-  </ol>
-</div>
-
-<div class="cta-buttons" id="cta-top">
-
-  <a href="{{ site.data.links.premium }}" title='스픽 프리미엄 요금제 할인코드 자동 적용 및 가입 페이지로 이동' class="cta-button" target="_blank" rel="sponsored noopener">
-
-    👉 스픽 프리미엄<br>할인코드 자동 적용하기
-
-  </a>
-
-  <a href="{{ site.data.links.premium_plus }}" title='스픽 프리미엄 플러스 최저가 할인 혜택 적용 페이지로 이동' class="cta-button cta-button-plus" target="_blank" rel="sponsored noopener">
-
-    👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기
-
-  </a>
-
-</div>
-
----
-
-<div class='toc-container'>
-  <h2 class='toc-title'>📑 목차</h2>
-  <ol>
-    <li><a href='#toc-1' title='2026 스픽 가격 및 플랜 상세 비교 섹션으로 이동'>2026 스픽 가격 및 플랜 상세 비교</a></li>
-    <li><a href='#toc-2' title='스픽 3단계 입체 학습 원리 확인하기'>입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</a></li>
-    <li><a href='#toc-3' title='스픽 프리미엄과 플러스 플랜 비교 가이드'>스픽 프리미엄 vs 플러스 나에게 맞는 선택 가이드</a></li>
-    <li><a href='#toc-4' title='스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)'>스픽 할인코드 및 서비스 FAQ (자주 묻는 질문)</a></li>
-    <li><a href='#toc-5' title='스픽을 선택해야 하는 이유 확인하기'>왜 수백만 명이 스픽을 선택했을까요?</a></li>
-    <li><a href='#toc-6' title='스픽 추천 대상 확인하기'>추천 대상</a></li>
-    <li><a href='#toc-7' title='스픽 상세 사용 후기 확인하기'>상세 사용 후기</a></li>
+    <li><a href="#toc-1">2026 스픽 가격 및 플랜 상세 비교</a></li>
+    <li><a href="#toc-2">입이 기억하게 만드는 스픽만의 3단계 입체 학습 원리</a></li>
+    <li><a href="#toc-3">스픽 프리미엄 vs 플러스 나에게 맞는 선택 가이드</a></li>
+    <li><a href="#toc-4">스픽 할인코드 및 서비스 FAQ</a></li>
+    <li><a href="#toc-5">왜 수백만 명이 스픽을 선택했을까요?</a></li>
+    <li><a href="#toc-6">추천 대상</a></li>
+    <li><a href="#toc-7">상세 사용 후기</a></li>
   </ol>
 </div>

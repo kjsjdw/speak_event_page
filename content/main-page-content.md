@@ -28,3 +28,7 @@ brand_color: "#1C49FF"
 ---
 
 {% include_relative sections/06-why-speak.md %}
+
+---
+
+{% include_relative sections/07-special-offer.md %}

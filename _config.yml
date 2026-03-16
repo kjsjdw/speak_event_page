@@ -8,10 +8,10 @@ baseurl: ""
 url: "https://speaksale.kr"
 
 # 사이트 기본 정보
-title: "speaksale.kr"
-description: "스픽 할인코드 공식 파트너 사이트"
-author: "Speaksale.kr"
-lang: ko
+title: "speaksale"
+description: "스픽 할인코드와 멤버십 정보를 정리한 안내 사이트"
+author: "Speaksale"
+lang: ko-KR
 
 # 마크다운 엔진
 markdown: kramdown

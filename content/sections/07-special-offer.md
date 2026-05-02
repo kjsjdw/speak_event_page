@@ -16,8 +16,9 @@
     <p>
       직접 사용해 보며 느낀 점과 활용 방법은 <strong>블로그 후기</strong>에서 조금 더 자세히 확인할 수 있습니다.
     </p>
-    <a href="https://blog.naver.com/richungcy/224045743077"
-       target="_blank" rel="noopener" class="review-link-button" style="font-size: 18px;">
+    <a href="/reviews/"
+       title="스픽 내돈내산 사용 후기 및 가격·할인 정보 정리"
+       class="review-link-button" style="font-size: 18px;">
       🔍 <strong>스픽 사용 후기 확인하기</strong>
     </a>
   </div>

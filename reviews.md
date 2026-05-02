@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 스픽 후기 모음 - 직접 써본 학습 후기 및 가격·할인 정보 정리
+title: 스픽 내돈내산 후기 모음 - 직접 써본 학습 효과와 장단점
 permalink: /reviews/
-description: "스픽을 직접 결제해 사용한 실사용 후기와 가격·할인 정보 글을 한 곳에 모았습니다. 50개월 사용기, 왕초보 후기, OPIc 프리톡 활용, 2026년 가격 총정리 등 다양한 후기 글을 확인해 보세요."
+description: "스픽을 직접 결제해 사용한 내돈내산 후기들을 모아 정리했습니다. 왕초보 사용기, OPIc 프리톡 활용 후기, 장기 사용 후 느낀 학습 효과와 장단점까지 함께 살펴보실 수 있습니다."
 image: /content/images/reviews.jpg
 ---
 
@@ -15,11 +15,10 @@ image: /content/images/reviews.jpg
        style="display:block; margin:0 auto;">
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 후기 모음 - 직접 써본 학습 후기 및 가격·할인 정보 정리</h1>
+<h1 style="padding-bottom: 20px;">스픽 내돈내산 후기 모음 - 직접 써본 학습 효과와 장단점 </h1>
 
 <p>
-  스픽을 직접 결제해 매일 사용해 본 실제 학습 후기와, 2026년 기준 가격·할인 정보를 정리한 글들을 모았습니다.<br>
-  학습 루틴부터 프리톡 활용, 요금제 비교, 할인코드 적용 방법까지 결제 전 궁금하실 만한 내용을 한 페이지에서 살펴보세요.
+  스픽을 직접 결제해 매일 사용해 본 실제 학습 후기와, 2026년 기준 가격·할인 정보를 정리한 글들을 모았습니다. 학습 루틴부터 프리톡 활용, 요금제 비교, 할인코드 적용 방법까지 결제 전 궁금하실 만한 내용을 한 페이지에서 살펴보세요.
 </p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
@@ -73,7 +72,7 @@ image: /content/images/reviews.jpg
     </a>
   </h3>
   <p style="color: #4a5568; line-height: 1.7; margin: 0 0 14px 0; font-size: 0.95rem;">
-    영어를 거의 못 하는 왕초보가 스픽 왕초보 레벨로 20분 만에 100문장을 말하기까지의 3단계 시스템, 나만의 수업 생성 기능, 스마트 복습 시스템을 직접 사용해 본 후기입니다.
+   스픽 왕초보 레벨로 20분 만에 100문장을 말하기까지의 3단계 시스템, 나만의 수업 생성 기능, 스마트 복습 시스템을 직접 사용해 본 후기입니다.
   </p>
   <a href="https://blog.naver.com/kjsjdw/224134286916" target="_blank" rel="noopener" style="color: #1c49ff; font-size: 0.92rem; text-decoration: none; font-weight: 500;">
     원문 보러 가기 →
@@ -87,7 +86,7 @@ image: /content/images/reviews.jpg
     </a>
   </h3>
   <p style="color: #4a5568; line-height: 1.7; margin: 0 0 14px 0; font-size: 0.95rem;">
-    307일 연속으로 학습을 이어간 저자가 'should've' 패턴 학습과 '기차를 놓친 상황' AI 프리톡 롤플레이 사례를 통해 매일 학습이 가능했던 이유를 풀어냅니다.
+    307일 연속으로 학습을 이어가며 'should've' 패턴 학습과 '기차를 놓친 상황' AI 프리톡 롤플레이로 학습한 후기입니다.
   </p>
   <a href="https://blog.naver.com/kjsjdw/224119213875" target="_blank" rel="noopener" style="color: #1c49ff; font-size: 0.92rem; text-decoration: none; font-weight: 500;">
     원문 보러 가기 →

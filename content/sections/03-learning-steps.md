@@ -1,4 +1,4 @@
-<h2 id="toc-2" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">2. 입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</h2>
+<h2 id="toc-4" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">4. 입이 기억하게 만드는 스픽만의 '3단계 입체 학습' 원리</h2>
 <p>
 스픽은 말하기 연습에 초점을 맞춘, 말하기 중심 영어회화 앱입니다. 직접 말하면서 익히는 과정을 반복할 수 있도록 구성되어 있습니다.
 </p>

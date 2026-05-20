@@ -1,6 +1,6 @@
 <section class="who-for-and-review">
   <div id="recommend">
-  <h2 id="toc-6" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">6. 추천 대상</h2>
+  <h2 id="toc-6" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">6. 스픽 할인코드 추천 대상</h2>
     <ul>
       <li>학원 갈 시간은 부족하지만, 하루 10~20분 정도 영어에 투자하고 싶은 직장인</li>
       <li>토익 점수는 갖췄지만 막상 말하려면 입이 잘 안 떨어지는 분</li>
@@ -12,7 +12,7 @@
 <hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
   
   <div class="review-link-block" id="review">
-    <h2 id="toc-7" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">7. 상세 사용 후기</h2>
+    <h2 id="toc-7" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">7. 스픽 내돈내산 사용 후기 모음</h2>
     <p>
       직접 사용해 보며 느낀 점과 활용 방법은 <strong>블로그 후기</strong>에서 조금 더 자세히 확인할 수 있습니다.
     </p>

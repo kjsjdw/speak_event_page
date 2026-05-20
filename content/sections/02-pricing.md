@@ -1,4 +1,4 @@
-<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">1. 2026 스픽 가격 및 플랜 상세 비교</h2>
+<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">1. 스픽 할인코드 적용가 — 프리미엄 109,000원 · 플러스 239,000원</h2>
 <p>스픽 프리미엄과 스픽 프리미엄 플러스는 가격과 제공 기능이 서로 다릅니다. 아래 표에서 2026년 5월 기준 스픽 멤버십 가격 정보를 확인해 보세요.</p>
 
 | 구분 | 스픽 프리미엄 (Premium) | **스픽 프리미엄 플러스 (Plus)** |

@@ -1,4 +1,4 @@
-<h2 id="toc-3" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">3. 스픽 프리미엄 vs 플러스, 나에게 맞는 선택 가이드</h2>
+<h2 id="toc-3" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">3. 스픽 프리미엄 vs 프리미엄 플러스 차이 비교</h2>
 
 많이 궁금해하는 <strong>스픽 프리미엄</strong>과 <strong>스픽 프리미엄 플러스</strong>의 차이를 조금 더 구체적으로 정리했습니다.
 

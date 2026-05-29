@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 스픽 환불 정책 및 결제 경로별 환불·구독 취소 방법 종합 안내
+title: 스픽 환불 규정 및 결제 경로별 환불·구독 취소 방법 종합 안내
 permalink: /refund/
-description: "스픽 7일 이내 100% 전액 환불, 7일 이후 부분 환불 계산법, 애플 앱스토어·구글 플레이·웹사이트(Paddle/NICE Payments) 결제 경로별 환불·구독 취소 절차, 12개월 할부 결제 처리까지 한곳에 정리했습니다."
+description: "스픽 환불 규정을 한눈에 정리했습니다. 7일 이내 100% 전액 환불, 7일 이후 부분 환불 계산법, 애플 앱스토어·구글 플레이·웹사이트(Paddle/NICE Payments) 결제 경로별 환불·구독 취소 절차까지 안내합니다."
 image: /content/images/refund.jpg
 ---
 
@@ -15,15 +15,15 @@ image: /content/images/refund.jpg
        style="display:block; margin:0 auto;">
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 환불 정책 및 결제 경로별 환불·구독 취소 방법 종합 안내</h1>
+<h1 style="padding-bottom: 20px;">스픽 환불 규정 및 결제 경로별 환불·구독 취소 방법 종합 안내</h1>
 
-<p>스픽 멤버십을 결제하셨는데 더 이상 이용하지 않으시거나 본인에게 맞지 않다고 느끼신다면, 결제 경로와 시점에 따라 환불 또는 구독 취소가 가능합니다. 이 페이지에서는 환불 정책 전반과, 결제 수단별(애플 앱스토어 / 구글 플레이스토어 / 스픽 웹사이트) 신청 절차를 모두 정리해 드립니다.</p>
+<p>스픽 멤버십을 결제하셨는데 더 이상 이용하지 않으시거나 본인에게 맞지 않다고 느끼신다면, 결제 경로와 시점에 따라 환불 또는 구독 취소가 가능합니다. 이 페이지에서는 스픽 환불 규정 전반과, 결제 수단별(애플 앱스토어 / 구글 플레이스토어 / 스픽 웹사이트) 신청 절차를 모두 정리해 드립니다.</p>
 
 <div class='toc-container' style="background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin: 30px 0;">
   <h2 class='toc-title' style="margin-top: 0; margin-bottom: 15px; font-size: 1.1rem; color: #1a202c; border: none; padding: 0;">📑 목차</h2>
   <ol style="line-height: 2.0; margin-bottom: 0; padding-left: 20px;">
     <li><a href='#toc-1' style="color: #4a5568; text-decoration: none;">구독 취소와 환불 — 차이점부터 알아두기</a></li>
-    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">스픽 환불 정책 한눈에 보기</a></li>
+    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">스픽 환불 규정 한눈에 보기</a></li>
     <li><a href='#toc-3' style="color: #4a5568; text-decoration: none;">결제 경로별 환불 신청 방법</a></li>
     <li><a href='#toc-4' style="color: #4a5568; text-decoration: none;">결제 경로별 구독 취소 방법</a></li>
     <li><a href='#toc-5' style="color: #4a5568; text-decoration: none;">7일 이후 부분 환불 계산법</a></li>
@@ -44,9 +44,9 @@ image: /content/images/refund.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
 
-<h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 스픽 환불 정책 한눈에 보기</h2>
+<h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 스픽 환불 규정 한눈에 보기</h2>
 
-<p>스픽은 한국 환불 정책에 따라 다음과 같이 운영됩니다. (2025년 1월 1일부 한국 환불 정책 반영, 자세한 약관은 서비스 이용약관 20조 참고)</p>
+<p>스픽은 한국 환불 규정에 따라 다음과 같이 운영됩니다. (2025년 1월 1일부 한국 환불 규정 반영, 자세한 약관은 서비스 이용약관 20조 참고)</p>
 
 * **결제일로부터 7일 이내**: **100% 전액 환불** 가능
 * **결제일로부터 7일 경과**: 이용분을 공제한 뒤 잔액의 10%를 위약금으로 차감한 금액이 환불됩니다. (5번 섹션에서 계산 방식 자세히 설명)

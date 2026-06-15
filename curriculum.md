@@ -186,7 +186,7 @@ image: /content/images/curriculum.jpg
 <p>영어 회화 실력은 머리로 아는 것이 아니라 <strong>입으로 얼마나 말해봤느냐</strong>로 좌우됩니다. 스픽은 발화량 자체를 학습 설계의 핵심 지표로 두고 있습니다.</p>
 
 * **20분 동안 평균 100문장 발화**: 한 수업 안에서 같은 패턴을 다양한 문장으로 바꿔 말하면서 짧은 시간에 입을 많이 움직이도록 설계돼 있습니다.
-* **일주일 1,000문장 발화 (상위 30% 사용자 기준)**: 꾸준한 학습자의 경우 일주일 단위로도 발화량이 누적됩니다. 스픽 공식 자료에 따르면 유료 사용자 중 상위 30%가 지난 1년간 7일 기준 약 1,000문장의 최대 발화량을 기록했습니다.
+* **일주일 1,000문장 발화 (상위 30% 사용자 기준)**: 꾸준한 학습자의 경우 일주일 단위로도 발화량이 누적됩니다. 스픽 안내 자료에 따르면 유료 사용자 중 상위 30%가 지난 1년간 7일 기준 약 1,000문장의 최대 발화량을 기록했습니다.
 * **실시간 음성 분석과 피드백 동반**: 단순히 많이 말하는 것에 그치지 않고, 음성 분석 피드백과 복습 수업이 함께 따라옵니다.
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
@@ -231,7 +231,7 @@ image: /content/images/curriculum.jpg
     "isFamilyFriendly": true,
     "publisher": {
       "@type": "Organization",
-      "name": "speaksale.kr",
+      "name": "moon의 영어회화 앱 가이드",
       "logo": {
         "@type": "ImageObject",
         "url": "https://speaksale.kr/content/images/favicon.png"
@@ -252,7 +252,7 @@ image: /content/images/curriculum.jpg
     "isFamilyFriendly": true,
     "publisher": {
       "@type": "Organization",
-      "name": "speaksale.kr",
+      "name": "moon의 영어회화 앱 가이드",
       "logo": {
         "@type": "ImageObject",
         "url": "https://speaksale.kr/content/images/favicon.png"
@@ -273,7 +273,7 @@ image: /content/images/curriculum.jpg
     "isFamilyFriendly": true,
     "publisher": {
       "@type": "Organization",
-      "name": "speaksale.kr",
+      "name": "moon의 영어회화 앱 가이드",
       "logo": {
         "@type": "ImageObject",
         "url": "https://speaksale.kr/content/images/favicon.png"
@@ -294,7 +294,7 @@ image: /content/images/curriculum.jpg
     "isFamilyFriendly": true,
     "publisher": {
       "@type": "Organization",
-      "name": "speaksale.kr",
+      "name": "moon의 영어회화 앱 가이드",
       "logo": {
         "@type": "ImageObject",
         "url": "https://speaksale.kr/content/images/favicon.png"

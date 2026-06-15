@@ -8,9 +8,9 @@ baseurl: ""
 url: "https://speaksale.kr"
 
 # 사이트 기본 정보
-title: "speaksale"
+title: "moon의 영어회화 앱 가이드"
 description: "스픽 할인코드와 멤버십 정보를 정리한 안내 사이트"
-author: "speaksale"
+author: "moon의 영어회화 앱 가이드"
 lang: ko-KR
 
 # 마크다운 엔진

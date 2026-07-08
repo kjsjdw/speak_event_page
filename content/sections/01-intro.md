@@ -1,4 +1,4 @@
-<h1>스픽 할인코드·멤버십 선택 가이드</h1>
+<h1>moon의 스픽 할인코드·멤버십 선택 가이드</h1>
 
 <div style="margin: 16px 0 0 0; text-align: center;">
   <img

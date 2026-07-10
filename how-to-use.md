@@ -139,6 +139,15 @@ image: /content/images/speak-visual-talk.jpg
 
 <p>2025년 말 업데이트로 홈 화면이 새롭게 바뀌었습니다. "<strong>지금 무엇을 학습할지</strong>"가 한눈에 보이도록 설계되어 있고, 각 학습 항목이 <strong>말풍선(스피킹 스킬)</strong> 형태로 표시됩니다.</p>
 
+<div class="step-media" style="margin: 30px 0;">
+  <img src="/content/images/how-to-use-home.jpg"
+       width="100%"
+       alt="스픽 새로워진 홈 화면 말풍선 학습 안내"
+       title="스픽 홈 화면 말풍선(스피킹 스킬) 진행 상태 보는 법"
+       loading="lazy"
+       style="display:block; margin:0 auto;">
+</div>
+
 <h3 style="margin-top: 30px;">🌀 말풍선 상태로 진행 상황 확인</h3>
 
 * **🌀 파란색으로 깜빡이는 말풍선**: 지금 학습할 차례의 레슨
@@ -195,13 +204,6 @@ image: /content/images/speak-visual-talk.jpg
 
 <p>수업 외에 학습 중 막히는 부분이 있을 때 바로 물어볼 수 있는 AI 도우미입니다.</p>
 
-<div class="step-media" style="margin: 20px 0;">
-  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
-    <source src="/content/videos/how-to-use-tutor.mp4" type="video/mp4">
-    스픽 튜터 사용 영상
-  </video>
-</div>
-
 * **활용 예**: 문법·어휘·발음 질문, 회화 연습, 단어 게임, 즉석 맞춤 레슨 생성
 * **접근 위치**: 앱 홈 화면 하단의 **스픽 튜터 아이콘** 또는 '연습' 탭 하단
 
@@ -248,6 +250,13 @@ image: /content/images/speak-visual-talk.jpg
 <h3 style="margin-top: 30px;">💬 비주얼 모드 프리톡 — 3D 캐릭터와 실시간 대화</h3>
 
 <p>텍스트 카드 위주의 기존 프리톡과 달리, <strong>3D 캐릭터와 음성 중심으로 실시간 대화</strong>를 주고받는 새로운 형식입니다. 실제 사람과 대화하는 듯한 느낌을 줍니다.</p>
+
+<div class="step-media" style="margin: 20px 0;">
+  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
+    <source src="/content/videos/how-to-use-tutor.mp4" type="video/mp4">
+    스픽 비주얼 모드 프리톡 영상
+  </video>
+</div>
 
 * '나만의 시나리오 만들기'에서 캐릭터와 상황을 직접 선택할 수 있습니다.
 * 대화 도중 언제든 끼어들기가 가능합니다.

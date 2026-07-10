@@ -25,6 +25,34 @@ image: /content/images/reviews.jpg
 
 <div style="margin: 24px 0; padding: 22px 26px; background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px;">
   <h3 style="margin: 0 0 10px 0; font-size: 1.05rem; line-height: 1.5;">
+    <a href="https://blog.naver.com/richungcy/224342589100" target="_blank" rel="noopener" style="color: #1a202c; text-decoration: none;">
+      스픽 53개월 내돈내산 후기｜장단점부터 가격·할인코드까지 총정리
+    </a>
+  </h3>
+  <p style="color: #4a5568; line-height: 1.7; margin: 0 0 14px 0; font-size: 0.95rem;">
+    53개월 동안 스픽을 사용한 입장에서 발화량, AI 프리톡, 불꽃 시스템 등의 장점과 구독 전 고려할 점, 그리고 가격·할인코드 적용법까지 한 글에 총정리했습니다.
+  </p>
+  <a href="https://blog.naver.com/richungcy/224342589100" target="_blank" rel="noopener" style="color: #1c49ff; font-size: 0.92rem; text-decoration: none; font-weight: 500;">
+    원문 보러 가기 →
+  </a>
+</div>
+
+<div style="margin: 24px 0; padding: 22px 26px; background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px;">
+  <h3 style="margin: 0 0 10px 0; font-size: 1.05rem; line-height: 1.5;">
+    <a href="https://blog.naver.com/richungcy/224327081509" target="_blank" rel="noopener" style="color: #1a202c; text-decoration: none;">
+      스픽으로 5년 영어공부 혼자하기 루틴 + 프리미엄 플러스 가격 할인 코드
+    </a>
+  </h3>
+  <p style="color: #4a5568; line-height: 1.7; margin: 0 0 14px 0; font-size: 0.95rem;">
+    챗GPT와 스픽을 영어공부 혼자하기 관점에서 비교하고, 스픽의 3단계 학습법·음소 단위 발음 분석·스픽 튜터 기능과 함께 프리미엄 플러스 가격·할인코드 적용법을 정리한 글입니다.
+  </p>
+  <a href="https://blog.naver.com/richungcy/224327081509" target="_blank" rel="noopener" style="color: #1c49ff; font-size: 0.92rem; text-decoration: none; font-weight: 500;">
+    원문 보러 가기 →
+  </a>
+</div>
+
+<div style="margin: 24px 0; padding: 22px 26px; background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px;">
+  <h3 style="margin: 0 0 10px 0; font-size: 1.05rem; line-height: 1.5;">
     <a href="https://blog.naver.com/richungcy/224257054515" target="_blank" rel="noopener" style="color: #1a202c; text-decoration: none;">
       영어 스피킹 앱 스픽 내돈내산 50개월 후기, 프리미엄 vs 플러스 차이
     </a>

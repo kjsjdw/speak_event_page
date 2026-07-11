@@ -46,8 +46,8 @@
   <a href="/curriculum/" title='스픽 AI 기반 교육 과정 상세 안내' style="text-decoration: none; display: inline-block; width: auto; padding: 10px 30px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500; line-height: 1.4;">
     🔍 스픽 커리큘럼 및<br>상세 코스 확인하기
   </a>
-  <a href="/how-to-use/" title='스픽 가입부터 학습까지 사용법 안내' style="text-decoration: none; display: inline-block; width: auto; padding: 10px 30px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500; line-height: 1.4;">
-    📱 스픽 사용법<br>(가입부터 학습까지) 보기
+  <a href="/how-to-use/" title='스픽 사용법 총정리 - 가입·레벨·코스·레슨·튜터 한눈에 보기' style="text-decoration: none; display: inline-block; width: auto; padding: 10px 30px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500; line-height: 1.4;">
+    📱 스픽 사용법<br>한눈에 보기
   </a>
 </div>
 

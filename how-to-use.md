@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 스픽 사용법 - 회원가입부터 레벨 선택, 코스 진행까지 종합 가이드
+title: 스픽 사용법 총정리 - 가입·레벨·코스·레슨·튜터 한눈에 보기
 permalink: /how-to-use/
 description: "스픽 앱 사용법을 단계별로 안내합니다. 회원가입, 학습 목적 설정, 영어 레벨 진단, 코스 선택, 새로워진 홈 화면 이용법, 다양한 레슨 진행 방식, 학습 동기 부여 시스템과 상황별 학습 모드까지 한곳에 정리했습니다."
 image: /content/images/speak-visual-talk.jpg
@@ -13,7 +13,7 @@ image: /content/images/speak-visual-talk.jpg
   </video>
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 사용법 - 회원가입부터 레벨 선택, 코스 진행까지 종합 가이드</h1>
+<h1 style="padding-bottom: 20px;">스픽 사용법 총정리 - 가입·레벨·코스·레슨·튜터 한눈에 보기</h1>
 
 <p>스픽을 처음 사용하시는 분들을 위해, <strong>회원가입부터 매일 학습하는 방법까지</strong> 단계별로 정리했습니다. 가입 시 어떤 화면이 나오는지, 본인 영어 수준은 어떻게 확인하는지, 매일 어디서 학습을 이어 가는지 순서대로 따라가실 수 있도록 안내합니다.</p>
 
@@ -140,12 +140,10 @@ image: /content/images/speak-visual-talk.jpg
 <p>2025년 말 업데이트로 홈 화면이 새롭게 바뀌었습니다. "<strong>지금 무엇을 학습할지</strong>"가 한눈에 보이도록 설계되어 있고, 각 학습 항목이 <strong>말풍선(스피킹 스킬)</strong> 형태로 표시됩니다.</p>
 
 <div class="step-media" style="margin: 30px 0;">
-  <img src="/content/images/how-to-use-home.jpg"
-       width="100%"
-       alt="스픽 새로워진 홈 화면 말풍선 학습 안내"
-       title="스픽 홈 화면 말풍선(스피킹 스킬) 진행 상태 보는 법"
-       loading="lazy"
-       style="display:block; margin:0 auto;">
+  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
+    <source src="/content/videos/how-to-use-home.mp4" type="video/mp4">
+    스픽 새로워진 홈 화면 안내 영상
+  </video>
 </div>
 
 <h3 style="margin-top: 30px;">🌀 말풍선 상태로 진행 상황 확인</h3>
@@ -197,12 +195,26 @@ image: /content/images/speak-visual-talk.jpg
 
 <p>비디오 형식이 아니라 AI 튜터와 <strong>1:1로 대화하면서 진행되는 수업</strong>입니다. 학습 속도를 스스로 조절할 수 있어 보다 능동적인 학습이 가능합니다.</p>
 
+<div class="step-media" style="margin: 20px 0;">
+  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
+    <source src="/content/videos/how-to-use-tutor-qna.mp4" type="video/mp4">
+    스픽 튜터 레슨 Q&amp;A 진행 영상
+  </video>
+</div>
+
 * **접근 위치**: 앱 홈 화면 왼쪽 상단의 **Level** 탭 → 고급 또는 마스터 코스 → 튜터 아이콘이 표시된 레슨
 * **코스 진행도 반영**: 수강을 완료하면 다른 레슨과 동일하게 완료 처리됨
 
 <h3 style="margin-top: 30px;">🤖 스픽 튜터 — 24시간 AI 학습 코치</h3>
 
 <p>수업 외에 학습 중 막히는 부분이 있을 때 바로 물어볼 수 있는 AI 도우미입니다.</p>
+
+<div class="step-media" style="margin: 20px 0;">
+  <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
+    <source src="/content/videos/how-to-use-tutor-quick.mp4" type="video/mp4">
+    스픽 튜터 24시간 학습 코치 사용 영상
+  </video>
+</div>
 
 * **활용 예**: 문법·어휘·발음 질문, 회화 연습, 단어 게임, 즉석 맞춤 레슨 생성
 * **접근 위치**: 앱 홈 화면 하단의 **스픽 튜터 아이콘** 또는 '연습' 탭 하단

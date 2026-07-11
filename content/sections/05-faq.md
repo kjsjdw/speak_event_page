@@ -37,7 +37,7 @@
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="/refund/" title='스픽 100% 환불 규정 및 신청 방법 안내' style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
-    🔍 스픽 환불 규정 및 상세 방법 확인하기
+    🔍 스픽 환불 방법 보기
   </a>
 </div>
 

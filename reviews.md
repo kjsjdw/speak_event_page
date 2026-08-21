@@ -137,6 +137,20 @@ image: /content/images/reviews.jpg
 
 <div style="margin: 24px 0; padding: 22px 26px; background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px;">
   <h3 style="margin: 0 0 10px 0; font-size: 1.05rem; line-height: 1.5;">
+    <a href="https://blog.naver.com/richungcy/224385441960" target="_blank" rel="noopener" style="color: #1a202c; text-decoration: none;">
+      스픽 듀오링고 비교 후기｜매일 습관과 실전 말하기 연습, 두 영어 앱 활용법
+    </a>
+  </h3>
+  <p style="color: #4a5568; line-height: 1.7; margin: 0 0 14px 0; font-size: 0.95rem;">
+    스픽과 듀오링고를 함께 써본 입장에서 두 앱의 강점을 상황별로 비교했습니다. 듀오링고는 XP·연속 학습 일수 같은 게임 요소로 매일 켜게 만드는 습관 유지에 강하고, 스픽은 배운 표현을 직접 소리 내어 말하고 AI와 대화하며 틀린 표현을 복습 레슨으로 다시 연습하는 실전 말하기에 강점이 있습니다.
+  </p>
+  <a href="https://blog.naver.com/richungcy/224385441960" target="_blank" rel="noopener" style="color: #1c49ff; font-size: 0.92rem; text-decoration: none; font-weight: 500;">
+    원문 보러 가기 →
+  </a>
+</div>
+
+<div style="margin: 24px 0; padding: 22px 26px; background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px;">
+  <h3 style="margin: 0 0 10px 0; font-size: 1.05rem; line-height: 1.5;">
     <a href="https://blog.naver.com/richungcy/224101879590" target="_blank" rel="noopener" style="color: #1a202c; text-decoration: none;">
       말해보카 스픽 비교, 요금, 할인코드 추가 방법
     </a>

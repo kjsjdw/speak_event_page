@@ -361,6 +361,10 @@ image: /content/images/discount.jpg
 
 <p>스픽 할인코드는 별도 코드를 입력하지 않고 전용 링크만으로 자동 적용되는 방식이지만, <strong>실제 적용 금액과 대상 조건은 링크 종류·시점·이용 이력에 따라 달라질 수 있습니다.</strong> 결제 전에 결제 화면의 최종 금액을 확인하시고, 웹과 앱 두 경로를 나란히 비교해보시고, 카드 할부와 자동 갱신 조건까지 함께 챙기시면 예상과 다른 결제나 정산 부담을 크게 줄이실 수 있습니다.</p>
 
+<div style="background-color: #f0f9ff; border-left: 4px solid #1c49ff; padding: 16px 20px; margin: 30px 0; border-radius: 4px;">
+  <p style="margin: 0; line-height: 1.7;">📌 <strong>프로모션 안내</strong> — 프리미엄 플러스 <strong>7만원 할인 프로모션</strong>은 정해진 주기가 없어 사전에 시점을 예측하기 어렵습니다. 프로모션이 시작되는 것이 확인되는 대로 <strong>본 페이지에 바로 업데이트</strong>해 안내드릴 예정이니, 결제를 여유 있게 준비하고 계신다면 이 페이지를 즐겨찾기 해두시고 다시 방문해 확인해보시는 편이 좋습니다.</p>
+</div>
+
 <div class="cta-buttons" style="margin-top: 30px;">
 
   <a href="{{ site.data.links.premium }}" title="스픽 프리미엄 할인코드 자동 적용 및 가입 페이지로 이동" class="cta-button" target="_blank" rel="sponsored noopener">

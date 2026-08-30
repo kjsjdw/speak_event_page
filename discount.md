@@ -34,8 +34,8 @@ image: /content/images/discount.jpg
 <div class='toc-container' style="background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin: 30px 0;">
   <h2 class='toc-title' style="margin-top: 0; margin-bottom: 15px; font-size: 1.1rem; color: #1a202c; border: none; padding: 0;">📑 목차</h2>
   <ol style="line-height: 2.0; margin-bottom: 0; padding-left: 20px;">
-    <li><a href='#toc-1' style="color: #4a5568; text-decoration: none;">스픽 할인 혜택 확인은 결제 화면이 우선</a></li>
-    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">연 결제와 월 단위 부담 감각 잡기</a></li>
+    <li><a href='#toc-1' style="color: #4a5568; text-decoration: none;">스픽 프리미엄·프리미엄 플러스 할인가 정리</a></li>
+    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">월 환산 부담과 대안 지출 비교</a></li>
     <li><a href='#toc-3' style="color: #4a5568; text-decoration: none;">웹 결제와 앱 내 결제 비교 방법</a></li>
     <li><a href='#toc-4' style="color: #4a5568; text-decoration: none;">할부 결제 이용 시 확인할 점</a></li>
     <li><a href='#toc-5' style="color: #4a5568; text-decoration: none;">상황별로 확인해두면 좋은 사항</a></li>
@@ -46,46 +46,124 @@ image: /content/images/discount.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
 
-<h2 id="toc-1" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">1. 스픽 할인 혜택 확인은 결제 화면이 우선</h2>
+<h2 id="toc-1" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">1. 스픽 프리미엄·프리미엄 플러스 할인가 정리</h2>
 
-<p>스픽의 할인 혜택은 <strong>링크 종류·시점·이벤트 조건</strong>에 따라 달라집니다. 광고 문구에서 강조되는 할인율보다 <strong>결제 화면에 표시된 최종 금액</strong>을 기준으로 판단하시는 편이 정확합니다.</p>
+<p>스픽은 프리미엄과 프리미엄 플러스 두 멤버십을 운영합니다. 두 상품의 할인 방식이 서로 달라, <strong>어느 링크로 접속하느냐에 따라 최종 결제가가 달라질 수 있습니다.</strong> 각 상품별로 할인가와 월 환산 부담을 정리해드립니다.</p>
 
-<h3 style="margin-top: 30px;">결제 화면에서 먼저 확인할 것</h3>
+<h3 style="margin-top: 30px;">스픽 프리미엄 (연간 109,000원)</h3>
 
-<p>본 페이지의 전용 링크로 접속하신 뒤 결제 화면으로 진입하시면 다음 정보를 순서대로 확인해보시는 것을 권해드립니다.</p>
+<p>스픽 프리미엄의 공식 정가는 <strong>연 129,000원</strong>입니다. 일반 파트너스 링크로 접속하시면 <strong>할인이 적용되지 않아 정가 그대로 129,000원</strong>에 결제됩니다. 반면 <strong>친구추천 링크(본 페이지 상단의 프리미엄 할인 전용 링크 포함)</strong>로 접속하시면 <strong>2만원이 할인되어 109,000원</strong>에 결제하실 수 있습니다.</p>
 
-<ul>
-  <li>선택한 이용 기간(예: 12개월)에 표시되는 정상가와 할인가</li>
-  <li>할인이 자동으로 반영된 상태인지 여부</li>
-  <li>표시 통화(원화 KRW로 잡혔는지)</li>
-  <li>결제 수단별로 표시되는 추가 안내(부가세·수수료 등)</li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>연간 결제가</th>
+      <th>월 환산</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>공식 정가 (파트너스 링크 포함)</td>
+      <td>129,000원</td>
+      <td>월 약 10,750원</td>
+    </tr>
+    <tr>
+      <td><strong>친구추천 할인 (2만원 ↓)</strong></td>
+      <td><strong>109,000원</strong></td>
+      <td><strong>월 약 9,083원</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-<p>본 페이지에서 안내하는 할인은 스픽 파트너스 링크를 통해 자동 반영되는 방식이지만, <strong>이벤트·시즌·이용 이력에 따라 적용 금액이 달라질 수 있습니다.</strong> 결제 직전 화면 금액을 직접 확인하는 습관을 들이시면 예상과 다른 결제를 피할 수 있습니다.</p>
+<p>친구추천 할인가로 결제하시면 월 <strong>1만원이 채 안 되는 부담</strong>으로 스픽 프리미엄을 이용하실 수 있습니다. 본 페이지 상단의 <strong>스픽 프리미엄 할인코드 자동 적용 링크</strong>가 바로 이 친구추천 링크입니다.</p>
 
-<h3 style="margin-top: 30px;">링크별 적용 대상이 다를 수 있음</h3>
+<h3 style="margin-top: 30px;">스픽 프리미엄 플러스 (연간 239,000원 · 프로모션 시 229,000원)</h3>
 
-<p>친구 추천·제휴·프로모션 링크는 종류별로 대상 조건이 다릅니다. 스픽 공식 안내에서도 링크에 따라 적용 대상이 갈릴 수 있다고 명시하고 있어, 결제 전에 이벤트 유의사항을 함께 확인하시는 편이 좋습니다.</p>
+<p>스픽 프리미엄 플러스는 본 페이지의 <strong>프리미엄 플러스 전용 링크</strong>로 접속하시면 <strong>상시 6만원 할인이 적용되어 연 239,000원</strong>에 결제하실 수 있습니다. 시즌별로 <strong>7만원 할인 프로모션</strong>이 진행되기도 하며, 이때는 <strong>연 229,000원</strong>에 결제 가능합니다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>연간 결제가</th>
+      <th>월 환산</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>상시 할인 (6만원 ↓)</strong></td>
+      <td><strong>239,000원</strong></td>
+      <td><strong>월 약 19,917원</strong></td>
+    </tr>
+    <tr>
+      <td>프로모션 할인 (7만원 ↓)</td>
+      <td>229,000원</td>
+      <td>월 약 19,083원</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>월 환산으로는 <strong>2만원 이하 수준</strong>이라, 구독형 OTT 하나 정도의 부담으로 프리미엄 플러스의 무제한 맞춤 레슨을 이용하실 수 있습니다.</p>
+
+<div style="background-color: #fffbea; border-left: 4px solid #f6ad55; padding: 16px 20px; margin: 30px 0; border-radius: 4px;">
+  <p style="margin: 0 0 10px 0; font-weight: bold; color: #1a202c;">⚠️ 프리미엄을 구매하실 때 링크 선택 주의</p>
+  <p style="margin: 0 0 10px 0; line-height: 1.7;"><strong>스픽 프리미엄</strong>을 결제하실 계획이라면, 반드시 본 페이지 상단의 <strong>👉 스픽 프리미엄 할인코드 자동 적용 링크</strong>를 이용해주세요. 이 링크가 친구추천 할인이 자동 반영되는 경로입니다.</p>
+  <p style="margin: 0; line-height: 1.7;">스픽 <strong>프리미엄 플러스 링크</strong>에서도 결제 화면에서 프리미엄 상품을 선택하실 수는 있습니다. 하지만 이 경로로 프리미엄을 구매하시면 <strong>친구추천 할인이 적용되지 않아 정가 129,000원</strong>으로 결제됩니다. 프리미엄의 2만원 할인은 <strong>프리미엄 전용 링크로 접속하셨을 때만</strong> 자동으로 반영됩니다.</p>
+</div>
+
+<h3 style="margin-top: 30px;">결제 화면에서 최종 금액 확인</h3>
+
+<p>링크로 접속하신 뒤 결제 화면에서 표시되는 최종 금액이 위 표와 일치하는지 확인해주세요. 이벤트·시즌·이용 이력에 따라 표시 금액이 달라질 수 있으므로, 결제 직전 화면 금액을 한 번 더 확인하시는 습관을 들이시면 예상과 다른 결제를 피할 수 있습니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
-<h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 연 결제와 월 단위 부담 감각 잡기</h2>
+<h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 월 환산 부담과 대안 지출 비교</h2>
 
-<p>스픽 멤버십은 대부분 연간 결제 방식이라 한 번에 결제할 금액이 크게 느껴질 수 있습니다. 실제 이용 기간으로 나눠 <strong>월·일 단위로 환산</strong>해두면 부담 감각이 달라져 판단이 쉬워집니다.</p>
+<p>연간 결제 금액은 한 번에 결제할 때 부담이 커 보이지만, 이용 기간으로 나눠 월 환산해두면 실제 지출 감각이 달라집니다. 스픽 프리미엄과 프리미엄 플러스의 월 환산 부담을 다른 일상 지출과 나란히 놓고 판단해보세요.</p>
 
-<h3 style="margin-top: 30px;">환산 계산 방식</h3>
+<h3 style="margin-top: 30px;">월 환산 부담 요약</h3>
 
-<p>계산 방식은 단순합니다. 결제 화면에 표시된 최종가를 이용 개월 수로 나누면 월 환산 부담, 다시 30으로 나누면 일 환산 부담이 나옵니다. 예를 들어 결제 화면에서 12개월권을 결제하신다면 표시된 최종 금액을 12로 나눈 값이 월 환산 부담이 됩니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th>멤버십</th>
+      <th>연 결제가</th>
+      <th>월 환산</th>
+      <th>일 환산</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>프리미엄 (친구추천 할인)</td>
+      <td>109,000원</td>
+      <td>월 약 9,083원</td>
+      <td>일 약 300원</td>
+    </tr>
+    <tr>
+      <td>프리미엄 플러스 (상시 6만원 할인)</td>
+      <td>239,000원</td>
+      <td>월 약 19,917원</td>
+      <td>일 약 655원</td>
+    </tr>
+    <tr>
+      <td>프리미엄 플러스 (프로모션 7만원 할인)</td>
+      <td>229,000원</td>
+      <td>월 약 19,083원</td>
+      <td>일 약 628원</td>
+    </tr>
+  </tbody>
+</table>
 
-<h3 style="margin-top: 30px;">함께 놓고 비교할 대안</h3>
+<h3 style="margin-top: 30px;">함께 놓고 비교할 대안 지출</h3>
 
 <p>월 환산 금액이 나왔다면 다음과 같은 대안 지출과 나란히 놓고 판단해보시는 것도 방법입니다.</p>
 
 <ul>
-  <li>구독형 OTT 월 이용료</li>
-  <li>어학원·회화 학원 월 수강료</li>
-  <li>일반 회화 튜터 시간당 비용</li>
-  <li>영어 도서·유료 콘텐츠 월 지출</li>
+  <li><strong>카페 아메리카노</strong> 월 3~4잔 값 (프리미엄 월 9,083원)</li>
+  <li><strong>구독형 OTT</strong> 한 개 정도 이용료 (프리미엄 플러스 월 19,917원)</li>
+  <li>어학원·회화 학원 월 수강료(20~40만원대)와 비교하면 훨씬 낮은 편</li>
+  <li>일반 회화 튜터 1회 세션 비용에도 못 미치는 월 부담</li>
 </ul>
 
 <p>본인이 스픽을 하루 몇 분 사용할 계획인지, 지속할 자신이 있는지까지 함께 고려하시면 결제 결정이 더 명확해집니다.</p>

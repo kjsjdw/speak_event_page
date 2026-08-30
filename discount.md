@@ -39,7 +39,7 @@ image: /content/images/discount.jpg
     <li><a href='#toc-3' style="color: #4a5568; text-decoration: none;">웹 결제와 앱 내 결제 비교 방법</a></li>
     <li><a href='#toc-4' style="color: #4a5568; text-decoration: none;">할부 결제 이용 시 확인할 점</a></li>
     <li><a href='#toc-5' style="color: #4a5568; text-decoration: none;">상황별로 확인해두면 좋은 사항</a></li>
-    <li><a href='#toc-6' style="color: #4a5568; text-decoration: none;">자동 갱신과 계정 이용 기기 안내</a></li>
+    <li><a href='#toc-6' style="color: #4a5568; text-decoration: none;">자동 갱신·구독 취소·환불 구분과 계정 이용 기기</a></li>
     <li><a href='#toc-7' style="color: #4a5568; text-decoration: none;">스픽 할인코드 가격 자주 묻는 질문</a></li>
   </ol>
 </div>
@@ -275,13 +275,32 @@ image: /content/images/discount.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
-<h2 id="toc-6" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">6. 자동 갱신과 계정 이용 기기 안내</h2>
+<h2 id="toc-6" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">6. 자동 갱신·구독 취소·환불 구분과 계정 이용 기기</h2>
 
 <h3 style="margin-top: 30px;">자동 갱신 기본 설정</h3>
 
-<p>스픽 구독권은 기본적으로 <strong>만료일에 자동 갱신</strong>됩니다. 다음 결제 주기 갱신을 원하지 않으신다면 <strong>만료일 이전에 구독 취소</strong>를 진행하셔야 합니다. 구독을 취소하셔도 이미 결제한 이용 기간이 남아있다면 만료일까지는 정상 이용이 가능하고, 구독 취소 자체가 즉시 환불을 의미하지는 않습니다.</p>
+<p>스픽 구독권은 기본적으로 <strong>만료일에 자동 갱신</strong>됩니다. 다음 결제 주기 갱신을 원하지 않으신다면 <strong>만료일 이전에 구독 취소</strong>를 진행하셔야 합니다. 재결제를 계획하신다면 만료일과 자동 갱신 예정일을 미리 확인해두시고, 자동 갱신 결제와 신규 결제 링크의 최종 금액을 비교해보신 뒤 결정하시는 편이 좋습니다.</p>
 
-<p>재결제를 계획하신다면 만료일과 자동 갱신 예정일을 미리 확인해두시고, 자동 갱신 결제와 신규 결제 링크의 최종 금액을 비교해보신 뒤 결정하시는 편이 좋습니다.</p>
+<h3 style="margin-top: 30px;">⚠️ 가장 헷갈리는 지점 — 구독 취소는 환불이 아닙니다</h3>
+
+<p>결제 후 이용을 그만두려 하실 때 <strong>가장 자주 오해하는 부분</strong>이 여기입니다. 스픽은 연간 결제 방식이라 <strong>구독 취소와 환불은 완전히 다른 절차</strong>인데, 이 둘을 같은 것으로 착각하면 남은 개월분 환불을 놓칠 수 있습니다.</p>
+
+<div style="background-color: #fff5f5; border-left: 4px solid #e53e3e; padding: 16px 20px; margin: 20px 0; border-radius: 4px;">
+  <p style="margin: 0 0 10px 0; font-weight: bold; color: #1a202c;">🚨 앱에서 "구독 취소"만 눌러서는 남은 개월분이 환불되지 않습니다</p>
+  <p style="margin: 0 0 10px 0; line-height: 1.7;">스픽 앱이나 스토어에서 <strong>구독 취소</strong>를 누르시면 <strong>다음 갱신 시 자동 결제가 안 된다는 의미</strong>일 뿐, <strong>이미 결제한 남은 개월분이 자동으로 환불되지는 않습니다.</strong> 앱에서 취소 버튼만 누르시고 "나머지 개월 돈은 알아서 돌려주겠지" 생각하시면 그 금액은 그대로 남아 있게 됩니다.</p>
+  <p style="margin: 0; line-height: 1.7;">남은 개월분을 환불받으시려면 <strong>구독 취소 후 반드시 스픽 고객센터에 별도로 연락해 환불 처리를 요청</strong>하셔야 합니다. 결제일로부터 7일 이내라면 전액 환불, 이후라면 이용분과 정책상 위약금을 공제한 부분 환불이 진행됩니다.</p>
+</div>
+
+<h3 style="margin-top: 30px;">환불 신청 순서</h3>
+
+<ol>
+  <li>스픽 앱 또는 결제한 스토어에서 <strong>구독 취소</strong>를 먼저 진행 (다음 자동 결제 중단)</li>
+  <li>스픽 <strong>고객센터 → 1:1 문의</strong>로 환불 요청 접수</li>
+  <li>결제 경로에 따라 스픽·애플·구글 창구에서 환불 처리</li>
+  <li>환불 계산 방식은 <a href="{{ '/refund/' | relative_url }}">스픽 환불 규정 페이지</a>에서 확인</li>
+</ol>
+
+<p>참고로 개인적으로 <strong>스픽 고객센터에는 몇 차례 문의해봤는데 매번 답변이 성실하고 처리도 빠른 편</strong>이었습니다. 환불이나 결제 관련해서 애매한 부분이 있으면 결제 전이든 후든 고객센터에 문의해보시는 걸 권해드려요. 답을 안 주거나 대답이 늦어서 답답할 걱정은 크게 안 하셔도 됩니다.</p>
 
 <h3 style="margin-top: 30px;">계정 이용 기기</h3>
 

@@ -3,7 +3,17 @@ layout: default
 title: 스픽 할인코드 가격 실전 가이드 2026년 8월 - 결제 시점·방식별 유리한 방법
 permalink: /discount/
 description: "스픽 할인코드 적용 시 실제 절감액과 월 환산 부담부터, 웹 결제와 앱 결제 가격 차이 이유, 12개월 무이자 할부 실전 활용, 첫 결제·재결제 상황별 유리한 판단 기준, 자동 갱신·계정 공유 참고사항까지 결제 전에 확인해두면 좋을 가격·할인 정보를 정리했습니다."
+image: /content/images/discount.jpg
 ---
+
+<div class="step-media" style="margin: 20px 0 24px 0;">
+  <img src="/content/images/discount.jpg"
+       width="100%"
+       alt="스픽 할인코드 가격 실전 가이드 대표 이미지"
+       title="스픽 할인코드 실질 절감액과 결제 방식별 유리한 방법 안내"
+       loading="eager"
+       style="display:block; margin:0 auto;">
+</div>
 
 <h1 style="padding-bottom: 20px;">스픽 할인코드 가격 실전 가이드 2026년 8월 - 결제 시점·방식별 유리한 방법</h1>
 

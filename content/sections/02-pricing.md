@@ -13,6 +13,12 @@
 
 <p>⚠️ <strong>확인할 점:</strong> 스픽 할인 혜택은 <strong>웹(Web)에서 결제하실 때만</strong> 적용됩니다. 앱 내 결제는 앱스토어 수수료로 인해 가격이 달라질 수 있으므로, 할인 혜택을 받으시려면 웹 페이지에서 결제하시는 편이 좋습니다.</p>
 
+<div style="text-align: center; margin: 30px 0;">
+  <a href="/discount/" title='스픽 할인코드 가격 실전 가이드 - 실질 절감액·월 환산·무이자 할부·상황별 판단' style="text-decoration: none; display: inline-block; width: auto; padding: 8px 25px; color: #1c49ff; background-color: #ffffff; border: 1px solid #1c49ff; border-radius: 50px; font-size: 15px; font-weight: 500;">
+    🔍 스픽 할인·가격 상세 정리 보기
+  </a>
+</div>
+
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
 <h2 id="toc-2" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">2. 스픽 할인코드 자동 적용 방법 단계별 가이드</h2>

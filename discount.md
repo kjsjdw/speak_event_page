@@ -172,21 +172,51 @@ image: /content/images/discount.jpg
 
 <h2 id="toc-3" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">3. 웹 결제와 앱 내 결제 비교 방법</h2>
 
-<p>스픽은 <strong>웹사이트 결제</strong>와 <strong>모바일 앱 내 결제(애플 앱스토어·구글 플레이)</strong>가 모두 가능합니다. 같은 멤버십이라도 결제 경로에 따라 표시 금액과 적용 이벤트가 달라질 수 있으므로, <strong>두 경로의 최종 금액을 같은 이용 기간 기준으로 비교</strong>해보시는 편이 안전합니다.</p>
+<p>스픽은 <strong>웹사이트 결제</strong>와 <strong>모바일 앱 내 결제(애플 앱스토어·구글 플레이)</strong>가 모두 가능합니다. 두 경로 모두 정상적으로 이용할 수 있지만, <strong>할인 링크의 할인 혜택은 웹 결제에서만 적용됩니다.</strong></p>
+
+<div style="background-color: #fffbea; border-left: 4px solid #f6ad55; padding: 16px 20px; margin: 20px 0; border-radius: 4px;">
+  <p style="margin: 0 0 10px 0; font-weight: bold; color: #1a202c;">⚠️ 앱 내 결제는 할인 미적용</p>
+  <p style="margin: 0; line-height: 1.7;">아이폰의 <strong>앱스토어</strong>나 안드로이드의 <strong>구글 플레이스토어</strong>를 통한 앱 내 결제는 정상적으로 진행되지만, 본 페이지의 할인 링크 혜택(프리미엄 2만원·플러스 6만원 등)이 <strong>반영되지 않습니다.</strong> 할인 혜택을 받으시려면 반드시 <strong>PC나 모바일 브라우저에서 본 페이지 전용 링크로 접속해 웹 결제</strong>로 진행해주세요.</p>
+</div>
+
+<h3 style="margin-top: 30px;">경로별 특징 정리</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>결제 경로</th>
+      <th>할인 링크 적용</th>
+      <th>환불 처리</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>웹사이트 (권장)</strong></td>
+      <td><strong>자동 반영 ✓</strong></td>
+      <td>스픽 고객센터에서 직접 처리</td>
+    </tr>
+    <tr>
+      <td>애플 앱스토어</td>
+      <td>미적용 ✗</td>
+      <td>애플이 처리</td>
+    </tr>
+    <tr>
+      <td>구글 플레이스토어</td>
+      <td>미적용 ✗</td>
+      <td>구글 플레이 우선 요청 → 미처리 시 스픽 고객센터 문의</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 style="margin-top: 30px;">확인 순서</h3>
 
 <ol>
-  <li>PC나 모바일 브라우저에서 본 페이지 전용 링크로 접속 → 웹 결제 화면의 최종 금액 확인</li>
-  <li>스픽 앱을 열어 구독·멤버십 화면에서 앱 내 결제 최종 금액 확인</li>
-  <li>동일 이용 기간 기준으로 두 금액을 나란히 비교</li>
+  <li>PC나 모바일 <strong>브라우저</strong>에서 본 페이지 전용 링크로 접속</li>
+  <li>결제 화면에서 <strong>할인가</strong>가 자동 반영되었는지 확인</li>
+  <li>표시 금액이 안내된 할인가(프리미엄 109,000원 · 플러스 239,000원)와 일치하는지 확인</li>
 </ol>
 
-<p>어느 쪽이 유리한지는 <strong>시점별 프로모션, 이용자의 가입 이력, 앱 스토어 지역별 표시 방식</strong>에 따라 달라질 수 있습니다. 특정 시점의 결과를 일반화하기 어려우니, 결제 전 두 경로를 직접 확인하시는 편이 낫습니다.</p>
-
-<h3 style="margin-top: 30px;">환불 경로가 다르다는 점도 참고</h3>
-
-<p>앱스토어 결제 건은 애플이 환불을 처리하고, 구글 플레이 결제는 구글 플레이를 통해 우선 요청한 뒤 처리되지 않을 경우 스픽 고객센터에 문의하는 방식으로 안내됩니다. 웹 결제 건은 스픽 고객센터에서 직접 처리됩니다. 결제 경로를 정하기 전에 환불 절차 차이도 함께 확인해두시면 좋습니다.</p>
+<p>앱을 열어 구독·멤버십 화면으로 진입해 결제하시면 결제 자체는 가능하지만, 이 경우 할인 링크의 혜택은 반영되지 않으니 참고해주세요. 환불 절차도 결제 경로에 따라 처리 창구가 달라진다는 점도 함께 고려하시면 좋습니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 

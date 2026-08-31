@@ -8,3 +8,6 @@ _site/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Claude Code 로컬 설정
+.claude/

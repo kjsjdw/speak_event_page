@@ -1,4 +1,4 @@
-<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">1. 스픽 할인코드 적용가 — 프리미엄 109,000원 · 플러스 239,000원</h2>
+<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">1. 스픽 할인코드 적용가 — 프리미엄 109,000원 · 플러스 229,000원</h2>
 
 <div style="background-color: #fff5f5; border-left: 4px solid #e53e3e; padding: 14px 18px; margin: 0 0 20px 0; border-radius: 4px;">
   <p style="margin: 0; line-height: 1.7;">🔥 <strong>지금 프로모션 진행 중 (2026년 9월 10일~9월 21일)</strong> — 프리미엄 플러스가 상시가보다 1만 원 더 할인된 <strong>7만 원 할인, 연 229,000원</strong>에 결제 가능합니다. 종료 후에는 상시 할인가 <strong>연 239,000원(6만 원 할인)</strong>으로 돌아갑니다.</p>

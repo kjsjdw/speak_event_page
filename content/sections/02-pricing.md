@@ -1,4 +1,4 @@
-<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">1. 스픽 할인코드 적용가 — 프리미엄 109,000원 · 플러스 229,000원 (프로모션 특가)</h2>
+<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">1. 스픽 할인코드 적용가 — 프리미엄 109,000원 · 플러스 239,000원</h2>
 
 <div style="background-color: #fff5f5; border-left: 4px solid #e53e3e; padding: 14px 18px; margin: 0 0 20px 0; border-radius: 4px;">
   <p style="margin: 0; line-height: 1.7;">🔥 <strong>지금 프로모션 진행 중 (2026년 9월 10일~9월 21일)</strong> — 프리미엄 플러스가 상시가보다 1만 원 더 할인된 <strong>7만 원 할인, 연 229,000원</strong>에 결제 가능합니다. 종료 후에는 상시 할인가 <strong>연 239,000원(6만 원 할인)</strong>으로 돌아갑니다.</p>
@@ -42,7 +42,7 @@
 <p>💡 <strong>참고:</strong> 무이자 할부 결제도 일시불과 <strong>동일한 할인 혜택</strong>이 적용됩니다. 할부를 쓰신다고 해서 할인 금액이 달라지지 않습니다.</p>
 
 <h3>Step 4. 최종 가격 확인 후 결제 완료</h3>
-<p>할인이 정상 적용되었는지 최종 결제 금액(<strong>프리미엄 109,000원 / 프리미엄 플러스 239,000원</strong>)을 한 번 더 확인하신 뒤 결제를 완료하시면, 즉시 스픽 강의와 AI 프리톡 기능을 이용하실 수 있습니다.</p>
+<p>할인이 정상 적용되었는지 최종 결제 금액(<strong>프리미엄 109,000원 / 프리미엄 플러스 229,000원</strong>)을 한 번 더 확인하신 뒤 결제를 완료하시면, 즉시 스픽 강의와 AI 프리톡 기능을 이용하실 수 있습니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 

@@ -31,7 +31,7 @@ image: /content/images/phone-call.jpg
   <h2 class='toc-title' style="margin-top: 0; margin-bottom: 15px; font-size: 1.1rem; color: #1a202c; border: none; padding: 0;">📑 목차</h2>
   <ol style="line-height: 2.0; margin-bottom: 0; padding-left: 20px;">
     <li><a href='#toc-1' style="color: #4a5568; text-decoration: none;">스픽 전화 학습이란</a></li>
-    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">프리톡 비주얼 모드와 비교</a></li>
+    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">프리톡과 비교</a></li>
     <li><a href='#toc-3' style="color: #4a5568; text-decoration: none;">통화 진행 흐름</a></li>
     <li><a href='#toc-4' style="color: #4a5568; text-decoration: none;">통화 도중 받을 수 있는 도움</a></li>
     <li><a href='#toc-5' style="color: #4a5568; text-decoration: none;">통화 종료 후 활용 방법</a></li>
@@ -81,16 +81,16 @@ image: /content/images/phone-call.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
-<h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 프리톡 비주얼 모드와 비교</h2>
+<h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 프리톡과 비교</h2>
 
-<p>AI와 말로 대화한다는 점은 프리톡 비주얼 모드와 비슷해 보이지만, 조작 방식과 대화가 전개되는 방향이 다릅니다.</p>
+<p>프리톡도 상황별 롤플레이뿐 아니라 AI와 <strong>주제 제한 없이 자유롭게 대화</strong>할 수 있어서, 무엇을 이야기할 수 있느냐는 면에서는 전화 학습과 크게 다르지 않습니다. 두 기능을 가르는 핵심은 <strong>대화를 이어가는 조작 방식</strong>과 <strong>화면 구성</strong>입니다.</p>
 
 <table>
   <thead>
     <tr>
       <th>구분</th>
-      <th>전화 학습</th>
-      <th>프리톡 비주얼 모드</th>
+      <th>전화 학습(폰 스픽)</th>
+      <th>프리톡</th>
     </tr>
   </thead>
   <tbody>
@@ -100,34 +100,39 @@ image: /content/images/phone-call.jpg
       <td>프리미엄·프리미엄 플러스 공통</td>
     </tr>
     <tr>
-      <td>문장 전송</td>
-      <td>조작 없이 말하면 그대로 이어짐</td>
-      <td>말을 마친 뒤 화면을 눌러 전송</td>
+      <td>대화 내용</td>
+      <td>자유 대화</td>
+      <td>자유 대화 + 상황별 롤플레이</td>
     </tr>
     <tr>
-      <td>대화 전개</td>
-      <td>내 답변 내용에서 파생되는 즉흥 후속 질문</td>
-      <td>선택한 시나리오 속 롤플레이</td>
+      <td>핸즈프리</td>
+      <td><strong>가능</strong> — 말하면 버튼 조작 없이 대화가 이어짐</td>
+      <td>불가 — 말을 마친 뒤 화면을 눌러 전송</td>
+    </tr>
+    <tr>
+      <td>화면 구성</td>
+      <td>통화 화면 (오디오·음소거·자막 버튼)</td>
+      <td><strong>비주얼 모드</strong>(3D 캐릭터·배경) 또는 기본 모드(채팅형) 선택</td>
     </tr>
     <tr>
       <td>한국어 번역</td>
       <td>자동 제공되지 않음</td>
-      <td>번역 아이콘, '번역 항상 표시' 설정 지원</td>
+      <td>번역 아이콘, '번역 항상 표시' 설정 지원 (비주얼 모드 기준)</td>
     </tr>
     <tr>
       <td>화면 텍스트</td>
       <td>튜터가 한 말을 자막으로 표시, 자막 버튼으로 켜고 끄기</td>
-      <td>내가 말한 내용이 실시간으로 텍스트로 변환</td>
+      <td>내가 말한 내용이 실시간으로 텍스트로 변환 (비주얼 모드 기준)</td>
     </tr>
     <tr>
       <td>교정</td>
-      <td>통화 중 교정 + 종료 후 문장별 피드백</td>
-      <td>발화 후 자동 교정, 다시 시도</td>
+      <td>통화 중 교정 + 종료 후 문장별 피드백·추가 레슨</td>
+      <td>발화 후 자동 교정, 다시 시도 (비주얼 모드 기준)</td>
     </tr>
   </tbody>
 </table>
 
-<p>정리하면 프리톡은 <strong>정해진 상황극 안에서 표현을 써 보는 연습</strong>에, 전화 학습은 <strong>멈추지 않고 즉석에서 답을 만들어 내는 연습</strong>에 초점이 맞춰져 있습니다. 프리톡의 세부 기능은 <a href="/how-to-use/#toc-7" style="color: #1c49ff;">스픽 사용법 페이지</a>에서 확인하실 수 있습니다.</p>
+<p>정리하면 대화 자체는 두 기능 모두 자유롭게 할 수 있고, <strong>화면을 누르지 않고 통화하듯 대화를 이어가고 싶다면 전화 학습</strong>, <strong>캐릭터와 장면을 보면서 대화하거나 번역 표시를 함께 쓰고 싶다면 프리톡</strong>이 잘 맞습니다. 프리톡의 세부 기능은 <a href="/how-to-use/#toc-7" style="color: #1c49ff;">스픽 사용법 페이지</a>에서 확인하실 수 있습니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
@@ -232,7 +237,7 @@ image: /content/images/phone-call.jpg
   <li>단어와 문법은 어느 정도 알지만, 실제 대화 상황에서 입이 바로 떨어지지 않는 분</li>
   <li>화면을 보며 레슨을 조작하기보다 말하기 자체에 집중하고 싶은 분</li>
   <li>대화 후 교정 내용을 복습 레슨까지 연결해 반복 연습하고 싶은 분</li>
-  <li>정해진 대본보다 즉흥 질문에 답하며 순발력을 키우고 싶은 분</li>
+  <li>프리톡으로 자유 대화를 해 봤지만, 말할 때마다 화면을 눌러 전송하는 과정 없이 대화를 쭉 이어가고 싶은 분</li>
 </ul>
 
 <h3 style="margin-top: 30px;">⚠️ 덜 맞을 수 있는 분</h3>
@@ -281,9 +286,9 @@ image: /content/images/phone-call.jpg
 
 <p>피드백과 스크립트는 통화를 마친 바로 그 시점에 확인하는 용도이고, 지난 통화 내역이 계속 쌓여 남는 구조는 아닙니다. 다시 연습하고 싶은 문장이 있다면 종료 화면에서 곧바로 추가 스피킹 레슨으로 옮겨 두세요.</p>
 
-<h3 style="margin-top: 30px;">Q. 프리톡과 전화 학습 중 무엇부터 시작하면 좋을까요?</h3>
+<h3 style="margin-top: 30px;">Q. 프리톡으로도 자유 대화가 되는데, 전화 학습을 따로 쓸 이유가 있나요?</h3>
 
-<p>영어 듣기가 아직 부담스럽다면 번역 표시를 지원하는 <strong>프리톡 비주얼 모드</strong>로 상황별 표현에 먼저 익숙해지고, 어느 정도 말이 트였다고 느껴질 때 <strong>전화 학습</strong>으로 즉흥 대화 연습을 더하는 순서가 무리가 적습니다.</p>
+<p>대화 내용 면에서는 프리톡도 자유 대화가 가능해 큰 차이가 없습니다. 차이는 <strong>진행 방식</strong>에 있습니다. 프리톡은 말을 마칠 때마다 화면을 눌러 전송해야 하는 대신 비주얼 모드와 번역 표시를 쓸 수 있고, 전화 학습은 번역 표시가 없는 대신 버튼 조작 없이 통화하듯 대화가 계속 이어집니다. 튜터의 영어를 알아듣기 아직 부담스럽다면 번역을 켤 수 있는 프리톡이, 흐름을 끊지 않고 오래 말하는 연습을 하고 싶다면 전화 학습이 잘 맞습니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 

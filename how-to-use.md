@@ -261,7 +261,7 @@ image: /content/images/speak-visual-talk.jpg
 
 <h3 style="margin-top: 30px;">💬 비주얼 모드 프리톡 — 3D 캐릭터와 실시간 대화</h3>
 
-<p>프리톡 탭이 개편되면서, 채팅 카드를 주고받던 기존 방식 외에 <strong>3D 애니메이션 캐릭터가 등장하는 장면 안에서 목소리로 대화하는 비주얼 모드</strong>를 고를 수 있게 됐습니다. 상황극에 들어가 캐릭터와 직접 말을 주고받는 구성이라, 글자를 읽고 답하는 방식보다 실제 회화에 한층 가까운 연습이 됩니다.</p>
+<p>프리톡 탭이 개편되면서, 채팅 카드를 주고받던 기존 방식 외에 <strong>3D 애니메이션 캐릭터가 등장하는 장면 안에서 목소리로 대화하는 비주얼 모드</strong>를 고를 수 있게 됐습니다. 상황별 롤플레이는 물론 원하는 주제로 자유롭게 대화하는 것도 가능하며, 화면 속 캐릭터와 목소리로 말을 주고받는 구성이라 글자를 읽고 답하는 방식보다 실제 회화에 한층 가까운 연습이 됩니다.</p>
 
 <div class="step-media" style="margin: 20px 0;">
   <video autoplay loop muted playsinline preload="metadata" style="width: 100%;">
@@ -283,8 +283,8 @@ image: /content/images/speak-visual-talk.jpg
   <tbody>
     <tr>
       <td>대화 형태</td>
-      <td>음성으로 오가는 실시간 롤플레이</td>
-      <td>채팅형 롤플레이</td>
+      <td>음성으로 오가는 실시간 대화 (자유 대화·롤플레이)</td>
+      <td>채팅형 대화 (자유 대화·롤플레이)</td>
     </tr>
     <tr>
       <td>말하는 순서</td>

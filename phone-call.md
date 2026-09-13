@@ -298,6 +298,26 @@ image: /content/images/phone-call.jpg
 
 <p>스픽 전화 학습은 통화하듯 손을 쓰지 않고 AI 튜터와 대화를 이어가며, 통화 중 교정과 종료 후 문장별 피드백·추가 레슨으로 복습까지 연결되는 프리미엄 플러스 전용 기능입니다. 월 15회·회당 10분이라는 한도와 기록이 오래 보관되지 않는 점만 염두에 두고 이용 요일과 복습 흐름을 정해 두면, 실전 회화 연습 도구로 충실하게 활용하실 수 있습니다. 프리미엄 플러스 결제 가격과 할인 적용 방법은 <a href="/discount/" style="color: #1c49ff;">스픽 할인코드 가격 가이드</a>에서 확인하실 수 있습니다.</p>
 
+<h3 style="margin-top: 36px;">📝 폰 스픽 실사용 후기</h3>
+
+<p>실제로 프리미엄에서 플러스로 바꾼 뒤 폰 스픽을 써 보며 느낀 점은 아래 블로그 후기에서 확인하실 수 있습니다.</p>
+
+<div style="margin: 20px 0; padding: 22px 26px; background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px;">
+  <h3 style="margin: 0 0 10px 0; font-size: 1.05rem; line-height: 1.5;">
+    <a href="https://blog.naver.com/richungcy/224410558600" target="_blank" rel="noopener" style="color: #1a202c; text-decoration: none;">
+      스픽 프리미엄에서 플러스로 업그레이드한 후기｜폰 스픽 전화 학습과 두 플랜 차이
+    </a>
+  </h3>
+  <p style="color: #4a5568; line-height: 1.7; margin: 0 0 14px 0; font-size: 0.95rem;">
+    폰 스픽을 자주 이용하며 겪은 통화 방식과 통화 후 복습법, 사용하면서 아쉬웠던 점, 그리고 프리미엄과 프리미엄 플러스의 기능 차이까지 직접 써 본 입장에서 정리한 후기입니다.
+  </p>
+  <a href="https://blog.naver.com/richungcy/224410558600" target="_blank" rel="noopener" style="color: #1c49ff; font-size: 0.92rem; text-decoration: none; font-weight: 500;">
+    원문 보러 가기 →
+  </a>
+</div>
+
+<p style="text-align: center; margin: 10px 0 0 0;"><a href="/reviews/" style="color: #1c49ff; font-weight: 500;">🔍 스픽 내돈내산 후기 전체 보기 →</a></p>
+
 <div class="cta-buttons" style="margin-top: 30px;">
 
   <a href="{{ site.data.links.premium }}" title="스픽 프리미엄 할인코드 자동 적용 및 가입 페이지로 이동" class="cta-button" target="_blank" rel="sponsored noopener">

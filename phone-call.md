@@ -3,7 +3,17 @@ layout: default
 title: 스픽 전화 학습(폰 스픽) 기능 안내 - 프리미엄 플러스 AI 튜터 통화 방식과 이용 조건
 permalink: /phone-call/
 description: "스픽 프리미엄 플러스 전용 전화 학습(앱 메뉴명 '폰 스픽') 기능을 정리했습니다. 연습 탭에서 찾는 위치, 프리톡과의 차이, 통화 진행 흐름, 통화 중 교정과 한국어 질문, 통화 후 문장별 피드백·추가 레슨·스크립트 활용법, 월 15회·회당 10분 이용 조건까지 안내합니다."
+image: /content/images/phone-call.jpg
 ---
+
+<div class="step-media" style="margin: 20px 0 24px 0;">
+  <img src="/content/images/phone-call.jpg"
+       width="100%"
+       alt="스픽 폰 스픽 전화 학습 통화 화면 - AI 튜터 연결 상태와 오디오·음소거·자막 버튼"
+       title="스픽 전화 학습(폰 스픽) AI 튜터 통화 화면"
+       loading="eager"
+       style="display:block; margin:0 auto;">
+</div>
 
 <h1 style="padding-bottom: 20px;">스픽 전화 학습(폰 스픽) 기능 안내 - 프리미엄 플러스 AI 튜터 통화 방식과 이용 조건</h1>
 

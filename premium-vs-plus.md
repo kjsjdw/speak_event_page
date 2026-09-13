@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "스픽 프리미엄 vs 프리미엄 플러스 차이 및 멤버십 선택 가이드"
+title: "스픽 프리미엄 vs 플러스 차이와 멤버십 선택 가이드"
 permalink: /premium-vs-plus/
-description: "스픽 프리미엄과 프리미엄 플러스 멤버십의 학습량, 가격, 30일 챌린지, 업그레이드 정책 등 차이를 정리하고, 본인 학습 시간과 목표에 맞는 플랜을 고를 수 있도록 안내합니다."
+description: "스픽 두 멤버십의 가격과 학습 기능 차이를 비교하고, 목표에 맞는 플랜을 고르는 기준을 안내합니다."
 image: /content/images/premium-vs-plus.jpg
 ---
 
@@ -15,7 +15,7 @@ image: /content/images/premium-vs-plus.jpg
        style="display:block; margin:0 auto;">
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 프리미엄 vs 프리미엄 플러스 차이 및 멤버십 선택 가이드</h1>
+<h1 style="padding-bottom: 20px;">스픽 프리미엄 vs 플러스 차이와 멤버십 선택 가이드</h1>
 
 <p>
   스픽 요금제 선택은 결국 <strong>'오늘 내가 영어로 얼마나 오래, 얼마나 많이 말해보고 싶은지'</strong>에 따라 갈립니다.<br>

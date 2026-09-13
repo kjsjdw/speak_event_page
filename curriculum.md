@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 스픽 커리큘럼 및 AI 영어 학습 시스템 상세 안내
+title: "스픽 커리큘럼과 AI 학습 시스템 안내"
 permalink: /curriculum/
-description: "스픽의 단계별 비디오 레슨, 3단계 입체 학습, AI 음성 인식 93% 정확도, 에빙하우스 복습 시스템, 발화량 100문장 학습 등 커리큘럼 전반과 AI 학습 시스템을 정리했습니다."
+description: "단계별 비디오 레슨과 AI 음성 인식, 반복 복습 시스템 등 스픽 커리큘럼 구성을 정리했습니다."
 image: /content/images/curriculum.jpg
 ---
 
@@ -15,7 +15,7 @@ image: /content/images/curriculum.jpg
        style="display:block; margin:0 auto;">
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 커리큘럼 및 AI 영어 학습 시스템 상세 안내</h1>
+<h1 style="padding-bottom: 20px;">스픽 커리큘럼과 AI 학습 시스템 안내</h1>
 <p>한국에서 영어를 오래 공부해도 입이 쉽게 안 트이는 가장 큰 이유는, 실제로 말해볼 기회가 거의 없다는 데 있습니다. 스픽은 이 문제를 풀기 위해, <strong>실리콘밸리에서 개발된 영어 말하기 전용 AI</strong>를 활용해 집에서도 원어민을 상대로 연습하는 것과 비슷한 환경을 만들어 줍니다.</p>
 
 <div class='toc-container' style="background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin: 30px 0;">

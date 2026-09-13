@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 스픽 환불 규정 및 결제 경로별 환불·구독 취소 방법 종합 안내
+title: "스픽 환불 규정과 결제 경로별 구독 취소 방법"
 permalink: /refund/
-description: "스픽 환불 규정을 한눈에 정리했습니다. 7일 이내 100% 전액 환불, 7일 이후 부분 환불 계산법, 애플 앱스토어·구글 플레이·웹사이트(Paddle/NICE Payments) 결제 경로별 환불·구독 취소 절차까지 안내합니다."
+description: "스픽 7일 이내 전액 환불 조건과 부분 환불 계산법, 앱스토어·구글 플레이·웹 결제별 절차를 정리했습니다."
 image: /content/images/refund.jpg
 ---
 
@@ -15,7 +15,7 @@ image: /content/images/refund.jpg
        style="display:block; margin:0 auto;">
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 환불 규정 및 결제 경로별 환불·구독 취소 방법 종합 안내</h1>
+<h1 style="padding-bottom: 20px;">스픽 환불 규정과 결제 경로별 구독 취소 방법</h1>
 
 <p>스픽 멤버십을 결제하셨는데 더 이상 이용하지 않으시거나 본인에게 맞지 않다고 느끼신다면, 결제 경로와 시점에 따라 환불 또는 구독 취소가 가능합니다. 이 페이지에서는 스픽 환불 규정 전반과, 결제 수단별(애플 앱스토어 / 구글 플레이스토어 / 스픽 웹사이트) 신청 절차를 모두 정리해 드립니다.</p>
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 스픽 사용법 총정리 - 가입·레벨·코스·레슨·튜터 한눈에 보기
+title: "스픽 사용법 총정리 - 가입부터 레슨·프리톡까지"
 permalink: /how-to-use/
-description: "스픽 앱 사용법을 단계별로 안내합니다. 회원가입, 학습 목적 설정, 영어 레벨 진단, 코스 선택, 새로워진 홈 화면 이용법, 다양한 레슨 진행 방식, 학습 동기 부여 시스템과 상황별 학습 모드까지 한곳에 정리했습니다."
+description: "회원가입과 레벨 진단부터 코스 선택, 레슨 진행, 프리톡 활용까지 스픽 앱 사용법을 단계별로 안내합니다."
 image: /content/images/speak-visual-talk.jpg
 ---
 
@@ -13,7 +13,7 @@ image: /content/images/speak-visual-talk.jpg
   </video>
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 사용법 총정리 - 가입·레벨·코스·레슨·튜터 한눈에 보기</h1>
+<h1 style="padding-bottom: 20px;">스픽 사용법 총정리 - 가입부터 레슨·프리톡까지</h1>
 
 <p>스픽을 처음 사용하시는 분들을 위해, <strong>회원가입부터 매일 학습하는 방법까지</strong> 단계별로 정리했습니다. 가입 시 어떤 화면이 나오는지, 본인 영어 수준은 어떻게 확인하는지, 매일 어디서 학습을 이어 가는지 순서대로 따라가실 수 있도록 안내합니다.</p>
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 스픽 내돈내산 후기 모음 - 직접 써본 학습 효과와 장단점
+title: "스픽 내돈내산 후기 모음 - 직접 써본 학습 효과와 장단점"
 permalink: /reviews/
-description: "스픽을 직접 결제해 사용한 내돈내산 후기들을 모아 정리했습니다. 왕초보 사용기, OPIc 프리톡 활용 후기, 장기 사용 후 느낀 학습 효과와 장단점까지 함께 살펴보실 수 있습니다."
+description: "직접 결제해 써본 왕초보 사용기, OPIc 대비 프리톡 활용기, 장기 사용 후 느낀 장단점을 모았습니다."
 image: /content/images/reviews.jpg
 ---
 
@@ -15,7 +15,7 @@ image: /content/images/reviews.jpg
        style="display:block; margin:0 auto;">
 </div>
 
-<h1 style="padding-bottom: 20px;">스픽 내돈내산 후기 모음 - 직접 써본 학습 효과와 장단점 </h1>
+<h1 style="padding-bottom: 20px;">스픽 내돈내산 후기 모음 - 직접 써본 학습 효과와 장단점</h1>
 
 <p>
   스픽을 직접 결제해 매일 사용해 본 실제 학습 후기와, 2026년 기준 가격·할인 정보를 정리한 글들을 모았습니다. 학습 루틴부터 프리톡 활용, 요금제 비교, 할인코드 적용 방법까지 결제 전 궁금하실 만한 내용을 한 페이지에서 살펴보세요.

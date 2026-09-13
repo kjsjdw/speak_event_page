@@ -163,6 +163,20 @@ image: /content/images/reviews.jpg
   </a>
 </div>
 
+<div style="margin: 24px 0; padding: 22px 26px; background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px;">
+  <h3 style="margin: 0 0 10px 0; font-size: 1.05rem; line-height: 1.5;">
+    <a href="https://blog.naver.com/richungcy/224410558600" target="_blank" rel="noopener" style="color: #1a202c; text-decoration: none;">
+      스픽 프리미엄에서 플러스로 업그레이드한 후기｜폰 스픽 전화 학습과 두 플랜 차이
+    </a>
+  </h3>
+  <p style="color: #4a5568; line-height: 1.7; margin: 0 0 14px 0; font-size: 0.95rem;">
+    프리미엄을 쓰다가 프리미엄 플러스로 바꾼 뒤 달라진 점을 정리한 후기입니다. 플러스 전용 전화 학습 '폰 스픽'의 통화 방식과 통화 후 피드백·스크립트 복습법, 응답 지연 같은 아쉬운 점까지 담았고, 맞춤 레슨 한도·개인화 기능 등 두 플랜의 기능 차이와 할인 가격도 비교합니다.
+  </p>
+  <a href="https://blog.naver.com/richungcy/224410558600" target="_blank" rel="noopener" style="color: #1c49ff; font-size: 0.92rem; text-decoration: none; font-weight: 500;">
+    원문 보러 가기 →
+  </a>
+</div>
+
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
 <div style="text-align: center; margin-top: 30px;">

@@ -87,7 +87,12 @@ image: /content/images/phone-call.jpg
 
 <h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 프리톡과 비교</h2>
 
-<p>프리톡도 상황별 롤플레이뿐 아니라 AI와 <strong>주제 제한 없이 자유롭게 대화</strong>할 수 있어서, 무엇을 이야기할 수 있느냐는 면에서는 전화 학습과 크게 다르지 않습니다. 두 기능을 가르는 핵심은 <strong>대화를 이어가는 조작 방식</strong>과 <strong>화면 구성</strong>입니다.</p>
+<p>프리톡도 상황별 롤플레이뿐 아니라 AI와 <strong>주제 제한 없이 자유롭게 대화</strong>할 수 있어서, 무엇을 이야기할 수 있느냐는 면에서는 전화 학습과 크게 다르지 않습니다. 두 기능을 가르는 가장 큰 차이는 <strong>교정을 전달하는 방식</strong>이고, 그 밖에 대화를 이어가는 조작 방식과 화면 구성이 다릅니다.</p>
+
+<div style="background-color: #f0f9ff; border-left: 4px solid #1c49ff; padding: 16px 20px; margin: 20px 0; border-radius: 4px;">
+  <p style="margin: 0 0 10px 0; font-weight: bold; color: #1a202c;">💡 가장 큰 차이 — 교정을 글로 보느냐, 말로 듣느냐</p>
+  <p style="margin: 0; line-height: 1.7;"><strong>프리톡</strong>에서는 문장이 틀리면 화면 하단에 <strong>텍스트 피드백 알림</strong>이 올라와 눈으로 읽고 확인합니다. 반면 <strong>폰 스픽</strong>은 튜터가 <strong>무엇이 틀렸는지 목소리로 직접 설명</strong>해 주고, 바르게 고친 문장을 <strong>여러 번 따라 말하게</strong> 한 뒤 대화를 이어갑니다. 교정 내용을 읽고 넘어가는 것이 아니라 그 자리에서 입으로 반복하게 된다는 점이 핵심입니다.</p>
+</div>
 
 <table>
   <thead>
@@ -98,6 +103,11 @@ image: /content/images/phone-call.jpg
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>대화 중 교정</strong></td>
+      <td><strong>튜터가 말로 틀린 부분 설명 → 고친 문장을 여러 번 따라 말하기</strong></td>
+      <td>화면 하단에 텍스트 피드백 알림 표시</td>
+    </tr>
     <tr>
       <td>이용 멤버십</td>
       <td>프리미엄 플러스 전용</td>
@@ -129,14 +139,14 @@ image: /content/images/phone-call.jpg
       <td>내가 말한 내용이 실시간으로 텍스트로 변환 (비주얼 모드 기준)</td>
     </tr>
     <tr>
-      <td>교정</td>
-      <td>통화 중 교정 + 종료 후 문장별 피드백·추가 레슨</td>
-      <td>발화 후 자동 교정, 다시 시도 (비주얼 모드 기준)</td>
+      <td>교정 후 복습</td>
+      <td>종료 후 문장별 피드백, 피드백 기반 스피킹 레슨 자동 생성</td>
+      <td>다시 시도로 직전 발화부터 다시 답하기 (비주얼 모드 기준)</td>
     </tr>
   </tbody>
 </table>
 
-<p>정리하면 대화 자체는 두 기능 모두 자유롭게 할 수 있고, <strong>화면을 누르지 않고 통화하듯 대화를 이어가고 싶다면 전화 학습</strong>, <strong>캐릭터와 장면을 보면서 대화하거나 번역 표시를 함께 쓰고 싶다면 프리톡</strong>이 잘 맞습니다. 프리톡의 세부 기능은 <a href="/how-to-use/#toc-7" style="color: #1c49ff;">스픽 사용법 페이지</a>에서 확인하실 수 있습니다.</p>
+<p>정리하면 대화 자체는 두 기능 모두 자유롭게 할 수 있고, <strong>틀린 부분을 말로 설명 듣고 바로 입으로 반복하며 통화하듯 대화를 이어가고 싶다면 전화 학습</strong>, <strong>캐릭터와 장면을 보면서 대화하고 교정은 글로 확인하거나 번역 표시를 함께 쓰고 싶다면 프리톡</strong>이 잘 맞습니다. 프리톡의 세부 기능은 <a href="/how-to-use/#toc-7" style="color: #1c49ff;">스픽 사용법 페이지</a>에서 확인하실 수 있습니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
@@ -156,9 +166,11 @@ image: /content/images/phone-call.jpg
 
 <h2 id="toc-4" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">4. 통화 도중 받을 수 있는 도움</h2>
 
-<h3 style="margin-top: 30px;">✏️ 대화를 끊지 않는 교정</h3>
+<h3 style="margin-top: 30px;">🗣️ 튜터가 말로 설명해 주는 교정</h3>
 
-<p>문법이 틀리거나 어색한 표현을 쓰면 튜터가 지금 나누는 이야기의 맥락에 맞게 문장을 바로잡아 주고, 다듬어진 표현으로 한 번 더 말해 보도록 이끕니다. 머릿속으로 문장을 다 만든 뒤 입을 떼기보다, <strong>우선 말부터 꺼내 놓고 그 자리에서 고쳐 나가는 방식</strong>에 잘 어울립니다.</p>
+<p>문법이 틀리거나 어색한 표현을 쓰면, 튜터가 화면에 글자를 띄우는 대신 <strong>무엇이 잘못됐는지 목소리로 풀어서 설명</strong>합니다. 이어서 지금 나누는 이야기의 맥락에 맞게 고친 문장을 들려주고, 학습자가 그 문장을 <strong>여러 번 따라 말하도록</strong> 연습시킨 다음 대화를 다시 이어갑니다.</p>
+
+<p>교정 내용을 눈으로 읽고 넘기는 방식이 아니라 귀로 이유를 듣고 입으로 반복하게 되므로, 고친 표현이 말하는 습관으로 남기 쉽습니다. 머릿속으로 문장을 다 만든 뒤 입을 떼기보다, <strong>우선 말부터 꺼내 놓고 그 자리에서 고쳐 나가는 방식</strong>에 잘 어울립니다.</p>
 
 <h3 style="margin-top: 30px;">🇰🇷 막히면 한국어로 물어보기</h3>
 
@@ -292,7 +304,7 @@ image: /content/images/phone-call.jpg
 
 <h3 style="margin-top: 30px;">Q. 프리톡으로도 자유 대화가 되는데, 전화 학습을 따로 쓸 이유가 있나요?</h3>
 
-<p>대화 내용 면에서는 프리톡도 자유 대화가 가능해 큰 차이가 없습니다. 차이는 <strong>진행 방식</strong>에 있습니다. 프리톡은 말을 마칠 때마다 화면을 눌러 전송해야 하는 대신 비주얼 모드와 번역 표시를 쓸 수 있고, 전화 학습은 번역 표시가 없는 대신 버튼 조작 없이 통화하듯 대화가 계속 이어집니다. 튜터의 영어를 알아듣기 아직 부담스럽다면 번역을 켤 수 있는 프리톡이, 흐름을 끊지 않고 오래 말하는 연습을 하고 싶다면 전화 학습이 잘 맞습니다.</p>
+<p>대화 내용 면에서는 프리톡도 자유 대화가 가능해 큰 차이가 없습니다. 가장 큰 차이는 <strong>교정 방식</strong>입니다. 프리톡은 틀린 부분이 화면 하단에 텍스트 알림으로 표시되지만, 전화 학습은 튜터가 무엇이 틀렸는지 말로 설명하고 고친 문장을 여러 번 따라 말하게 합니다. 여기에 더해 프리톡은 말을 마칠 때마다 화면을 눌러 전송해야 하는 대신 비주얼 모드와 번역 표시를 쓸 수 있고, 전화 학습은 번역 표시가 없는 대신 버튼 조작 없이 통화하듯 대화가 계속 이어집니다. 튜터의 영어를 알아듣기 아직 부담스럽다면 번역을 켤 수 있는 프리톡이, 흐름을 끊지 않고 오래 말하는 연습을 하고 싶다면 전화 학습이 잘 맞습니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 

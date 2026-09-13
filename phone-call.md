@@ -21,6 +21,10 @@ image: /content/images/phone-call.jpg
 
 <div class="cta-buttons" id="cta-top">
 
+  <a href="{{ site.data.links.premium }}" title="스픽 프리미엄 할인코드 자동 적용 및 가입 페이지로 이동" class="cta-button" target="_blank" rel="sponsored noopener">
+    👉 스픽 프리미엄<br>할인코드 자동 적용하기
+  </a>
+
   <a href="{{ site.data.links.premium_plus }}" title="스픽 프리미엄 플러스 할인 혜택 적용 페이지로 이동" class="cta-button cta-button-plus" target="_blank" rel="sponsored noopener">
     👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기
   </a>
@@ -295,6 +299,10 @@ image: /content/images/phone-call.jpg
 <p>스픽 전화 학습은 통화하듯 손을 쓰지 않고 AI 튜터와 대화를 이어가며, 통화 중 교정과 종료 후 문장별 피드백·추가 레슨으로 복습까지 연결되는 프리미엄 플러스 전용 기능입니다. 월 15회·회당 10분이라는 한도와 기록이 오래 보관되지 않는 점만 염두에 두고 이용 요일과 복습 흐름을 정해 두면, 실전 회화 연습 도구로 충실하게 활용하실 수 있습니다. 프리미엄 플러스 결제 가격과 할인 적용 방법은 <a href="/discount/" style="color: #1c49ff;">스픽 할인코드 가격 가이드</a>에서 확인하실 수 있습니다.</p>
 
 <div class="cta-buttons" style="margin-top: 30px;">
+
+  <a href="{{ site.data.links.premium }}" title="스픽 프리미엄 할인코드 자동 적용 및 가입 페이지로 이동" class="cta-button" target="_blank" rel="sponsored noopener">
+    👉 스픽 프리미엄<br>할인코드 자동 적용하기
+  </a>
 
   <a href="{{ site.data.links.premium_plus }}" title="스픽 프리미엄 플러스 할인 혜택 적용 페이지로 이동" class="cta-button cta-button-plus" target="_blank" rel="sponsored noopener">
     👉 스픽 프리미엄 플러스<br>할인코드 자동 적용하기

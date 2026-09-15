@@ -11,10 +11,6 @@ brand_color: "#1C49FF"
 
 ---
 
-{% include_relative sections/02-pricing.md %}
-
----
-
 {% include_relative sections/03-learning-steps.md %}
 
 ---
@@ -23,11 +19,15 @@ brand_color: "#1C49FF"
 
 ---
 
-{% include_relative sections/05-faq.md %}
+{% include_relative sections/06-why-speak.md %}
 
 ---
 
-{% include_relative sections/06-why-speak.md %}
+{% include_relative sections/02-pricing.md %}
+
+---
+
+{% include_relative sections/05-faq.md %}
 
 ---
 

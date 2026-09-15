@@ -1,4 +1,4 @@
-<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">1. 스픽 할인코드 적용가 — 프리미엄 109,000원 · 플러스 229,000원</h2>
+<h2 id="toc-4" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">4. 스픽 할인코드 적용가 — 프리미엄 109,000원 · 플러스 229,000원</h2>
 
 <div style="background-color: #fff5f5; border-left: 4px solid #e53e3e; padding: 14px 18px; margin: 0 0 20px 0; border-radius: 4px;">
   <p style="margin: 0; line-height: 1.7;">🔥 <strong>지금 프로모션 진행 중 (2026년 9월 10일~9월 21일)</strong> — 프리미엄 플러스가 상시가보다 1만 원 더 할인된 <strong>7만 원 할인, 연 229,000원</strong>에 결제 가능합니다. 종료 후에는 상시 할인가 <strong>연 239,000원(6만 원 할인)</strong>으로 돌아갑니다.</p>
@@ -26,7 +26,7 @@
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
-<h2 id="toc-2" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">2. 스픽 할인코드 자동 적용 방법 단계별 가이드</h2>
+<h2 id="toc-5" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">5. 스픽 할인코드 자동 적용 방법 단계별 가이드</h2>
 
 <p>스픽 할인코드는 별도로 코드 번호를 입력하는 방식이 아닙니다. 본 페이지의 <strong>전용 링크</strong>로 접속하시면 가입 단계에서 할인이 자동으로 적용되는 구조입니다. 처음 이용하시는 분들을 위해 결제 완료까지의 흐름을 단계별로 정리해 드립니다.</p>
 
@@ -46,7 +46,7 @@
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
-<h2 id="toc-3" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">3. 스픽 할인 적용 안 될 때 체크리스트</h2>
+<h2 id="toc-6" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">6. 스픽 할인 적용 안 될 때 체크리스트</h2>
 
 <p>전용 링크로 접속했는데도 할인 혜택이 보이지 않거나 결제 단계에서 정가가 표시되는 경우가 가끔 있습니다. 대부분 아래 원인 중 하나에 해당하며, 체크리스트만 따라가시면 대부분 해결하실 수 있습니다.</p>
 

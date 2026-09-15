@@ -25,12 +25,12 @@ image: /content/images/premium-vs-plus.jpg
 <div class='toc-container' style="background-color: #f8faff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin: 30px 0;">
   <h2 class='toc-title' style="margin-top: 0; margin-bottom: 15px; font-size: 1.1rem; color: #1a202c; border: none; padding: 0;">📑 목차</h2>
   <ol style="line-height: 2.0; margin-bottom: 0; padding-left: 20px;">
-    <li><a href='#toc-1' style="color: #4a5568; text-decoration: none;">가격 차이의 실제 의미</a></li>
-    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">하루 평균 학습 시간 차이</a></li>
-    <li><a href='#toc-3' style="color: #4a5568; text-decoration: none;">두 멤버십이 공통으로 제공하는 기능</a></li>
-    <li><a href='#toc-4' style="color: #4a5568; text-decoration: none;">사용량 한도에서 갈리는 기능</a></li>
-    <li><a href='#toc-5' style="color: #4a5568; text-decoration: none;">프리미엄 플러스에만 제공되는 기능</a></li>
-    <li><a href='#toc-6' style="color: #4a5568; text-decoration: none;">전용 30일 습관 프로그램</a></li>
+    <li><a href='#toc-1' style="color: #4a5568; text-decoration: none;">두 멤버십이 공통으로 제공하는 기능</a></li>
+    <li><a href='#toc-2' style="color: #4a5568; text-decoration: none;">사용량 한도에서 갈리는 기능</a></li>
+    <li><a href='#toc-3' style="color: #4a5568; text-decoration: none;">프리미엄 플러스에만 제공되는 기능</a></li>
+    <li><a href='#toc-4' style="color: #4a5568; text-decoration: none;">전용 30일 습관 프로그램</a></li>
+    <li><a href='#toc-5' style="color: #4a5568; text-decoration: none;">하루 평균 학습 시간 차이</a></li>
+    <li><a href='#toc-6' style="color: #4a5568; text-decoration: none;">가격 차이의 실제 의미</a></li>
     <li><a href='#toc-7' style="color: #4a5568; text-decoration: none;">나에게 맞는 멤버십 결정 체크리스트</a></li>
     <li><a href='#toc-8' style="color: #4a5568; text-decoration: none;">자주 묻는 질문</a></li>
   </ol>
@@ -40,28 +40,7 @@ image: /content/images/premium-vs-plus.jpg
   <img src='/content/images/premium-vs-plus-compare.png' width='100%' alt='스픽 요금제 비교' title='스픽 프리미엄 및 프리미엄 플러스 요금제 혜택 상세 비교' style='display: block; margin: 0 auto; width: 100%; height: auto; max-width: 100%;'>
 </div>
 
-<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">1. 가격 차이의 실제 의미</h2>
-<p>두 멤버십의 가격 차이는 단순한 숫자 격차가 아니라 <strong>"하루 동안 영어로 얼마나 말할 수 있는지"</strong>의 차이로 이어집니다. 결제 부담만 비교하기보다 학습량 대비 비용으로 환산해 보면 선택 기준이 더 분명해집니다.</p>
-
-* **연 결제 차액 약 12만 원**: 최종 할인가 기준 프리미엄 109,000원, 프리미엄 플러스 229,000원으로 차액은 약 12만 원입니다. 365일로 나누면 하루 약 329원 차이로, 커피 한 잔의 절반에도 못 미치는 금액입니다.
-* **월 부담 차이는 약 1만 원**: 월 환산 시 프리미엄은 약 9,083원, 프리미엄 플러스는 약 19,083원입니다. 12개월 무이자 할부를 활용하시면 체감 격차는 더 줄어듭니다.
-* **AI 수업 구성도 다릅니다**: 단순히 "한도가 있는가, 무제한인가"의 차이뿐 아니라, 기본 AI 수업과 고급 AI 수업의 비중도 멤버십에 따라 다르게 구성됩니다. 가격 차이가 한도뿐 아니라 콘텐츠 구성 자체에도 반영되는 셈입니다.
-
-<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
-
-<h2 id="toc-2" style="padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 하루 평균 학습 시간 차이</h2>
-<p>스픽이 공개한 사용 데이터에 따르면, 두 멤버십 사용자의 <strong>하루 평균 학습 시간이 약 3배 차이</strong>가 납니다.</p>
-
-* **프리미엄 사용자: 하루 평균 약 10분**
-* **프리미엄 플러스 사용자: 하루 평균 약 30분**
-
-<p>같은 사람이라도 어떤 멤버십을 쓰느냐에 따라 학습 시간이 달라지는데, 이는 "더 학습할 의지가 있어서"라기보다 <strong>플러스의 무제한 환경이 자연스럽게 학습량을 끌어올리기</strong> 때문입니다. 프리미엄은 일일 한도에 다다르면 그날 학습이 자연스럽게 마무리되지만, 플러스는 시간만 있다면 계속 이어 갈 수 있는 구조이거든요.</p>
-
-<p>즉, 본인의 하루 가용 시간이 <strong>10분 안팎이라면 프리미엄</strong>으로 한도 안에서 충분히 활용 가능하고, <strong>20~30분 이상</strong>을 꾸준히 쓸 수 있다면 플러스의 무제한 환경이 빛을 발합니다.</p>
-
-<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
-
-<h2 id="toc-3" style="padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">3. 두 멤버십이 공통으로 제공하는 기능</h2>
+<h2 id="toc-1" style="padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">1. 두 멤버십이 공통으로 제공하는 기능</h2>
 <p>먼저 차이점부터 보기 전에, 두 플랜 모두에서 동일하게 쓸 수 있는 기능을 짚어 두는 것이 도움이 됩니다. 핵심 학습 도구의 대부분은 두 멤버십에서 동일하게 열려 있습니다.</p>
 
 * **스픽 정규 커리큘럼 전체**: 왕초보부터 고급까지 모든 레벨의 비디오 레슨과 코스 콘텐츠를 동일하게 이용할 수 있습니다.
@@ -74,7 +53,7 @@ image: /content/images/premium-vs-plus.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 
-<h2 id="toc-4" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">4. 사용량 한도에서 갈리는 기능</h2>
+<h2 id="toc-2" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">2. 사용량 한도에서 갈리는 기능</h2>
 <p>두 멤버십의 차이가 가장 두드러지는 영역은 "<strong>매일 얼마나 자주, 얼마나 많이 만들어 쓸 수 있는가</strong>"입니다. 같은 기능이라도 프리미엄은 하루 한도가 있는 반면, 프리미엄 플러스는 한도 없이 자유롭게 이용할 수 있습니다.</p>
 
 <h3>📝 맞춤 레슨 생성</h3>
@@ -93,19 +72,19 @@ image: /content/images/premium-vs-plus.jpg
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 
-<h2 id="toc-5" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">5. 프리미엄 플러스에만 제공되는 기능</h2>
+<h2 id="toc-3" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">3. 프리미엄 플러스에만 제공되는 기능</h2>
 <p>다음 기능들은 프리미엄에는 포함되지 않고, 프리미엄 플러스 회원만 이용할 수 있습니다. 단순히 "한도가 더 큰" 차원이 아니라 <strong>기능 자체가 추가</strong>되는 부분이라는 점에서 의미가 큽니다.</p>
 
 * **개인 맞춤 학습 계획**: 학습자의 목표와 진도에 맞춰 AI가 자동으로 학습 동선을 짜 주는 기능입니다. 매일 무엇을 어떤 순서로 학습할지 고민할 필요가 없습니다.
 * **자주 하는 실수에 기반한 수업**: 사용자가 평소 자주 틀리는 문법·표현·발음을 AI가 기억해 두었다가, 그 약점만 모아서 보강하는 별도 수업을 자동으로 생성합니다.
-* **30일 습관 완성 챌린지 참여권**: 가입 후 별도로 신청해야 하는 별도의 30일 챌린지가 함께 제공됩니다(아래 6번 섹션에서 자세히 설명).
+* **30일 습관 완성 챌린지 참여권**: 가입 후 별도로 신청해야 하는 별도의 30일 챌린지가 함께 제공됩니다(아래 4번 섹션에서 자세히 설명).
 * **전화 학습(앱 메뉴명 '폰 스픽')**: 연습 탭 상단에서 시작하며, 통화를 연결해 두고 버튼 조작 없이 AI 튜터와 영어로 대화를 이어가는 핸즈프리 스피킹 기능입니다. 통화 중에는 튜터가 틀린 부분을 말로 설명하고 고친 문장을 여러 번 따라 말하게 하며, 종료 후에는 문장별 피드백과 이를 바탕으로 자동 생성되는 스피킹 레슨이 제공됩니다. 월 15회·회당 최대 10분까지 이용할 수 있습니다. 자세한 사용 방식은 <a href="/phone-call/" style="color: #1c49ff;">스픽 전화 학습 안내</a>에서 확인하실 수 있습니다.
 
 <p>요컨대 프리미엄 플러스는 "더 많이 쓸 수 있는 플랜"인 동시에, "<strong>나를 분석해서 학습을 짜 주는 플랜</strong>"입니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 
-<h2 id="toc-6" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">6. 프리미엄 플러스 전용 30일 습관 프로그램</h2>
+<h2 id="toc-4" style="padding-top: 100px; margin-top: -80px; padding-bottom: 30px;">4. 프리미엄 플러스 전용 30일 습관 프로그램</h2>
 <p>플러스 회원에게는 영어 습관을 잡아주는 <strong>'30일 습관 완성 챌린지'</strong> 참여권이 제공됩니다.</p>
 
 <div class='step-media' style='margin: 40px 0;'>
@@ -117,6 +96,27 @@ image: /content/images/premium-vs-plus.jpg
 * **포함 내용**: 단어·문법·패턴 연습, 매일 아침 오늘의 수업 제공, 하루 세 번 영어 공부 알림이 함께 운영됩니다.
 * **유의사항**: 해외 번호로는 참여가 어렵습니다.
 * **습관 형성 효과**: 스픽 안내 자료에 따르면, 챌린지 참여자는 일반 수강생 대비 영어 스피킹 습관을 유지할 확률이 **2배 이상** 높다고 합니다.
+
+<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
+
+<h2 id="toc-5" style="padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">5. 하루 평균 학습 시간 차이</h2>
+<p>스픽이 공개한 사용 데이터에 따르면, 두 멤버십 사용자의 <strong>하루 평균 학습 시간이 약 3배 차이</strong>가 납니다.</p>
+
+* **프리미엄 사용자: 하루 평균 약 10분**
+* **프리미엄 플러스 사용자: 하루 평균 약 30분**
+
+<p>같은 사람이라도 어떤 멤버십을 쓰느냐에 따라 학습 시간이 달라지는데, 이는 "더 학습할 의지가 있어서"라기보다 <strong>플러스의 무제한 환경이 자연스럽게 학습량을 끌어올리기</strong> 때문입니다. 프리미엄은 일일 한도에 다다르면 그날 학습이 자연스럽게 마무리되지만, 플러스는 시간만 있다면 계속 이어 갈 수 있는 구조이거든요.</p>
+
+<p>즉, 본인의 하루 가용 시간이 <strong>10분 안팎이라면 프리미엄</strong>으로 한도 안에서 충분히 활용 가능하고, <strong>20~30분 이상</strong>을 꾸준히 쓸 수 있다면 플러스의 무제한 환경이 빛을 발합니다.</p>
+
+<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
+
+<h2 id="toc-6" style="padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">6. 가격 차이의 실제 의미</h2>
+<p>두 멤버십의 가격 차이는 단순한 숫자 격차가 아니라 <strong>"하루 동안 영어로 얼마나 말할 수 있는지"</strong>의 차이로 이어집니다. 결제 부담만 비교하기보다 학습량 대비 비용으로 환산해 보면 선택 기준이 더 분명해집니다.</p>
+
+* **연 결제 차액 약 12만 원**: 최종 할인가 기준 프리미엄 109,000원, 프리미엄 플러스 229,000원으로 차액은 약 12만 원입니다. 365일로 나누면 하루 약 329원 차이로, 커피 한 잔의 절반에도 못 미치는 금액입니다.
+* **월 부담 차이는 약 1만 원**: 월 환산 시 프리미엄은 약 9,083원, 프리미엄 플러스는 약 19,083원입니다. 12개월 무이자 할부를 활용하시면 체감 격차는 더 줄어듭니다.
+* **AI 수업 구성도 다릅니다**: 단순히 "한도가 있는가, 무제한인가"의 차이뿐 아니라, 기본 AI 수업과 고급 AI 수업의 비중도 멤버십에 따라 다르게 구성됩니다. 가격 차이가 한도뿐 아니라 콘텐츠 구성 자체에도 반영되는 셈입니다.
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">
 

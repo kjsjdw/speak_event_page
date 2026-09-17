@@ -162,6 +162,10 @@ image: /content/images/phone-call.jpg
 
 <p>외워 둔 문장을 읽는 레슨과 달리, 매 순간 머릿속 생각을 영어 문장으로 조립해 내뱉어야 해서 <strong>실전 회화 순발력</strong>을 기르는 데 무게가 실린 구성입니다.</p>
 
+<p><strong>🎧 폰 스픽 실제 통화 영상</strong></p>
+
+{% include youtube-lite.html id="LEDvLWqEG74" poster="/content/images/phone-speak-video.jpg" title="스픽 폰 스픽 실제 통화 영상" alt="카페 테이블 위 휴대폰에서 스픽 폰 스픽으로 AI 튜터와 통화 중인 화면" %}
+
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
 <h2 id="toc-4" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">4. 통화 도중 받을 수 있는 도움</h2>

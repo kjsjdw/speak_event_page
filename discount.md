@@ -78,13 +78,9 @@ image: /content/images/discount.jpg
 
 <p>친구추천 할인가로 결제하시면 월 <strong>1만원이 채 안 되는 부담</strong>으로 스픽 프리미엄을 이용하실 수 있습니다. 본 페이지 상단의 <strong>스픽 프리미엄 할인코드 자동 적용 링크</strong>가 바로 이 친구추천 링크입니다.</p>
 
-<h3 style="margin-top: 30px;">스픽 프리미엄 플러스 (지금은 프로모션 특가 229,000원)</h3>
+<h3 style="margin-top: 30px;">스픽 프리미엄 플러스 (연간 239,000원 · 프로모션 시 229,000원)</h3>
 
-<div style="background-color: #fff5f5; border-left: 4px solid #e53e3e; padding: 16px 20px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; line-height: 1.7;">🔥 <strong>지금 프로모션 진행 중 (2026년 9월 10일 ~ 9월 21일)</strong> — 이 기간에는 프리미엄 플러스 전용 링크로 결제하시면 상시가보다 1만원 더 할인된 <strong>7만원 할인, 연 229,000원</strong>에 결제하실 수 있습니다. 프로모션 종료 후에는 상시 할인가인 <strong>연 239,000원(6만원 할인)</strong>으로 돌아갑니다.</p>
-</div>
-
-<p>스픽 프리미엄 플러스는 본 페이지의 <strong>프리미엄 플러스 전용 링크</strong>로 접속하시면 평소에는 <strong>상시 6만원 할인이 적용되어 연 239,000원</strong>에 결제하실 수 있습니다. 지금처럼 시즌별로 <strong>7만원 할인 프로모션</strong>이 진행되기도 하며, 이 기간에는 <strong>연 229,000원</strong>에 결제 가능합니다.</p>
+<p>스픽 프리미엄 플러스는 본 페이지의 <strong>프리미엄 플러스 전용 링크</strong>로 접속하시면 <strong>상시 6만원 할인이 적용되어 연 239,000원</strong>에 결제하실 수 있습니다. 시즌별로 <strong>7만원 할인 프로모션</strong>이 진행되기도 하며, 이때는 <strong>연 229,000원</strong>에 결제 가능합니다.</p>
 
 <table>
   <thead>
@@ -96,19 +92,19 @@ image: /content/images/discount.jpg
   </thead>
   <tbody>
     <tr>
-      <td><strong>🔥 프로모션 할인 (7만원 ↓) — 9/10~9/21 진행 중</strong></td>
-      <td><strong>229,000원</strong></td>
-      <td><strong>월 약 19,083원</strong></td>
+      <td><strong>상시 할인 (6만원 ↓)</strong></td>
+      <td><strong>239,000원</strong></td>
+      <td><strong>월 약 19,917원</strong></td>
     </tr>
     <tr>
-      <td>상시 할인 (6만원 ↓) — 프로모션 종료 후 적용</td>
-      <td>239,000원</td>
-      <td>월 약 19,917원</td>
+      <td>프로모션 할인 (7만원 ↓)</td>
+      <td>229,000원</td>
+      <td>월 약 19,083원</td>
     </tr>
   </tbody>
 </table>
 
-<p>월 환산으로는 <strong>2만원 이하 수준</strong>이라, 구독형 OTT 하나 정도의 부담으로 프리미엄 플러스의 무제한 맞춤 레슨을 이용하실 수 있습니다. 프로모션 기간이라면 지금이 1년 중 가장 저렴하게 결제하실 수 있는 시점입니다.</p>
+<p>월 환산으로는 <strong>2만원 이하 수준</strong>이라, 구독형 OTT 하나 정도의 부담으로 프리미엄 플러스의 무제한 맞춤 레슨을 이용하실 수 있습니다.</p>
 
 <div style="background-color: #fffbea; border-left: 4px solid #f6ad55; padding: 16px 20px; margin: 30px 0; border-radius: 4px;">
   <p style="margin: 0 0 10px 0; font-weight: bold; color: #1a202c;">⚠️ 프리미엄을 구매하실 때 링크 선택 주의</p>
@@ -145,16 +141,16 @@ image: /content/images/discount.jpg
       <td>일 약 300원</td>
     </tr>
     <tr>
-      <td><strong>프리미엄 플러스 (🔥 프로모션 7만원 할인, 9/10~9/21)</strong></td>
-      <td><strong>229,000원</strong></td>
-      <td><strong>월 약 19,083원</strong></td>
-      <td><strong>일 약 628원</strong></td>
-    </tr>
-    <tr>
       <td>프리미엄 플러스 (상시 6만원 할인)</td>
       <td>239,000원</td>
       <td>월 약 19,917원</td>
       <td>일 약 655원</td>
+    </tr>
+    <tr>
+      <td>프리미엄 플러스 (프로모션 7만원 할인)</td>
+      <td>229,000원</td>
+      <td>월 약 19,083원</td>
+      <td>일 약 628원</td>
     </tr>
   </tbody>
 </table>
@@ -165,7 +161,7 @@ image: /content/images/discount.jpg
 
 <ul>
   <li><strong>카페 아메리카노</strong> 월 3~4잔 값 (프리미엄 월 9,083원)</li>
-  <li><strong>구독형 OTT</strong> 한 개 정도 이용료 (프리미엄 플러스 월 19,083원)</li>
+  <li><strong>구독형 OTT</strong> 한 개 정도 이용료 (프리미엄 플러스 월 19,917원)</li>
   <li>어학원·회화 학원 월 수강료(20~40만원대)와 비교하면 훨씬 낮은 편</li>
   <li>일반 회화 튜터 1회 세션 비용에도 못 미치는 월 부담</li>
 </ul>
@@ -217,7 +213,7 @@ image: /content/images/discount.jpg
 <ol>
   <li>PC나 모바일 <strong>브라우저</strong>에서 본 페이지 전용 링크로 접속</li>
   <li>결제 화면에서 <strong>할인가</strong>가 자동 반영되었는지 확인</li>
-  <li>표시 금액이 안내된 할인가(프리미엄 109,000원 · 플러스 229,000원)와 일치하는지 확인</li>
+  <li>표시 금액이 안내된 할인가(프리미엄 109,000원 · 플러스 239,000원)와 일치하는지 확인</li>
 </ol>
 
 <p>앱을 열어 구독·멤버십 화면으로 진입해 결제하시면 결제 자체는 가능하지만, 이 경우 할인 링크의 혜택은 반영되지 않으니 참고해주세요. 환불 절차도 결제 경로에 따라 처리 창구가 달라진다는 점도 함께 고려하시면 좋습니다.</p>
@@ -266,7 +262,7 @@ image: /content/images/discount.jpg
   <li>사용한 적 없는 새 이메일 주소 준비 (가족 이메일 별칭, 서브 이메일 등도 활용 가능)</li>
   <li>PC나 모바일 브라우저에서 본 페이지의 <strong>할인 링크로 접속</strong></li>
   <li>새 이메일로 스픽에 회원가입 후 결제 진행</li>
-  <li>결제 화면에서 할인가(프리미엄 109,000원·플러스 229,000원)가 자동 반영됐는지 확인</li>
+  <li>결제 화면에서 할인가(프리미엄 109,000원·플러스 239,000원)가 자동 반영됐는지 확인</li>
 </ol>
 
 <p>학습 이력은 계정 단위로 저장되므로, 이전 계정에 남은 진도·복습 이력은 새 계정으로 옮겨지지 않는다는 점은 참고해 두시는 편이 좋습니다.</p>
@@ -359,14 +355,14 @@ image: /content/images/discount.jpg
 
 <h3 style="margin-top: 30px;">Q. 프로모션 시즌은 언제인가요?</h3>
 
-<p><strong>2026년 9월 10일부터 9월 21일까지</strong> 프리미엄 플러스 7만원 할인 프로모션이 진행 중입니다. 이 기간에는 연 229,000원에 결제하실 수 있어요. 평소에는 정해진 주기로 열리는 프로모션이 있지 않아 특정 시점을 예측하기 어려운데, 지금처럼 진행 중일 때 결제하시면 1년 중 가장 저렴한 가격으로 이용하실 수 있습니다. 프로모션 기간이 아니라면 며칠 관망하시면서 결제 화면에 표시되는 금액이 어떻게 바뀌는지 확인해보시는 것도 방법입니다.</p>
+<p>정해진 주기로 열리는 프로모션이 있지 않아 특정 시점을 예측하기는 어렵습니다. 급하지 않은 결제라면 며칠 관망하시면서 결제 화면에 표시되는 금액이 어떻게 바뀌는지 확인해보시는 것도 방법입니다.</p>
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
 
 <p>스픽 할인코드는 별도 코드를 입력하지 않고 전용 링크만으로 자동 적용되는 방식이지만, <strong>실제 적용 금액과 대상 조건은 링크 종류·시점·이용 이력에 따라 달라질 수 있습니다.</strong> 결제 전에 결제 화면의 최종 금액을 확인하시고, 웹과 앱 두 경로를 나란히 비교해보시고, 카드 할부와 자동 갱신 조건까지 함께 챙기시면 예상과 다른 결제나 정산 부담을 크게 줄이실 수 있습니다.</p>
 
-<div style="background-color: #fff5f5; border-left: 4px solid #e53e3e; padding: 16px 20px; margin: 30px 0; border-radius: 4px;">
-  <p style="margin: 0; line-height: 1.7;">🔥 <strong>프로모션 진행 중</strong> — <strong>2026년 9월 10일~9월 21일</strong>, 프리미엄 플러스 <strong>7만원 할인(연 229,000원)</strong>이 적용되고 있습니다. 프로모션은 정해진 주기가 없어 다음 시점을 예측하기 어려우니, 플러스 결제를 고려 중이시라면 종료 전에 결제하시는 편을 권해드립니다. 프로모션이 새로 시작되는 것이 확인되는 대로 본 페이지에 바로 업데이트해 안내드릴게요.</p>
+<div style="background-color: #f0f9ff; border-left: 4px solid #1c49ff; padding: 16px 20px; margin: 30px 0; border-radius: 4px;">
+  <p style="margin: 0; line-height: 1.7;">📌 <strong>프로모션 안내</strong> — 프리미엄 플러스 <strong>7만원 할인 프로모션</strong>은 정해진 주기가 없어 사전에 시점을 예측하기 어렵습니다. 프로모션이 시작되는 것이 확인되는 대로 <strong>본 페이지에 바로 업데이트</strong>해 안내드릴 예정이니, 결제를 여유 있게 준비하고 계신다면 이 페이지를 즐겨찾기 해두시고 다시 방문해 확인해보시는 편이 좋습니다.</p>
 </div>
 
 <div class="cta-buttons" style="margin-top: 30px;">

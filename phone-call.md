@@ -83,6 +83,10 @@ image: /content/images/phone-call.jpg
   </tbody>
 </table>
 
+<p><strong>📱 폰 스픽 통화 화면 미리 보기 (1분)</strong></p>
+
+{% include youtube-lite.html id="btBnsjCd2S0" poster="/content/images/phone-speak-shorts.jpg" ratio="9 / 16" max_width="340px" title="스픽 폰 스픽 실제 통화 녹화 쇼츠" alt="스픽 폰 스픽으로 AI 튜터와 영어로 통화하는 앱 녹화 화면" caption="폰 스픽으로 AI 튜터와 실제로 통화한 화면을 녹화해 짧게 담았어요.<br>통화 전체 흐름은 아래 3번 섹션의 영상에서 볼 수 있어요." %}
+
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 
 <h2 id="toc-2" style="font-size: 1.4rem; font-weight: bold; padding-top: 100px; margin-top: -80px; padding-bottom: 20px;">2. 프리톡과 비교</h2>

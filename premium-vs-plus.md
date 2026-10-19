@@ -80,9 +80,9 @@ image: /content/images/premium-vs-plus.jpg
 * **30일 습관 완성 챌린지 참여권**: 가입 후 별도로 신청해야 하는 별도의 30일 챌린지가 함께 제공됩니다(아래 4번 섹션에서 자세히 설명).
 * **전화 학습(앱 메뉴명 '폰 스픽')**: 연습 탭 상단에서 시작하며, 통화를 연결해 두고 버튼 조작 없이 AI 튜터와 영어로 대화를 이어가는 핸즈프리 스피킹 기능입니다. 통화 중에는 튜터가 틀린 부분을 말로 설명하고 고친 문장을 여러 번 따라 말하게 하며, 종료 후에는 문장별 피드백과 이를 바탕으로 자동 생성되는 스피킹 레슨이 제공됩니다. 월 15회·회당 최대 10분까지 이용할 수 있습니다. 자세한 사용 방식은 <a href="/phone-call/" style="color: #1c49ff;">스픽 전화 학습 안내</a>에서 확인하실 수 있습니다.
 
-<p><strong>📱 폰 스픽 실제 사용 쇼츠 영상</strong></p>
+<p><strong>📱 폰 스픽 실제 통화 녹화 쇼츠</strong></p>
 
-{% include youtube-lite.html id="btBnsjCd2S0" poster="/content/images/phone-speak-shorts.jpg" ratio="9 / 16" max_width="340px" title="스픽 폰 스픽 실제 사용 쇼츠 영상" alt="스픽 폰 스픽 통화 화면에서 AI 튜터와 영어로 대화하는 모습" caption="프리미엄 플러스 전용 기능인 폰 스픽으로 AI 튜터와 실제로 통화하는 모습을 짧게 담았어요." %}
+{% include youtube-lite.html id="btBnsjCd2S0" poster="/content/images/phone-speak-shorts.jpg" ratio="9 / 16" max_width="340px" title="스픽 폰 스픽 실제 통화 녹화 쇼츠" alt="스픽 폰 스픽으로 AI 튜터와 영어로 통화하는 앱 녹화 화면" caption="프리미엄 플러스 전용 기능인 폰 스픽으로 AI 튜터와 실제로 통화한 화면을 녹화해 짧게 담았어요." %}
 
 <p>요컨대 프리미엄 플러스는 "더 많이 쓸 수 있는 플랜"인 동시에, "<strong>나를 분석해서 학습을 짜 주는 플랜</strong>"입니다.</p>
 
